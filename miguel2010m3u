@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="" group-title="futebol",mib
-http://cdn2.netcine.us/html/content/conteudolb4/filmes2019/HOMENSDEPRETO2019DUB-BAIXO.mp4?token=Y4Ylb-6YcJe7vYm4Yf45rg&expires=1566710214
+#EXTINF:0 tvg-logo="" group-title="filme",minha mae 3
+https://uol.azureedge.net/RCFServer4/ondemand/MNHMAEUMPC3.mp4?attachment=true
  
 #EXTINF:0 tvg-logo="" group-title="combate",combate
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/combatehd/video.m3u8
@@ -10,8 +10,8 @@ https://geraledge.eu-central-1.edge.mycdn.live/mylive/combatesd/2020/07/03/01/33
 #EXTINF:0 tvg-logo="" group-title="dragão chines",bruce
 https://hls.azureedge.net/d/RCFServer3/ondemand/ODRGOCHNS.mp4?expires=1593767847&token=8590d53474fcc87cb598bfd9a3b2970b
  
-#EXTINF:0 tvg-logo="" group-title="dragão chines",
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tntsd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="filme",divisao
+https://uol.azureedge.net/RCFServer4/ondemand/ADVSAO.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
 https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP01.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
