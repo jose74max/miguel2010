@@ -1,13 +1,13 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",FLA 2
-https://ul.cdn946.net:8443/hls/dfe3w6jce.m3u8?
- 
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",FLU
+https://stream.ec.cx/a/hls1/boborj.m3u8?
+ ?
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL,FLUMINENSE X FOGÃO
-https://ul.cdn946.net:8443/hls/akfmyi.m3u8?
+https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594010046&token=3571d1b049130a834864e2492dd8dd53
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FLA
-#EXTINF:0 tvg-logo="" group-title="dragão chines",brucehttps://geralorigin.eu-central-1.edge.mycdn.live/mylive/globoesporte1sd/video.m3u8
-https://hls.azureedge.net/d/RCFServer3/ondemand/ODRGOCHNS.mp4?expires=1593767847&token=8590d53474fcc87cb598bfd9a3b2970b
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globoesporte1sd/video.m3u8
+
  
 #EXTINF:0 tvg-logo="" group-title="filme",divisao
 https://uol.azureedge.net/RCFServer4/ondemand/ADVSAO.mp4?attachment=true
