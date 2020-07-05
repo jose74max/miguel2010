@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FLU
-https://ul.cdn946.net:8443/hls/akfmyi.m3u8?
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globorj_bc15c774_89afd69471ca7766c8f2ee99d5a4d6ab7904418f/playlist.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL,FLUMINENSE X FOGÃO
 https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=a0XAp3nUMGOGDT1HG521MA&e=1594003572
