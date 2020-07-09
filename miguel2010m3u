@@ -17,42 +17,39 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8
 https://uol.azureedge.net/RCFServer4/ondemand/ADVSAO.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP01.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
-
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP01.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 02
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP02.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP02.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 03
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP03.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP03.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 04
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP04.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
-
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP04.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 05
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP05.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP05.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 06
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP06.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP06.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 07
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP07.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP07.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 08
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP08.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP08.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 09
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP09.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
-
+hhttps://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP09.mp4?attachment=true
 
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 10
-https://hls.azureedge.net/d/RCServer14/ondemand/LGONJGOMSTDSPNTZT04EP10.mp4?expires=1593771097&token=1b4392422fecf70432fe89118daf43a8
+https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP10.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="globo", globo
 https://stream.ec.cx/hls1/boborj.m3u8?
