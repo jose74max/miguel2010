@@ -13,8 +13,8 @@ https://stream.ec.cx/a/hls1/boborj.m3u8?
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FLA
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8 
  
-#EXTINF:0 tvg-logo="" group-title="filme",divisao
-https://uol.azureedge.net/RCFServer4/ondemand/ADVSAO.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="filme",rambo
+https://redecanais.azureedge.net/RCFServer4/ondemand/RMBO1.mp4?attachment=true
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
 https://uol.azureedge.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT05EP01.mp4?attachment=true
