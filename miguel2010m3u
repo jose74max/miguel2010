@@ -9,9 +9,8 @@ https://abr-h.eu-central-1.edge.mycdn.live/live/mosamoico/mosamoico_500/playlist
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,combate3
 https://abr-h.eu-central-1.edge.mycdn.live/live/mosamoico/mosamoico_2000/playlist.m3u8
  
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",FLA
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8 
- 
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COMBATE 4
+https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594549200&token=c23cb0f17763a44db82fae9cf198e4fa
 #EXTINF:0 tvg-logo="" group-title="filme",rambo
 https://redecanais.azureedge.net/RCFServer4/ondemand/RMBO1.mp4?attachment=true
 
