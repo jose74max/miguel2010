@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",inter re
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_5d6be0cf587769f05b58868a2fbd905801a04163/playlist.m3u8
  
-#EXTINF:0 tvg-logo="" group-title="tnt
+#EXTINF:0 tvg-logo="" group-title="filme",tnt
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_4776ae2274125cb84f63ee8d642fa1caff7a2c89/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO 
