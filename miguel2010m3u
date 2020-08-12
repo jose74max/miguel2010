@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",inter 1
-https://lwglivzcp4.akamaized.net/live/canal_01/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",inter re
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_5d6be0cf587769f05b58868a2fbd905801a04163/playlist.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL,inter 2
 https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=GTH60fIqUc0MPmj9kThv5A&e=1597026057
