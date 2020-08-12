@@ -6,11 +6,11 @@ https://lwglivzcp4.akamaized.net/live/canal_01/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL,inter 2
 https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=GTH60fIqUc0MPmj9kThv5A&e=1597026057
 
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO FLU
-https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=OxD-YkjKYQc0My--4GrSkw&e=1597026295
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO 
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorj/video.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",grmio 3
-https://pop2.belugacdn.link/live/canal1/chunks.m3u8?nimblesessionid=21553
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",juventude
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO gremio 1
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
 
