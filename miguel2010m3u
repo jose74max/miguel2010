@@ -1,17 +1,17 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",inter re
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_5d6be0cf587769f05b58868a2fbd905801a04163/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",sportv
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_0d4ae88a2e6b1636ba648f2f50eb48c6e64fc62a/playlist.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="filme",tnt
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_4776ae2274125cb84f63ee8d642fa1caff7a2c89/playlist.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_1e1f7cefd8b0d53450011a987d9dbeef02d1d857/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,telecine
 https://rcstream.belugacdn.link/a/hls1/telecinepremium.m3u8?expires=1597234287&token=13322bf7b4fe268b1839fc337b850e27
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",juventude
 https://rcstream.belugacdn.link/a/hls1/telecinepremium.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO gremio 1
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,fox 
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_7653fcfe3bc5f78880ea58e925545bda64501ac5/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO gremio 2
 https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=RWuq7QteaYdxCEnh7sIrMQ&e=1597031317
