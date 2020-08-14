@@ -4,8 +4,7 @@
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_0d4ae88a2e6b1636ba648f2f50eb48c6e64fc62a/playlist.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="filme",tnt
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_1e1f7cefd8b0d53450011a987d9dbeef02d1d857/playlist.m3u8
-
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,telecine
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",juventude
