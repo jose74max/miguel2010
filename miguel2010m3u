@@ -5,10 +5,10 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_0d4ae88a2e6b
  
 #EXTINF:0 tvg-logo="" group-title="filme",tnt
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,telecine
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",juventude
-https://rcstream.belugacdn.link/a/hls1/telecinepremium.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,combate
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_f16d35a7903edb355f98600056153b25ee58a7d3/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",combate 2
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/combatesd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,fox 
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_7653fcfe3bc5f78880ea58e925545bda64501ac5/playlist.m3u8
 
