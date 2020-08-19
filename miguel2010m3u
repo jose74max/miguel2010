@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",sportv2
 https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=bomMTSADI0UT4aZ8jivLmg&e=1597565610
  
-#EXTINF:0 tvg-logo="" group-title="filme",tnt
+#EXTINF:0 tvg-logo="" group-title="FILME",tnt
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,combate
 https://rcstream.belugacdn.link/a/hls1/combate.m3u8?expires=1597575286&token=29e23ebfb6d1377d273d3f3c53593971
@@ -17,7 +17,7 @@ https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=RWuq7QteaYdxCEnh7sIrMQ&e=1597031317
 
 
 
-#EXTINF:0 tvg-logo="" group-title="filme",bilionarios
+#EXTINF:0 tvg-logo="" group-title="FILME",bilionarios
 https://d3hcyf98g4mn0i.cloudfront.net/e/RCFServer5/ondemand/MGNTDCRME.mp4?attachment=trueue
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
@@ -70,7 +70,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/multishowhd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILME", espelho
 https://d3tfgi4hjvb1za.cloudfront.net/RCFServer5/ondemand/OESPLHO.mp4?attachment=true
 
-#EXTINF:0 tvg-logo="" group-title="FILME", RAMBO 
-https://telisvod.global.ssl.fastly.net/RCFServer4/ondemand/RMBO2.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="FILME", DIVALDO
+https://osiolistic.azureedge.net/RCFServer5/ondemand/DVLDOMSGRODPZ.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="FILME", SCOOBY
 https://d3tfgi4hjvb1za.cloudfront.net/RCFServer5/ondemand/SCBYOFLME.mp4?attachment=true
