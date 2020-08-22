@@ -4,7 +4,7 @@
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-720p.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="FILME",tnt
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
+https://ul.cdn946.net:8443/hls/jg3eg8t.m3u8?s=Vgd-YrRhGIGx4TpqK9T2gg&e=1598153596
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,combate
 https://rcstream.belugacdn.link/a/hls1/combate.m3u8?expires=1597575286&token=29e23ebfb6d1377d273d3f3c53593971
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",combate 2
