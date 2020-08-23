@@ -17,9 +17,8 @@ https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=RWuq7QteaYdxCEnh7sIrMQ&e=1597031317
 
 
 
-#EXTINF:0 tvg-logo="" group-title="FILME",bilionarios
-https://d3hcyf98g4mn0i.cloudfront.net/e/RCFServer5/ondemand/MGNTDCRME.mp4?attachment=trueue
-
+#EXTINF:0 tvg-logo="" group-title="FILME",ROTA DO TRAFICO
+https://osiolistic.azureedge.net/RCFServer5/ondemand/NARTADTRFCO.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
 https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP01.mp4?attachment=true
 
