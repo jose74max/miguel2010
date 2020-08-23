@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",BAYER
-https://vava10.fute001.xyz/hls/canal1/index.m3u8
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-720p.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="FILME",tnt
 https://vava3.fute001.xyz/live/canal1/chunks.m3u8?nimblesessionid=596
