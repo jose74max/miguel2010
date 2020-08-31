@@ -17,8 +17,8 @@ https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=RWuq7QteaYdxCEnh7sIrMQ&e=1597031317
 
 
 
-#EXTINF:0 tvg-logo="" group-title="FILME",GUARDIOES DA GALAXIA
-https://playplus.azureedge.net/RCFServer2/ondemand/GRDOESDGLXIA.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="FILME",GUARDIOES DA GALAXIA 2
+https://playplus.azureedge.net/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
 https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP01.mp4?attachment=true
 
