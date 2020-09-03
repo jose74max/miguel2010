@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",BAYER
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",SPORT HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="FILME",GUERRA INFINITA
 https://playplus.azureedge.net/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4?attachment=true
@@ -9,12 +9,11 @@ https://playplus.azureedge.net/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4?attachment
 https://hls.live.fc2.com/hls/43798014/20/playlist?session_token=63e678f4823738536c56732867bd80b003ca4ed1708a186f2e075b2ec060445f&playlist_token=7e5e44673a8bee7793f2a008d76dd40ba647f26700bd03f24f1164330bff6456
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",combate 2
 https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=_faGNlOk-JHtiQE5F1-uxA&e=1597566842
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,fox 
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_7653fcfe3bc5f78880ea58e925545bda64501ac5/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO SD2
+https://ul.cdn946.net:8443/hls/e9rbqeiv.m3u8?s=Q42EVvC9i9MbEBQ3kFxmuA&e=1599191425
 
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,GLOBO gremio 2
-https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=RWuq7QteaYdxCEnh7sIrMQ&e=1597031317
-
+#EXTINF:0 tvg-logo="" group-title="FUTEbol, gremio SD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="FILME",GUARDIOES DA GALAXIA 2
