@@ -2,8 +2,8 @@
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",GALO1
 https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=HGfgXqfDkYP8cLzpcAyQSg&e=1599199449
-#EXTINF:0 tvg-logo="" group-title="FILME",GUERRA INFINITA
-https://playplus.azureedge.net/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="FILME",ULTIMATO
+https://playplus.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,combate
 https://hls.live.fc2.com/hls/43798014/20/playlist?session_token=63e678f4823738536c56732867bd80b003ca4ed1708a186f2e075b2ec060445f&playlist_token=7e5e44673a8bee7793f2a008d76dd40ba647f26700bd03f24f1164330bff6456
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",combate 2
