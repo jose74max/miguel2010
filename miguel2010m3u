@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",GALO1
-https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=HGfgXqfDkYP8cLzpcAyQSg&e=1599199449
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COR X BOT
+https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=6S83jIS1ZAnaIjevgjpK4A&e=1599364484
 #EXTINF:0 tvg-logo="" group-title="FILME",ULTIMATO
 https://playplus.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,combate
