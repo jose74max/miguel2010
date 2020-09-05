@@ -11,9 +11,8 @@ https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=_faGNlOk-JHtiQE5F1-uxA&e=1597566842
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GALO 2
 https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=ark1Fjvwd7HIvLG-qZGhvg&e=1599199643
 
-#EXTINF:0 tvg-logo="" group-title="FUTEbol, gremio SD
-https://ul.cdn946.net:8443/hls/e9rbqeiv.m3u8?s=lT99FfVcmNb1Tbp2QQPmTQ&e=1599193953
-
+#EXTINF:0 tvg-logo="" group-title="FUTEbol, FUTMAX
+https://ul.cdn946.net:8443/hls/e9rbqeiv.m3u8?s=ehG_MaFU8_n3xuxesQliFQ&e=1599364711
 
 #EXTINF:0 tvg-logo="" group-title="FILME",GUARDIOES DA GALAXIA 2
 https://playplus.azureedge.net/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4?attachment=true
