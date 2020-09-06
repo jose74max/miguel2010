@@ -2,8 +2,8 @@
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",COR X BOT
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-720p.m3u8
-#EXTINF:0 tvg-logo="" group-title="FILME",ULTIMATO
-https://playplus.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="FILME",ROUGUE
+https://playplus.azureedge.net/RCFServer5/ondemand/RGUE.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,CEARA FUTMAX
 https://ul.cdn946.net:8443/hls/jg3eg8t.m3u8?s=LhODW58JSj7idePniutqgQ&e=1599372414
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",combate 2
