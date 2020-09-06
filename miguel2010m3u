@@ -1,15 +1,15 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COR X BOT
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",GREMIO ANDROID
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOSPTHD)/stream_3/Segment-3004899603580000.m4v
 #EXTINF:0 tvg-logo="" group-title="FILME",ROUGUE
 https://playplus.azureedge.net/RCFServer5/ondemand/RGUE.mp4?attachment=true
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,CEARA FUTMAX
-https://ul.cdn946.net:8443/hls/jg3eg8t.m3u8?s=LhODW58JSj7idePniutqgQ&e=1599372414
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO HD FUTMAX
+https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=WeVt2adyejwBS0PdUAjY4w&e=1599449329
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",combate 2
 https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=_faGNlOk-JHtiQE5F1-uxA&e=1597566842
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,GALO 2
-https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=ark1Fjvwd7HIvLG-qZGhvg&e=1599199643
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO 2 2
+https://extedge.eu-central-1.edge.mycdn.live/mylive/sportvsd/2020/09/06/21/30/25-05000.ts
 
 #EXTINF:0 tvg-logo="" group-title="FUTEbol, CEARA AO VIVO
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_91f5d6c8c00559bc5bfe3bece04676ccca31246d/playlist.m3u8
