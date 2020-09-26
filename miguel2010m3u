@@ -2,8 +2,8 @@
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",GREMIO ANDROID
 https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOSPTHD)/stream_3/Segment-3004899603580000.m4v
-#EXTINF:0 tvg-logo="" group-title="FILME",ROUGUE
-https://playplus.azureedge.net/RCFServer5/ondemand/RGUE.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="FILME",PELE
+https://distrito1.azureedge.net/RCFServer4/ondemand/PELONSCMENTDUMLND.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO HD FUTMAX
 https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=WeVt2adyejwBS0PdUAjY4w&e=1599449329
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",combate 2
