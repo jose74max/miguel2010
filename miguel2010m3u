@@ -2,8 +2,8 @@
  
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",GREMIO ANDROID
 https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOSPTHD)/stream_3/Segment-3004899603580000.m4v
-#EXTINF:0 tvg-logo="" group-title="FILME",PELE
-https://distrito1.azureedge.net/RCFServer4/ondemand/PELONSCMENTDUMLND.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="FILME",NIMFO
+https://cdn.netcine.info/html/content/conteudolb4/filmes2020/HOOKINGUPDUB-BAIXO.mp4?token=xcHrh7mRN907cRCcKtcaLw&expires=1601257848&ip=2804:7f4:fb80:9a33:681c:5153:9a90:7153
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO HD FUTMAX
 https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=WeVt2adyejwBS0PdUAjY4w&e=1599449329
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",combate 2
@@ -13,8 +13,8 @@ https://extedge.eu-central-1.edge.mycdn.live/mylive/sportvsd/2020/09/06/21/30/25
 
 #EXTINF:0 tvg-logo="" group-title="FUTEbol, CEARA AO VIVO
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_91f5d6c8c00559bc5bfe3bece04676ccca31246d/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="FILME",jovens titans
-https://playplus.azureedge.net/RCFServer1/ondemand/JVNSTNSEMACOVSJVNSTAS.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="FILME",MULAN
+https://distrito1.azureedge.net/RCFServer5/ondemand/MULAN.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
 https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP01.mp4?attachment=true
 
