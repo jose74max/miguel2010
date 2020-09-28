@@ -1,7 +1,7 @@
 #EXTM3U
  
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",GREMIO ANDROID
-https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOSPTHD)/stream_3/Segment-3004899603580000.m4v
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",FAZENDA
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_240.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILME",NIMFO
 https://cdn.netcine.info/html/content/conteudolb4/filmes2020/HOOKINGUPDUB-BAIXO.mp4?token=xcHrh7mRN907cRCcKtcaLw&expires=1601257848&ip=2804:7f4:fb80:9a33:681c:5153:9a90:7153
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO HD FUTMAX
