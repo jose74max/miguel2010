@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FAZENDA
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_240.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILME",NIMFO
-https://cdn.netcine.info/html/content/conteudolb4/filmes2020/HOOKINGUPDUB-BAIXO.mp4?token=xcHrh7mRN907cRCcKtcaLw&expires=1601257848&ip=2804:7f4:fb80:9a33:681c:5153:9a90:7153
+https://df0azc974yzf.cloudfront.net/RCFServer1/ondemand/EDWRDMSDTSR.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,inter
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_c4d6c765f6bb510864877ca1271d8d093208a882/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",MULAN NET CINE
