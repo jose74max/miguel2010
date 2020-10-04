@@ -4,12 +4,12 @@
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_240.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILME",NIMFO
 https://df0azc974yzf.cloudfront.net/RCFServer1/ondemand/EDWRDMSDTSR.mp4?attachment=true
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,inter
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_c4d6c765f6bb510864877ca1271d8d093208a882/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,premier
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",MULAN NET CINE
 https://cdn.netcine.info/html/content/conteudolb4/filmes2020/2020MULANDUB-BAIXO.mp4?token=2LBMKEXY1A3MQ7X19VAv4A&expires=1601376629&ip=2804:7f4:fb80:9a33:8dca:19b:44ee:21b1
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,GREMIO 
-https://ustvnowmsl.akamaized.net/hls/live/2004009/pfcimsl1/pfcimsl1/pfci_400/chunklist.m3u8?hdntl=exp=1601836058~acl=!*/*!/payload/yupptvott_5_26110_ebeb1504-5d57-5c67-cd48-57dc4c562443_US_185.33.84.117_teleupbrazil_2_channel_3_-1/*~data=hdntl~hmac=fb331cf26db860cd7bbbc0624531a68aa30e80bda4ba6b6ccba73b25862226c7
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,premier 2
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/premiereclubes_3f1522d0_44811c26e80fe6fdd9c74ff6dd406a47b2ed6c53/playlist.m3u8
 
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_91f5d6c8c00559bc5bfe3bece04676ccca31246d/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILME",MULAN
