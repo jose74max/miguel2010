@@ -6,8 +6,8 @@ https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_240.m3u8
 https://df0azc974yzf.cloudfront.net/RCFServer1/ondemand/EDWRDMSDTSR.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,premier
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",MULAN NET CINE
-https://cdn.netcine.info/html/content/conteudolb4/filmes2020/2020MULANDUB-BAIXO.mp4?token=2LBMKEXY1A3MQ7X19VAv4A&expires=1601376629&ip=2804:7f4:fb80:9a33:8dca:19b:44ee:21b1
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",palmeiras
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/premiere4_142e9ae3_1055ef987ebcc9ea1fcd30497112864b90adb9f8/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,premier 2
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/premiereclubes_3f1522d0_44811c26e80fe6fdd9c74ff6dd406a47b2ed6c53/playlist.m3u8
 
