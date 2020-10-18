@@ -4,10 +4,10 @@
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_240.m3u8
 #EXTINF:0 tvg-logo="" group-title="FILME",NIMFO
 https://df0azc974yzf.cloudfront.net/RCFServer1/ondemand/EDWRDMSDTSR.mp4?attachment=true
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,premier
-https://ustvnowmsl.akamaized.net/hls/live/2004009/pfcimsl1/pfcimsl1/pfci_400/chunklist.m3u8?hdntl=exp=1603144298~acl=!*/*!/payload/yupptvott_5_26110_ebeb1504-5d57-5c67-cd48-57dc4c562443_US_185.33.84.117_teleupbrazil_2_channel_3_-1/*~data=hdntl~hmac=deb5094fa5998be8f1b511a8416af508aa4c4f26ded6584f303a9ce81a382a2c
+
+
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",palmeiras
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/premiere4_142e9ae3_1055ef987ebcc9ea1fcd30497112864b90adb9f8/playlist.m3u8
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,premier 2
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/premiereclubes_3f1522d0_44811c26e80fe6fdd9c74ff6dd406a47b2ed6c53/playlist.m3u8
 
