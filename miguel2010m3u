@@ -12,8 +12,8 @@ https://cdn1.brstream.in/hls/canal1.m3u8
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/premiereclubes_3f1522d0_44811c26e80fe6fdd9c74ff6dd406a47b2ed6c53/playlist.m3u8
 
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_91f5d6c8c00559bc5bfe3bece04676ccca31246d/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="FILME", A MULA
-https://d3msohyhy1sovs.cloudfront.net/RCFServer2/ondemand/AMLA.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="FILME", DORA
+https://d3msohyhy1sovs.cloudfront.net/RCFServer3/ondemand/DRAEACDEPRDA.mp4?attachment=true
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
 https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP01.mp4?attachment=true
 
