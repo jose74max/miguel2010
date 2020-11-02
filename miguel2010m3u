@@ -7,7 +7,7 @@ https://ok.ru/video/361797913308
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FAZENDA3
 https://streaming.belugacdn.link/a/hls1/afazenda.m3u8?
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",SPORTV
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_9df3db542b10eb05d73eba80734b34c09ef1e266/playlist.m3u8
+https://ustvnowmsl2.akamaized.net/hls/live/2004009/pfcimsl1/pfcimsl1/pfci_2000/chunklist.m3u8?hdntl=exp=1604436267~acl=!*/*!/payload/yupptvott_5_26110_ebeb1504-5d57-5c67-cd48-57dc4c562443_RO_185.104.183.174_teleupbrazil_2_channel_3_-1/*~data=hdntl~hmac=7e527626cabc410cdfcff8e9cab15099bea640f5409d9037c4763f4361688f20
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,premier 2
 https://ustvnowmsl2.akamaized.net/hls/live/2004009/pfcimsl1/pfcimsl1/pfci_400/chunklist.m3u8
 
