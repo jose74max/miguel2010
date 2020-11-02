@@ -6,9 +6,9 @@
 https://ok.ru/video/361797913308
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FAZENDA3
 https://streaming.belugacdn.link/a/hls1/afazenda.m3u8?
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",SPORTV
-https://ustvnowmsl2.akamaized.net/hls/live/2004009/pfcimsl1/pfcimsl1/pfci_2000/chunklist.m3u8?hdntl=exp=1604436267~acl=!*/*!/payload/yupptvott_5_26110_ebeb1504-5d57-5c67-cd48-57dc4c562443_RO_185.104.183.174_teleupbrazil_2_channel_3_-1/*~data=hdntl~hmac=7e527626cabc410cdfcff8e9cab15099bea640f5409d9037c4763f4361688f20
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,premier 2
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",PAL
+https://ustvnowmsl2.akamaized.net/hls/live/2004009/pfcimsl1/pfcimsl1/pfci_2000/chunklist.m3u8?
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,ATLE
 https://ustvnowmsl2.akamaized.net/hls/live/2004009/pfcimsl1/pfcimsl1/pfci_2000/chunklist.m3u8?hdntl=exp=1604436267~acl=!*/*!/payload/yupptvott_5_26110_ebeb1504-5d57-5c67-cd48-57dc4c562443_RO_185.104.183.174_teleupbrazil_2_channel_3_-1/*~data=hdntl~hmac=7e527626cabc410cdfcff8e9cab15099bea640f5409d9037c4763f4361688f20
 
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_91f5d6c8c00559bc5bfe3bece04676ccca31246d/playlist.m3u8
