@@ -9,11 +9,7 @@ https://ul.cdn946.net:8443/hls/e9rbqeiv.m3u8?
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",PAL
 https://ul.cdn946.net:8443/hls/e9rbqeiv.m3u8?s=ERpEn9_MGpe5hF6SiV_Rbw&e=1604371803
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,ATLE
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8
-
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_91f5d6c8c00559bc5bfe3bece04676ccca31246d/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="FILME", DORA
-https://ok.ru/video/361797913308?fromTime=1432
+https://ustvnowmsl2.akamaized.net/hls/live/2004009/pfcimsl1/pfcimsl1/pfci_2000/chunklist.m3u8?hdntl=exp=1604437078~acl=!*/*!/payload/yupptvott_5_26110_ebeb1504-5d57-5c67-cd48-57dc4c562443_RO_185.ntl~hmac=bf89367421b7757de51b95f3597848d902f13787e4cc7a0d99395fa4e8c9f02c
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
 https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP01.mp4?attachment=true
 
