@@ -4,8 +4,8 @@
 
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",BRASIL
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",GRE
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",BRASIL
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",PAL
 https://ul.cdn946.net:8443/hls/e9rbqeiv.m3u8?s=ERpEn9_MGpe5hF6SiV_Rbw&e=1604371803
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GREX BRA
