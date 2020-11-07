@@ -2,8 +2,8 @@
  
 
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",BRASIL
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",BRASILX CUIABA
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/premiere2_f5b68d74_1c4553852b286b15736fa081566eff4bb34e327c/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",BRASIL
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",PAL
