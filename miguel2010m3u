@@ -2,10 +2,10 @@
  
 
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",BRASILX ATLETICO
-https://ul.cdn946.net:8443/hls/irdb59sdaufdqpx.m3u8?s=7iQG79oex0m8dG5O_DKBpA&e=1604804556
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",FORTALEZA
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COMBATE 1
+https://live.esporteflix.com/COMBATE/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COMBATE 2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_1000/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FORTALEZA
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-480p.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GREX BRA
