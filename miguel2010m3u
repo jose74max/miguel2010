@@ -4,8 +4,8 @@
 
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",COMBATE 1
 https://live.esporteflix.com/COMBATE/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COMBATE 2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_1000/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COMBATE 
+https://live.netcanais.com/COMBATESD/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FORTALEZA
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-480p.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GREX BRA
