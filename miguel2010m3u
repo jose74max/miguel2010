@@ -2,14 +2,14 @@
  
 
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COMBATE 1
-https://live.esporteflix.com/COMBATE/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",COMBATE 
-https://live.netcanais.com/COMBATESD/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL"SANTOS
+https://live.multicanais.tv/FOXSPORTSSD/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",SANTOS 2
+https://live.esporteflix.com/FOXSPORTS/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",FORTALEZA
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/45/playlist-480p.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEbol,GREX BRA
-https://ul.cdn946.net:8443/hls/akfmyi.m3u8?s=hOhE7DBpD2tQI-cuB7lXjQ&e=1604379243
+#EXTINF:0 tvg-logo="" group-title="FUTEbol,GREXSANTOSSS HD
+https://live.netcanais.com/FOXSPORTSHD/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
 https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP01.mp4?attachment=true
 
