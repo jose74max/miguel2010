@@ -10,8 +10,8 @@ https://live.esporteflix.com/FOXSPORTS/video.m3u8
 https://live.futebolfree.com/FOXSPORTSSD/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol,GREXSANTOSSS HD
 https://live.netcanais.com/FOXSPORTSHD/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="dragão chines",ninja 01
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP01.mp4?attachment=true
+#EXTINF:0 tvg-logo="" group-title="dragão chines",ENTRE ARMAS E BRINQUEDO
+https://cdn.netcine.biz/html/content/conteudolb4/filmes2020/ENTREARMASEBRINQUEDOSDUB-BAIXO.mp4?token=F5VL3Q4tzUKnJRnpZl12cw&expires=1608198961&ip=2804:7f4:fb80:9534:6863:f197:3de2:e922
 
 #EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 02
 https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP02.mp4?attachment=true
