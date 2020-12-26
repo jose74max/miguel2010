@@ -2,8 +2,8 @@
  
 
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",SANTOS
-https://live.multicanais.tv/FOXSPORTSSD/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",atletico
+https://live.netcanais.com/PREMIERE2SD/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",SANTOS 2
 https://live.esporteflix.com/FOXSPORTS/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",SANT X GRE
