@@ -2,10 +2,10 @@
  
 
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",atletico
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiereclubes_3f1522d0_1e54d2d64fc5048674f55be866a6b97b832b8be0/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDo3ZjQ6ZmI4MDozZTY5Ojg4Yjg6ODU4MDo4OGRiOjI2ODgiO2k6MTtzOjExNDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg3LjAuNDI4MC44OCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjA5MDEyODMwO30%3D
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",SANTOS 
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc02sd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",fla
+https://live.multicanais.org/PREMIERECLUBESSD/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",fortleza
+https://live.tvfolha.com/PREMIERECLUBESALTSD/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",goias
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc02sd/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEbol, ame
