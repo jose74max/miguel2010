@@ -2,8 +2,8 @@
  
 
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",spotx fla
-https://mg79qkb28x4up6a.ezcdn462.net:8443/hls/7h89a9ca8g9mg.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL",gremio
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_350/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",clubes
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL",BANANA
