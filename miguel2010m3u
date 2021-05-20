@@ -5,10 +5,10 @@
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL", walls
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",Conmebol TV
-http://50.7.34.90:8090/live/CONMEBOL_TV1_HD?PEDROJUNIORTUTORIAIS
+http://50.7.34.90:8090/live/CONMEBOL_TV1_HD?
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",Conmebol TV 2
-http://50.7.34.90:8090/live/CONMEBOL_TV2_HD?PEDROJUNIORTUTORIAIS
+http://50.7.34.90:8090/live/CONMEBOL_TV2_HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
