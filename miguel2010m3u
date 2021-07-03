@@ -2,10 +2,10 @@
  
 
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL", walls
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",Conmebol TV
-http://50.7.34.90:8090/live/CONMEBOL_TV1_HD?
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL", BRASIL X CRUZEIRO
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc03sd/video.m3u8?md5=-2O-7CladTr2jsUT9LvB7g&expires=1625381533
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",BR PELOTAS
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc03sd/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",Conmebol TV 2
 http://50.7.34.90:8090/live/CONMEBOL_TV2_HD
