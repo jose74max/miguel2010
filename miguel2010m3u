@@ -8,8 +8,8 @@ https://cdn.esporteone.com/TNTSD/video.m3u8?md5=UoZ_qEX5nIyVm7GfkNtKAQ&expires=1
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL", JU
 https://cdn.esporteone.com/TNTSD/video.m3u8?
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",PELOTAS
-http://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc03sd/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",PE
+https://demo.cdn.tv.br/media/n/BZfJAdiZ/a/BZfJAdiZ/360p/chunks.m3u8?ch=BZfJAdiZ&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MjU0MzY2OTksImV4cCI6MTYyNTQ0NjY5OX0.AOfFmG1WBOF8vQGxS1cXYzwOqkXZASKaN3KiDyo0sNk
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
