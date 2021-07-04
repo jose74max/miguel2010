@@ -3,9 +3,10 @@
 
 
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL", BRASIL X CRUZEIRO G
-http://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc03sd/video.m3u8?md5=-2O-7CladTr2jsUT9LvB7g&expires=1625381533
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL", JU
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8?md5=t564b58U3DHXp4D6ZMhAWA&expires=1625467093
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",PELOTAS
 http://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc03sd/video.m3u8
