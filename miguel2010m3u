@@ -2,11 +2,11 @@
  
 
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL", BRASIL
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="FUTEBOL", CEARA
+https://cdn.esporteone.com/TNTSD/video.m3u8?md5=UoZ_qEX5nIyVm7GfkNtKAQ&expires=1625440072
 
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL", JU
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8?
+https://cdn.esporteone.com/TNTSD/video.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",PELOTAS
 http://geralorigin.eu-central-1.edge.mycdn.live/mylive/livefc03sd/video.m3u8
