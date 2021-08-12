@@ -5,77 +5,47 @@
 #EXTINF:0 tvg-logo="" group-title="FUTEBOL", CEARA
 https://cdn.esporteone.com/TNTSD/video.m3u8?md5=UoZ_qEX5nIyVm7GfkNtKAQ&expires=1625440072
 
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL", JU
-https://cdn.esporteone.com/TNTSD/video.m3u8?
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes",PE
-https://demo.cdn.tv.br/media/n/BZfJAdiZ/a/BZfJAdiZ/360p/chunks.m3u8?ch=BZfJAdiZ&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZWZhdWx0IzE1NzYwODMyNTgiLCJpYXQiOjE2MjU0MzY2OTksImV4cCI6MTYyNTQ0NjY5OX0.AOfFmG1WBOF8vQGxS1cXYzwOqkXZASKaN3KiDyo0sNk
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",clubes
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",sportv
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",sportv 4
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u
-
-
-#EXTINF:0 tvg-logo="" group-title="FUTEBOL",BANANA
-https://www1929.ff-04.com/token=1ELIluL_YfOXiXPldMalcA/1615482115/2804:7f4::/47/b/f5/591a343dfff135532bd47b97cce5ef5b-480p.mp4
-#EXTINF:0 tvg-logo="" group-title="FUTEbol, pinoquio
-https://d39vxxa7u4ltyo.cloudfront.net/RCFServer5/ondemand/PNQUIO2021.mp4
-#EXTINF:0 tvg-logo="" group-title="dragão chines",bili the kid
-https://delivery-akamai.azureedge.net/RCFServer5/ondemand/BLYTHKDOFRADLEI.mp4
-#EXTINF:0 tvg-logo="" group-title="dragão chines", meu pai
-https://cdn.netcine.biz/html/content/conteudolb4/filmes2021/MEUPAI2021DUB-BAIXO.mp4
-
-
-#EXTINF:0 tvg-logo="" group-title="dragão chines", GROODS
-https://delivery.mmfilmeshd.tv/movies/oscroods2-dub-360p.mp4?token=04NaB4tjVXcO4RwZhVqTM6sIJhB-t6Vl-cWLepwuXk8&expires=1620095705
-#EXTINF:0 tvg-logo="" group-title="dragão chines",violento n
-https://cdn.netcine.biz/html/content/conteudolb4/filmes2021/SEMREMORSO2021DUB-BAIXO.mp4?token=81Kd3LLyaCDhBv1Vhay0PQ&expires=1620104155&ip=250.22.63.29
-
-#EXTINF:0 tvg-logo="" group-title="dragão chines", GUERRA
-https://m3u9.cf/RedeCanais/RedeCanais/RCFServer5/ondemand/AGRADAMNHA/AGRADAMNHA.m3u8?mu3zAQc9HC3GbwJq=_ippF80YmLbHZI4D326sPA&3U1G7qaTxrPbalZnEx=1625383237
-
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 06
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP06.mp4?attachment=true
-
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 07
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP07.mp4?attachment=true
-
-
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 08
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP08.mp4?attachment=true
-
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 09
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP09.mp4?attachment=true
-
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 10
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT07EP10.mp4?attachment=true
-
-#EXTINF:0 tvg-logo="" group-title="dragão chines", ninja 10 temporada 6
-https://telisvod.global.ssl.fastly.net/RCServer14/ondemand/LGONJGOMSTDSPNTZT06EP10.mp4?attachment=true
-
-
-
-
-#EXTINF:0 tvg-logo="" group-title="globo", globo
-https://stream.ec.cx/hls1/boborj.m3u8?
-
-
-#EXTINF:0 tvg-logo="" group-title="multishow", chaves
-https://medias.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="multishow", chaves
-https://geralorigin.eu-central-1.edge.mycdn.live/live/multishowhd/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="FILME", espelho
-https://d3tfgi4hjvb1za.cloudfront.net/RCFServer5/ondemand/OESPLHO.mp4?attachment=true
-
-#EXTINF:0 tvg-logo="" group-title="FILME", DIVALDO
-https://osiolistic.azureedge.net/RCFServer5/ondemand/DVLDOMSGRODPZ.mp4?attachment=true
-#EXTINF:0 tvg-logo="" group-title="FILME", SCOOBY
-https://d3tfgi4hjvb1za.cloudfront.net/RCFServer5/ondemand/SCBYOFLME.mp4?attachment=true
+#EXTINF:-1,BEIN SPORTS
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19570
+#EXTINF:-1,Conmebol TV 1 | FHD
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19577
+#EXTINF:-1,Conmebol TV 2 | FHD
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19578
+#EXTINF:-1,Conmebol TV 3 | FHD
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19579
+#EXTINF:-1,Conmebol TV 4 | FHD
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19580
+#EXTINF:-1,Conmebol TV 1 | HD
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19581
+#EXTINF:-1,Conmebol TV 2 | HD
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19582
+#EXTINF:-1,Conmebol TV 3 | HD
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19583
+#EXTINF:-1,Conmebol TV 4 | HD
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19584
+#EXTINF:-1,Conmebol TV 4
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19588
+#EXTINF:-1,Conmebol TV 1
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19589
+#EXTINF:-1,Conmebol TV 2
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19590
+#EXTINF:-1,Band Sports | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19592
+#EXTINF:-1,ESPN Brasil | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19593
+#EXTINF:-1,ESPN Extra | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19594
+#EXTINF:-1,ESPN | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19595
+#EXTINF:-1,ESPN 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19596
+#EXTINF:-1,Fox Sports 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19597
+#EXTINF:-1,Fox Sports | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19598
+#EXTINF:-1,Premiere Club | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19599
+#EXTINF:-1,Sportv | FHD - H264
+http://painel.tvdigitalsbl.net:80/tequila/tequila/19600
+#EXTINF:-1,Sportv 2 | FHD - H264
