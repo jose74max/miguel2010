@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",globo f
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportssd/video.m3u8?md5=KQL3Kl86r9iak6JnKwwx-Q&expires=1628853985
+#EXTINF:0 tvg-id="ext" group-title="Channels",fox 1
+https://m3u9.ml/a/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=0-MJNGzur9kfRVORVQqKiA&3U1G7qaTxrPbalZnEx=1628847228
 
-#EXTINF:0 tvg-id="ext" group-title="C889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?hannels",cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w401404225.m3u8
+#EXTINF:0 tvg-id="ext" group-title="C889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?hannels",fox3
+https://m3u9.ml/a/hls1/foxsports1.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Channels",fox 2
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportssd/video.m3u8?
+https://m3u9.ml/a/hls1/foxsports1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",No name
 https://lh4.googleusercontent.com/proxy/PxonjH5tQFJJQHCIhtMWQ45S0elqK-GR_CsiPMYQvcSoozBaprsA7Dvt-vJ1aB7wpwSn80fqy-FNL3qXRUhgkKLrPrFM4F4ECDpI_CzcqPPbLdwJvNH4_uw3nMpqG6IekRnMwgKuTfpicVFGHB8GAAW9PMeKvzgnapAZZTN7Ccs20Gqzeg=s0
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
