@@ -11,6 +11,6 @@ https://m3u9.ml/a/hls1/foxsports1-sd.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
 https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",sportv
-https://cdn.esporteone.com/SPORTVHD/video.m3u8?md5=9wrOz49Z6byHcSvOG2vT7A&expires=1628863465
-#EXTINF:0 tvg-id="ext" group-title="Channels",sportv 2
-https://cdn.esporteone.com/SPORTVSD/video.m3u8?md5=IC_ZRQIEQUvpRxr_JaOq4A&expires=1628863658
+https://cdn.esporteone.com/SPORTVHD/video.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",sportv 3
+https://cdn.esporteone.com/SPORTVSD/video.m3u8
