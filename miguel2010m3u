@@ -8,3 +8,7 @@ https://dtv-latam-jbc.akamaized.net/dash/live/2004462/sky/dtvlatam-foxsportshd/1
 http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",No name
 https://lh4.googleusercontent.com/proxy/PxonjH5tQFJJQHCIhtMWQ45S0elqK-GR_CsiPMYQvcSoozBaprsA7Dvt-vJ1aB7wpwSn80fqy-FNL3qXRUhgkKLrPrFM4F4ECDpI_CzcqPPbLdwJvNH4_uw3nMpqG6IekRnMwgKuTfpicVFGHB8GAAW9PMeKvzgnapAZZTN7Ccs20Gqzeg=s0
+#EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
+https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Channels",fish 3
+http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?
