@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",globo f
-https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportssd/video.m3u8?md5=KQL3Kl86r9iak6JnKwwx-Q&expires=1628853985
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",cultura
+#EXTINF:0 tvg-id="ext" group-title="C889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?hannels",cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w401404225.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",fish
-http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Channels",fox 2
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportssd/video.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Channels",No name
 https://lh4.googleusercontent.com/proxy/PxonjH5tQFJJQHCIhtMWQ45S0elqK-GR_CsiPMYQvcSoozBaprsA7Dvt-vJ1aB7wpwSn80fqy-FNL3qXRUhgkKLrPrFM4F4ECDpI_CzcqPPbLdwJvNH4_uw3nMpqG6IekRnMwgKuTfpicVFGHB8GAAW9PMeKvzgnapAZZTN7Ccs20Gqzeg=s0
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
 https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",globo n
 http://tv.redecanais.com:1935/redecanaisglobo/myStream/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",fox
-http://169.57.142.110:25461/live/jK3GUGOmZq/FjE4zWAk2r/28.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",fox a
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
