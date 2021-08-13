@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",globo
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_500/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",globo f
+https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",hh
-https://dtv-latam-jbc.akamaized.net/dash/live/2004462/sky/dtvlatam-foxsportshd/1628541621/por-aac-por-45518.mp4
+https://dtv-latam-jbc.akamaized.net/dash/live/2004462/sky/dtvlatam-foxsportshd/162854162
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish
 http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",No name
