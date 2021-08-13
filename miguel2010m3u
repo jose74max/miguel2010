@@ -2,8 +2,8 @@
 #EXTINF:0 tvg-id="ext" group-title="Channels",globo f
 https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",hh
-https://dtv-latam-jbc.akamaized.net/dash/live/2004462/sky/dtvlatam-foxsportshd/162854162
+#EXTINF:0 tvg-id="ext" group-title="Channels",cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w401404225.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish
 http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",No name
