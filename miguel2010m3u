@@ -6,11 +6,11 @@ https://m3u9.ml/a/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=0-MJNGzur9kfRVORVQqKiA&3
 https://e10.cdnfoxtv.me/ingestbr/libertad/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",fox 2
 https://e10.cdnfoxtv.me/ingestbr/libertad/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-https://lh4.googleusercontent.com/proxy/PxonjH5tQFJJQHCIhtMWQ45S0elqK-GR_CsiPMYQvcSoozBaprsA7Dvt-vJ1aB7wpwSn80fqy-FNL3qXRUhgkKLrPrFM4F4ECDpI_CzcqPPbLdwJvNH4_uw3nMpqG6IekRnMwgKuTfpicVFGHB8GAAW9PMeKvzgnapAZZTN7Ccs20Gqzeg=s0
+#EXTINF:0 tvg-id="ext" group-title="Channels",globo rs
+https://m3u9.ml/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=SxOFIXQzw95omFCDa-1Lyg&3U1G7qaTxrPbalZnEx=1628849163
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
 https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:0 tvg-id="ext" group-title="Channels",globo n
-http://tv.redecanais.com:1935/redecanaisglobo/myStream/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",globo sp
+https://m3u9.ml/a/hls1/bobosp.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Channels",fox a
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
