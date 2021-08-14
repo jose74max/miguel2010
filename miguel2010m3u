@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRUZEIRO
-https://verfutebol.tv/ftmxs.m3u8?id=https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_1000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CRUZ
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_500/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",fox3
 https://e10.cdnfoxtv.me/ingestbr/libertad/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",fox 2
 https://e10.cdnfoxtv.me/ingestbr/libertad/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",globo rj
-https://m3u9.ml/a/hls1/foxsports1-sd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATLE
+https://h0n3jz23swf31thl.azcdn381.net:8443/hls/nq5qagbg.m3u8?s=AQ1aVyhW6IXxsoC9Mpy9cA&e=1629003266
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
 https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",sportv
 https://cdn.esporteone.com/SPORTVHD/video.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="Channels",r44
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAL
+https://h0n3jz23swf31thl.azcdn381.net:8443/hls/7h89a9ca8g9mg.m3u8?s=5NmD9xChGXFVdFqKtzxyvA&e=1629003198
