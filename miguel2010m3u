@@ -11,5 +11,5 @@ https://m3u9.ml/a/hls1/foxsports1-sd.m3u8
 https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",sportv
 https://cdn.esporteone.com/SPORTVHD/video.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="Channels",rbs
+#EXTINF:0 tvg-id="ext" group-title="Channels",r44
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81
