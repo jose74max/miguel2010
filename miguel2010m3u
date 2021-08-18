@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",inter
-https://h0n3jz23swf31thl.azcdn381.net:8443/hls/8uivez2xwc4h8.m3u8?s=SjyY3yCoinvtl7dg4vIJXg&e=1629084067
+#EXTINF:0 tvg-id="ext" group-title="Channels",comebol
+https://h0n3jz23swf31thl.azcdn381.net:8443/hls/walxjawfo5x.m3u8?s=nnd-cC7kiFXGGgTa1WAlWA&e=1629267323
 #EXTINF:0 tvg-id="ext" group-title="Channels",premier inter
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/7h89a9ca8g9mg.m3u8?s=VL2o-5kemJJ1VUZxwHoXwA&e=1629084296
-#EXTINF:0 tvg-id="ext" group-title="Channels",fox 2
-https://e10.cdnfoxtv.me/ingestbr/libertad/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",fox 
+https://h0n3jz23swf31thl.azcdn381.net:8443/hls/nq5qagbg.m3u8?s=Vj0JZmPh7bHBYB0yLZNSsQ&e=1629267450
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATLE
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/nq5qagbg.m3u8?s=AQ1aVyhW6IXxsoC9Mpy9cA&e=1629003266
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
