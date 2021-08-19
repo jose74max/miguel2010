@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",comebol
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/walxjawfo5x.m3u8?s=nnd-cC7kiFXGGgTa1WAlWA&e=1629267323
-#EXTINF:0 tvg-id="ext" group-title="Channels",premier inter
-https://h0n3jz23swf31thl.azcdn381.net:8443/hls/7h89a9ca8g9mg.m3u8?s=VL2o-5kemJJ1VUZxwHoXwA&e=1629084296
+#EXTINF:0 tvg-id="ext" group-title="FUTEBOL",ATL X RIVER
+https://h0n3jz23swf31thl.azcdn381.net:8443/hls/40fd1isu.m3u8?s=1BwSqrHOtfzCC6DBvB9Ziw&e=1629355137
 #EXTINF:0 tvg-id="ext" group-title="Channels",fox 
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/nq5qagbg.m3u8?s=Vj0JZmPh7bHBYB0yLZNSsQ&e=1629267450
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATLE
