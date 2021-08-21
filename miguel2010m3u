@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",comebol
-https://r9uxprta46.azcdn107.net:8443/hls/40fd1isu.m3u8?s=C5WSg3rNBBVHCumKD46Zzg&e=1629442425
+#EXTINF:0 tvg-id="ext" group-title="Channels",DEDE
+https://m3u9.ml/a/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=5oi57L4yLaQncmn3ZIsZWA&3U1G7qaTxrPbalZnEx=1629603163
 #EXTINF:0 tvg-id="ext" group-title="FUTEBOL",SPORTV
 https://cdn.esporteone.com/ESPNSD/video.m3u8?md5=yzVtI-KNAYt4B9sLPL6-fQ&expires=1629576479
 #EXTINF:0 tvg-id="ext" group-title="Channels",fox 
@@ -17,5 +17,5 @@ https://h0n3jz23swf31thl.azcdn381.net:8443/hls/7h89a9ca8g9mg.m3u8?s=5NmD9xChGXFV
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/4szb27ruet2uk.m3u8?s=1Eqr2LQ7Nm1Z1YlZzyx6wg&e=1629004038
 #EXTINF:0 tvg-id="ext" group-title="Channels",TEMPO
 https://w1w1w.downloadstreamwatch.xyz/okmnjiuhb.mp4
-#EXTINF:0 tvg-id="ext" group-title="Channels",bra
-https://r9uxprta46.azcdn107.net:8443/hls/7h89a9ca8g9mg.m3u8?s=mk8Emhv1TGD9rn97fhCz5w&e=1629442358
+#EXTINF:0 tvg-id="ext" group-title="Channels",DDE2
+https://m3u9.ml/a/hls1/sportv1-sd.m3u8?mu3zAQc9HC3GbwJq=DcBLC8OpNNwjbie2HeDWsA&3U1G7qaTxrPbalZnEx=1629603354
