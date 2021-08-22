@@ -1,11 +1,11 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",CHPEX GOIAS
-https://r9uxprta46.azcdn107.net:8443/hls/7h89a9ca8g9mg.m3u8?s=_6M6Xs9zzdK28iLkX4sH_A&e=1629598534
-#EXTINF:0 tvg-id="ext" group-title="FUTEBOL",CHAPE FUTMAX
-https://r9uxprta46.azcdn107.net:8443/hls/7h89a9ca8g9mg.m3u8?s=p7xO111JB_dJfk5asFonfw&e=1629598664
-#EXTINF:0 tvg-id="ext" group-title="Channels",fox 
-https://r9uxprta46.azcdn107.net:8443/hls/nq5qagbg.m3u8?s=ofajtj3LJ0Hr8YkDbvnCFw&e=1629441910
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE FUT
+https://r9uxprta46.azcdn107.net:8443/hls/40fd1isu.m3u8?s=cgpR9zUgwlAd1s2flwZrNw&e=1629620766
+#EXTINF:0 tvg-id="ext" group-title="FUTEBOL",COMBATE
+https://e6.cdnfoxtv.com/ingest09/25535.m3u8?sf=MzVwczEwU2JE&token=SfY_n_64y1LOHBu4HlDiPA&expires=1629613757&rnd=
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE PLAY
+https://r9uxprta46.azcdn107.net:8443/hls/c2kxuno.m3u8?s=udRXcbVu2VkGHGTFMS2QCg&e=1629621034
 #EXTINF:0 tvg-id="ext" group-title="Channels",VASCO FUTEMAX
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvhd/video.m3u8?md5=RA092Sn9fQvu9NDy0QFGCA&expires=1629613290
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
