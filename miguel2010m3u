@@ -1,11 +1,11 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE FUT
-https://r9uxprta46.azcdn107.net:8443/hls/40fd1isu.m3u8?s=cgpR9zUgwlAd1s2flwZrNw&e=1629620766
-#EXTINF:0 tvg-id="ext" group-title="FUTEBOL",COMBATE
-https://e6.cdnfoxtv.com/ingest09/25535.m3u8?sf=MzVwczEwU2JE&token=SfY_n_64y1LOHBu4HlDiPA&expires=1629613757&rnd=
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE PLAY
-https://r9uxprta46.azcdn107.net:8443/hls/c2kxuno.m3u8?s=udRXcbVu2VkGHGTFMS2QCg&e=1629621034
+#EXTINF:0 tvg-id="ext" group-title="Channels",inter x santos
+https://r9uxprta46.azcdn107.net:8443/hls/nq5qagbg.m3u8?s=9uE8pWFkOHRYLXimyRoY1g&e=1629687847
+#EXTINF:0 tvg-id="ext" group-title="FUTEBOL",inter futmax
+https://r9uxprta46.azcdn107.net:8443/hls/7h89a9ca8g9mg.m3u8?s=7vb8X3oUjdKdzPXyT2Lyjg&e=1629688000
+#EXTINF:0 tvg-id="ext" group-title="Channels",premiere
+https://r9uxprta46.azcdn107.net:8443/hls/nq5qagbg.m3u8?s=tafF2Nh1mWASC6rp98dF7A&e=1629688150
 #EXTINF:0 tvg-id="ext" group-title="Channels",VASCO FUTEMAX
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvhd/video.m3u8?md5=RA092Sn9fQvu9NDy0QFGCA&expires=1629613290
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
