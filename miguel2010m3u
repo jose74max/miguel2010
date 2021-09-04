@@ -1,13 +1,12 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",inter futmax
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/7h89a9ca8g9mg.m3u8?s=X1IDr7zEZLxGtqBNA1BulQ&e=1630292759
-#EXTINF:0 tvg-id="ext" group-title="FUTEBOL",bettes
-https://content-asae1-up-1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="Channels",real
-https://m3u9.ml/a/hls1/foxsports1.m3u
-#EXTINF:0 tvg-id="ext" group-title="Channels",inter play
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/8uivez2xwc4h8.m3u8?s=BOOsczB4xuP5kCAtg3fUPA&e=1630292928
+#EXTINF:0 tvg-id="ext" group-title="Channels",inter BOTA FOGO PLAY
+https://azn6w8h86tcixqj9.azcdn381.net:8443/hls/8uivez2xwc4h8.m3u8?s=yGNe1VW6IPH5HCRvfXml-A&e=1630814831
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOTAFOGO
+https://azn6w8h86tcixqj9.azcdn381.net:8443/hls/8uivez2xwc4h8.m3u8?s=12XMprnTcreSJOqUBMEK6Q&e=1630815739
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOTAFOGO FUTMAX
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8?md5=fhEcZ-WAATq5q_kha8oQIg&expires=1630830319
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
 https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",sportv
