@@ -1,10 +1,10 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",inter x  sport
-https://rvfzqppofdtmunfb.wzcdn431.net:8443/hls/7h89a9ca8g9mg.m3u8?s=76eWVHEpNDEFHEVS5ze4pw&e=1631595535
+#EXTINF:0 tvg-id="ext" group-title="Channels",futmax santos
+https://rvfzqppofdtmunfb.wzcdn431.net:8443/hls/7h89a9ca8g9mg.m3u8?s=qFZl-jm3QfbqlwYYj4cwaQ&e=1631680998
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOTAFOGO
-https://azn6w8h86tcixqj9.azcdn381.net:8443/hls/8uivez2xwc4h8.m3u8?s=12XMprnTcreSJOqUBMEK6Q&e=1630815739
+#EXTINF:0 tvg-id="ext" group-title="Channels",santos x atletico parana
+https://rvfzqppofdtmunfb.wzcdn431.net:8443/hls/8uivez2xwc4h8.m3u8?s=Ipomwscj1wSzAbKDBAYo0w&e=1631680665
 #EXTINF:0 tvg-id="ext" group-title="Channels",BOTAFOGO FUTMAX
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8?md5=fhEcZ-WAATq5q_kha8oQIg&expires=1630830319
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
