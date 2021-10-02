@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",fortaleza 1
-https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",fortaleza  x cuiaba
+https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u8?s=js-1ARsfoUWpIwOH0ThQKA&e=1633230383
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",fortaleza futmax
 https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u8?s=l7qvNdABYvo8eGsq_I0yfg&e=
