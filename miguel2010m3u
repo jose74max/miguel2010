@@ -1,12 +1,12 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",fortaleza
-https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u8?s=JIMw3ZX6Fu8ycMqO4KsDnA&e=1633228913
+#EXTINF:0 tvg-id="ext" group-title="Channels",fortaleza 1
+https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",fortaleza futmax
-https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u8?s=l7qvNdABYvo8eGsq_I0yfg&e=1633229857
+https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u8?s=l7qvNdABYvo8eGsq_I0yfg&e=
 #EXTINF:0 tvg-id="ext" group-title="Channels", FUTMAX 2
-https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u8?
+https://yznetuhipizvkzyn.wzcdn431.net:8443/hls/65ae2d6qtrso37h.m3u
 #EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
 https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:0 tvg-id="ext" group-title="Channels",sportv
