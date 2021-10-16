@@ -1,10 +1,10 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",chape
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8?md5=6HMw7HiLnsSF-9sZUSyuqg&expires=1634456703
+#EXTINF:0 tvg-id="ext" group-title="Channels",band
+hhttps://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",chape1
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_350/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",boca
+https://v7.sportzonline.to/channels/bra/br3.php
 #EXTINF:0 tvg-id="ext" group-title="Channels", chape2
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8?md5=NGdkK9ucBkKJ_b2xNOahSA&expires=1634456732
 #EXTINF:0 tvg-id="ext" group-title="Channels",chape 3
