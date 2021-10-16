@@ -3,12 +3,12 @@
 #EXTINF:0 tvg-id="ext" group-title="Channels",chape
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8?md5=6HMw7HiLnsSF-9sZUSyuqg&expires=1634456703
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",fortaleza x ssse
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels", athetico
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8?md5=Hn9vE8JrzT0DojJ7dnSXFQ&expires=1633852109
-#EXTINF:0 tvg-id="ext" group-title="Channels",fish 2
-https://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Channels",chape1
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_350/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels", chape2
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1hd/video.m3u8?md5=NGdkK9ucBkKJ_b2xNOahSA&expires=1634456732
+#EXTINF:0 tvg-id="ext" group-title="Channels",chape 3
+https://gdnvgmgfdpmjofjw.wzcdn264.net:8443/hls/7h89a9ca8g9mg.m3u8?s=uuCcQXb2KXMUuJwEHGaf8w&e=1634445410
 #EXTINF:0 tvg-id="ext" group-title="Channels",sportv
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/8uivez2xwc4h8.m3u8?s=Vlxf44Ebrm2JfYTcSr_n2A&e=1629004351
 #EXTINF:0 tvg-id="ext" group-title="Channels",PAL
