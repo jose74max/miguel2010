@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",bahia
-https://jjkkmotzgvlqzjuc.wzcdn264.net:8443/hls/163t5tqla6dw31.m3u8?s=uI2N1FDocksU5yfiXnfn1g&e=1633841958
+#EXTINF:0 tvg-id="ext" group-title="Channels",chape
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/video.m3u8?md5=6HMw7HiLnsSF-9sZUSyuqg&expires=1634456703
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",fortaleza x ssse
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
