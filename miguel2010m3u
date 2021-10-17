@@ -3,14 +3,14 @@
 #EXTINF:0 tvg-id="ext" group-title="Channels",band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",chape 11
-https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/premiereclubes_3f1522d0_1a6e69100ab717e0ea8fa959bde8f7f5e491f164/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI2LjczIjtpOjE7czoxMTQ6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85NC4wLjQ2MDYuODEgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYzNDQyNzc4MTt9
-#EXTINF:0 tvg-id="ext" group-title="Channels", chape12
-https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/premiereclubes_3f1522d0_1a6e69100ab717e0ea8fa959bde8f7f5e491f164/playlist.m3u8?
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels", tnt
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",chape 3
 https://gdnvgmgfdpmjofjw.wzcdn264.net:8443/hls/7h89a9ca8g9mg.m3u8?s=uuCcQXb2KXMUuJwEHGaf8w&e=1634445410
-#EXTINF:0 tvg-id="ext" group-title="Channels",sportv
-https://h0n3jz23swf31thl.azcdn381.net:8443/hls/8uivez2xwc4h8.m3u8?s=Vlxf44Ebrm2JfYTcSr_n2A&e=1629004351
+#EXTINF:0 tvg-id="ext" group-title="Channels",bahia
+https://m3u9.ml/b/hls1/premiere2.m3u8?mu3zAQc9HC3GbwJq=vvMyatFmG-QR9-Qq1HvEeQ&3U1G7qaTxrPbalZnEx=1634441742
 #EXTINF:0 tvg-id="ext" group-title="Channels",PAL
 https://h0n3jz23swf31thl.azcdn381.net:8443/hls/7h89a9ca8g9mg.m3u8?s=5NmD9xChGXFVdFqKtzxyvA&e=1629003198
 #EXTINF:0 tvg-id="ext" group-title="Channels",GREMIO
