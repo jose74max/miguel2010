@@ -1,12 +1,12 @@
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",palmeiras
-https://gqvhqccsbaaqnvbw.wzcdn134.net:8443/hls/627kjede.m3u8?s=5GhW4FGAz5gB28KyqmS4-A&e=1638344473
+#EXTINF:0 tvg-id="ext" group-title="Channels",cuiaba
+https://m3u9.ml/b/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=imJUGV5s4ncdVPno7z9MaA&3U1G7qaTxrPbalZnEx=1638354620
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels", fla
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels", palmiras italia
+https://m3u9.ml/b/hls1/sportv1.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Channels",chape 3
 https://gdnvgmgfdpmjofjw.wzcdn264.net:8443/hls/7h89a9ca8g9mg.m3u8?s=uuCcQXb2KXMUuJwEHGaf8w&e=1634445410
 #EXTINF:0 tvg-id="ext" group-title="Channels",bahia
