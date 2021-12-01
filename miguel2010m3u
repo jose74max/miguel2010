@@ -5,8 +5,8 @@ https://m3u9.ml/b/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=imJUGV5s4ncdVPno7z9MaA&3U1G
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels", palmiras italia
-https://m3u9.ml/b/hls1/sportv1.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels", palmirasfeito
+https://extedge.eu-central-1.edge.mycdn.live/mylive/livefc03sd/2021/12/01/02/53/38-05000.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",chape 3
 https://gdnvgmgfdpmjofjw.wzcdn264.net:8443/hls/7h89a9ca8g9mg.m3u8?s=uuCcQXb2KXMUuJwEHGaf8w&e=1634445410
 #EXTINF:0 tvg-id="ext" group-title="Channels",bahia
