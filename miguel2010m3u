@@ -1,30 +1,16 @@
+# EXTM3U
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",MATRIX 4
-https://ip70256621.ahcdn.com/key=iGtFFQMXtcCxpgIHg0ljVw,s=,end=1641278469,ip=2804:7f4,limit=1/state=YdOzKAQH9PuAOGNBFc-U/buffer=5000000:25421972,8874.9/speed=1000000/referer=none,.moduda.fun,.filmezando.tv,.mmfilmes.io/reftag=263766407/ssd2/443/5/271719075/BR/movies/matrix2021-leg-720p.mp4
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels", palmirasfeito
-https://extedge.eu-central-1.edge.mycdn.live/mylive/livefc03sd/2021/12/01/02/53/38-05000.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",chape 3
-https://gdnvgmgfdpmjofjw.wzcdn264.net:8443/hls/7h89a9ca8g9mg.m3u8?s=uuCcQXb2KXMUuJwEHGaf8w&e=1634445410
-#EXTINF:0 tvg-id="ext" group-title="Channels",bahia
-https://m3u9.ml/b/hls1/premiere2.m3u8?mu3zAQc9HC3GbwJq=vvMyatFmG-QR9-Qq1HvEeQ&3U1G7qaTxrPbalZnEx=1634441742
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAL
-https://h0n3jz23swf31thl.azcdn381.net:8443/hls/7h89a9ca8g9mg.m3u8?s=5NmD9xChGXFVdFqKtzxyvA&e=1629003198
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREMIO
-https://h0n3jz23swf31thl.azcdn381.net:8443/hls/4szb27ruet2uk.m3u8?s=1Eqr2LQ7Nm1Z1YlZzyx6wg&e=1629004038
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEMPO
-https://w1w1w.downloadstreamwatch.xyz/okmnjiuhb.mp4
-#EXTINF:0 tvg-id="ext" group-title="Channels",DDE2
-https://m3u9.ml/a/hls1/sportv1-sd.m3u8?mu3zAQc9HC3GbwJq=DcBLC8OpNNwjbie2HeDWsA&3U1G7qaTxrPbalZnEx=1629603354
-#EXTINF:0 tvg-id="ext" group-title="Channels",JU 
-https://dtv-latam-jbc.akamaized.net/dash/live/2004589/sky/dtvlatam-tnthd/1629462863/por-aac-por-19151.mp4
-#EXTINF:0 tvg-id="ext" group-title="Channels",JU SPORTEONE
-https://cdn.esporteone.com/PREMIERECLUBESHD/video.m3u8?md5=2SSf8hm002jj_8G1THG05A&expires=1629581742
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREMIO FUT
-https://r9uxprta46.azcdn107.net:8443/hls/4szb27ruet2uk.m3u8?s=QIlvJST7hDzLXwePhqwm0w&e=1629604706
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREMIO
-https://r9uxprta46.azcdn107.net:8443/hls/4szb27ruet2uk.m3u8?s=0WwfCowhL7AioiNyY3mxvw&e=1629604596
-#EXTINF:0 tvg-id="ext" group-title="Channels",JU 
-https://dtv-latam-jbc.akamaized.net/dash/live/2004589/sky/dtvlatam-tnthd/1629462863/por-aac-por-19151.mp4
+#EXTINF: -1 tvg-name = "A&E" tvg-logo = "http://distv.net/icons/ae.png", A&E
+http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/113
+#EXTINF: -1 tvg-name = "AMC" tvg-logo = "http://distv.net/icons/amc.png", AMC
+http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/223
+#EXTINF: -1 tvg-name = "AXN" tvg-logo = "http://distv.net/icons/axn.png", AXN
+http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/116
+#EXTINF: -1 tvg-name = "BABY TV" tvg-logo = "http://distv.net/icons/babytv.png", BABY TV
+http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/117
+#EXTINF: -1 tvg-name = "BAND SPORTS" tvg-logo = "http://distv.net/icons/bandsports.png", BAND SPORTS
+http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/119
+#EXTINF: -1 tvg-name = "BBB Acompanhe a Casa" tvg-logo = "https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsahpanheXwxi0Ckc4Tgg14L21eI/AAAAAAAAIwM/7h8pUSaCT50QkqsapanheXwxi0Ckc4Tgg14LBBBBBPng, BBBBBBBPng, CasaBBBBBBBPng, 7h8pUSaCT50QkqsaampanheYACNG, BbGAQ.
+http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/245
+#EXTINF: -1 tvg-name = "BBB Acompanhe a Casa 2" tvg-logo = "https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14
+http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/246
