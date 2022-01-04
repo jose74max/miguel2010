@@ -11,6 +11,19 @@ https://m3u9.ml/b/hls1/boborj.m3u8?
 #EXTINF: -458
 https://m3u9.ml/b/hls1/boborj.m3u8
 
+#EXTINF: -1,gremio
+https://cdn.esporteone.com/SPORTVSD/video.m3u8
+
+
+#EXTINF: -1,gremio 3
+https://cdn.esporteone.com/SPORTVSD/video.m3u8?
+
+
+#EXTINF: -1,gremio 4
+https://cdn.esporteone.com/SPORTVSD/video.m3u8?md5
+
+#EXTINF: -1,gremio 5
+https://cdn.esporteone.com/SPORTVSD/video.m3u8?md5=
 
 
 #EXTINF: -1, Se Sobreviver, Caso: 2
