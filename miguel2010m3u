@@ -1,35 +1,15 @@
 # EXTM3U
 
+#EXTINF: -45
+https://m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq
 
-#PLAYLISTV: pltv-logo = "https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name = "Meus canais" pltv-description = "Lista IPTV" pltv-cover = "https : //minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg "pltv-author =" Jhenny "pltv-email =" shayanne09@gmail.com "
 
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "CANAIS ABERTOS", REDE TV
-http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
+#EXTINF: -146
+https://m3u9.ml/b/hls1/boborj.m3u8?
 
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "FILMES", filmes 1
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "CANAIS ABERTOS", FUTURA
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "CANAIS ABERTOS", REDE BRASIL
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "Categorias", Rede Família
-http://srv9.zoeweb.tv:1935/redefamilia/smil:redefamilia.smil/chunklist.m3u8
-
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "Futebol Ao Vivo", Jogos Ao Vivo 2
-http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
-
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "Futebol Ao Vivo", Jogos Ao Vivo 3
-http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
-
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "Futebol Ao Vivo", Jogos Ao Vivo 5
-http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
-
-#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "FILMES", A CABANA (720p)
-http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
-
+#EXTINF: -458
+https://m3u9.ml/b/hls1/boborj.m3u8
 
 
 
