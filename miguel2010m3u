@@ -1,19 +1,24 @@
 # EXTM3U
+http://moveplay.org:8000/live/moveplay/918wke/1602.m3u8
+http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/31902.m3u8
+#EXTINF: -1, ESPN brasil
+http://moveplay.org:8000/live/moveplay/918wke/1588.m3u8
+#EXTINF: -1, ESPN brasil f
+http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/29078.m3u8
+#EXTINF: -1, ESPN2
+http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/5326.m3u8
+#EXTINF: -1, ESPN2 sd
+http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/5326.m3u8
+#EXTINF: -1, SPORTV
+http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17029.m3u8
+#EXTINF: -1, SPORTV2
+http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17031.m3u8
+#EXTINF: -1, SPORTV3
+http://iptv-line.com:6969/live/ps3107452+a2@gmail.com/asdfgh12/17030.m3u8
+#EXTINF: -1, ANTENA3
+http://185.102.218.45:25461/live/ps3107452+a2@gmail.com/asdfgh12/2721.m3u8?token=GkQJUBUMGwpAU1MCBFZSXFVRWwBVBwcGVgpUWghSVg8EV1lXBVYOB1QQTkQVREIABV08XlRDCgYFC1NPE0JHUxM5CFVEXhsIVARSVlISHEcQWQ5SElsAGBBJCwcTDRYEVF5ZCURIG1UaRgcUCFFcOgBVFV5TBBIOXEwODx0VW1g+AgRcBwpdElgQUkRKElkWFBJZFXMNUUZdGTFNcBkWGkMECEUUBU1VQAhAV14BBUdIEgBYRQ9ERksbWEFzZRYaQwMZRQMKSlkNXEBcRF0DEFwSTxVZEm9GV0oWEVRWWVMTRFsTVkYVEg9TGjkFX14LAVMXXl8PQxYIG1NBHRVZWQ8PFV4UO0lZBhBYRFMGAVJGTQ==
 
-#EXTINF: -1 tvg-name = "A&E" tvg-logo = "http://distv.net/icons/ae.png", A&E
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/113
-#EXTINF: -1 tvg-name = "AMC" tvg-logo = "http://distv.net/icons/amc.png", AMC
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/223
-#EXTINF: -1 tvg-name = "AXN" tvg-logo = "http://distv.net/icons/axn.png", AXN
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/116
-#EXTINF: -1 tvg-name = "BABY TV" tvg-logo = "http://distv.net/icons/babytv.png", BABY TV
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/117
-#EXTINF: -1 tvg-name = "BAND SPORTS" tvg-logo = "http://distv.net/icons/bandsports.png", BAND SPORTS
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/119
-#EXTINF: -1 tvg-name = "BBB Acompanhe a Casa" tvg-logo = "https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsahpanheXwxi0Ckc4Tgg14L21eI/AAAAAAAAIwM/7h8pUSaCT50QkqsapanheXwxi0Ckc4Tgg14LBBBBBPng, BBBBBBBPng, CasaBBBBBBBPng, 7h8pUSaCT50QkqsaampanheYACNG, BbGAQ.
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/245
-#EXTINF: -1 tvg-name = "BBB Acompanhe a Casa 2" tvg-logo = "https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/246
+
 
 #EXTINF: -1, ONDE ESTA MEU CORAÇAO
 https://www92.uptobox.com/dl/dIJ-hJQ1FlMDi_rlJT4JBNm7zRNPcS3EpZSeud5fASTij-0mnEbcC5i40tsY9Uz_6oj9KcmRTxaH8MHbPJkhi9M9W-cBLNMefs6H9X26F8xxgts87MW_P2BfSnSYVCVpXYZbWDlhypoeK0AXzMWPKw/Onde.Esta.Meu.Coracao.S01E02.1080p.GLOBO.WEB-DL.X264.DUBLADO-Dinho.mkv
