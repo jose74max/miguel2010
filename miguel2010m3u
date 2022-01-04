@@ -1,48 +1,34 @@
 # EXTM3U
 
-http://pfsv.io:80/6512886373/1723/50876
-#EXTINF: -1 tvg-logo = "http://p6.vc/h" group-title = "Canais | Abertos", BAND Campinas SD
-http://pfsv.io:80/6512886373/1723/32537
-#EXTINF: -1 tvg-logo = "http://p6.vc/h" group-title = "Canais | Abertos", BAND FHD [H265]
-http://pfsv.io:80/6512886373/1723/30181
-#EXTINF: -1 tvg-logo = "http://p6.vc/h" group-title = "Canais | Notícias", Band Internacional
-http://pfsv.io:80/6512886373/1723/518
-#EXTINF: -1 tvg-logo = "http://p6.vc/h" group-title = "Canais | Notícias", Band News FHD
-http://pfsv.io:80/6512886373/1723/510
-#EXTINF: -1 tvg-logo = "http://p6.vc/h" group-title = "Canais | Notícias", Band News FHD [H265]
-http://pfsv.io:80/6512886373/1723/30195
-#EXTINF: -1 tvg-logo = "http://p6.vc/h" group-title = "Canais | Notícias", Band News HD
-http://pfsv.io:80/6512886373/1723/514
-#EXTINF: -1 tvg-logo = "http://p6.vc/h" group-title = "Canais | Notícias", Band News SD
-http://pfsv.io:80/6512886373/1723/520
-#EXTINF: -1 tvg-logo = "http://p6.vc/h" group-title = "Canais | Abertos", BAND Nordeste SD
-http://pfsv.io:80/6512886373/1723/32538
+#EXTINF: 0 tvg-logo = "https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RS-05f9v0KxJAwCLcBGAsY20HQ "CARTOON", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
+
+#EXTINF: 0 tvg-logo = "https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RS-05f9v0KxJAwCLcBGAsY20HQ "CARTOON", RETRO CARTOON 2
+https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1246852173.m3u8
+
+
+#EXTINF: 0 tvg-logo = "https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQONS/gCLc%OqR72a8Qsc5_0zN7DpoBalbUuienn-gclcBGAsYHQONSYHQONS" title-GCLc%OqBgSYHQONS "title-JETS = 0 grupo CBGAsYHQONS" JETSONS
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w279459319.m3u8
+
+
+#EXTINF: 0 tvg-logo = "https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYYCw51.png "CARTOON", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w550177744.m3u8
+
+#EXTINF: 0 tvg-logo = "https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s620-44/21/21/creenshot.png-group.png "CARTOON", GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
+
+
+
+#EXTINF: 0 tvg-logo = "https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLc%2BGAsYHQ" title = CIME group0ONTVsYHQ "ANIME" ANIME = 2BGAsYHQ "title = ANIME" ANIME group0 = ANIME "ANIME / GRIME" ANIME = "ANIME group0" ANIME = GRUPO ANGIME " 
+https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
+
+
+
+#EXTINF: 0 tvg-logo = "https://www.locomotiontv.com.br/assets/img/logo-animestation.png" group-title = "CARTOON", ESTAÇÃO ANIME
+https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w1464086466.m3u8
 
 #EXTINF: -1, ONDE ESTA MEU CORAÇAO
-https://www92.uptobox.com/dl/dIJ-hJQ1FlMDi_rlJT4JBNm7zRNPcS3EpZSeud5fASTij-0mnEbcC5i40tsY9Uz_6oj9KcmRTxaH8MHbPJkhi9M9W-cBLNMefs6H9X26F8xxgts87MW_P2BfSnSYVCVpXYZbWDlhypoeK0AXzMWPKw/Onde.Esta.Meu.Coracao.S01E02.1080p.GLOBO.WEB-DL.X264.DUBLADO-Dinho.mkv
-#EXTINF: -1, INVENCIVEL2
-https://s8.pandafiles.com:183/d/6a3rtpga26kwoyaprsf6ezwuphj5uziege2yhwpypytmpcntzjkhhjdqyl2csjpmnq6o5wqa/I.S01E02.mp4
-#EXTINF: -1, Liga da Justiça de Zack Snyder
-https://s7.pandafiles.com:183/d/6e3zeqga26kwoyapqwf3q2mehg7tpkrpwjxznewfgjkjoiumnq47kb5ptoy74sllt36es7ca/4318413281293422.2021.mkv
-
-#EXTINF: -1, QMVM6 
-https://galetofeliz.files.wordpress.com/2021/11/2711-nov.mp4
-
-#EXTINF: -1, la casa 3
-https://s7.pandafiles.com:183/d/6e3q5ig326kwoyapkofkizobnmj72s4hiacniti7m4fivoqmtcjbjr5nfjaiuvliesaia27a/La_Casa_de_Papel_S06E03_1080p_WEB-DL_DUAL_FILMES
-
- 
-
-#EXTINF: -1, NBA1
-http://cdn.mintstreams.xyz/hls/celtics/chunks.m3u8
-#EXTINF: -1, NBA
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes8/esportes8_2000/index.m3u8
-
-http://x485.bytebx.com/download/c_hcy5N4q6H3NDJwyZzDU1Sg1zAJ5IIWx5aFAix9bJxBN3RQoshynRy8nssv-fcRUcxZ3XirTv6eqND4p2vxIRILU764qBLUDD37prF8IofgdZ1g07JtjJ-vPrr0bSOnxcNy_KfMFTouCuFSTjdjhZy1gD8TTQCY0nfMz9kZ3NuddBjyWKv3K14OG7nrYUNlCigEonsKrQPYlX_Ao7zruU00LlS-fNcE7IIc6_YzP23FjremuMgetxmwz0Qr7JGeg-h9xxl2qR2X4Y9YujPe2MkoqPyMwc06Wgiml4ANOPhoe1lfBVlV6xhkmJS1IY6QWV-_sk2ROELFBpQ9EHz_EzzumiOscikCX0nePQ%3D%3D/O_Legado_de_Jupiter_S01E01_1080p.WEB-DL.5.1.DUAL.COMANDO.TO.mkv
-
- 
-#EXTINF: -1, ZOOM
-https://s7.pandafiles.com:183/d/6e35zv6a26kwoyapr2f6azgqg2osx3gfsjim5breqd7x3bxctt752movy2xwclu5nrmwyfwc/500296183563.2021.mkv
+https://www92.uptobox.com/dl/dIJ-hJQ1FlMDi_rlJT4JBNm7zRNPcS3EpZSeud5fASTij-0mnEbcC5i40tsY9Uz_6oj9KcmRTxaH8MHbPJkhi9M9W-cBLNMefs6H9X26F8xxgts87MW_P2BfSnSYVCVpXYZbWDlhypoeK0AXzM
 
 #EXTINF: -1, MYTHIC QUEST 8,1
 https://cdn.netcine.biz/html/content/conteudolb4/mythic/01dub/08-ALTO.mp4?token=74Ay3uFyWITBSbFav3vJQQ&expires=1608340367&ip=191.183.174.42
