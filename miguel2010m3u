@@ -1,60 +1,36 @@
 # EXTM3U
 
-#EXTINF: 0 tvg-logo = "https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RS-05f9v0KxJAwCLcBGAsY20HQ "CARTOON", RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
 
-#EXTINF: 0 tvg-logo = "https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RS-05f9v0KxJAwCLcBGAsY20HQ "CARTOON", RETRO CARTOON 2
-https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1246852173.m3u8
+#PLAYLISTV: pltv-logo = "https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name = "Meus canais" pltv-description = "Lista IPTV" pltv-cover = "https : //minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg "pltv-author =" Jhenny "pltv-email =" shayanne09@gmail.com "
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "CANAIS ABERTOS", REDE TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "FILMES", filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "CANAIS ABERTOS", FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "CANAIS ABERTOS", REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "Categorias", Rede Família
+http://srv9.zoeweb.tv:1935/redefamilia/smil:redefamilia.smil/chunklist.m3u8
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "Futebol Ao Vivo", Jogos Ao Vivo 2
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "Futebol Ao Vivo", Jogos Ao Vivo 3
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "Futebol Ao Vivo", Jogos Ao Vivo 5
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title = "FILMES", A CABANA (720p)
+http://cdn1.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
 
 
-#EXTINF: 0 tvg-logo = "https://1.bp.blogspot.com/-0Iq6wbVRaAg/YFDNyFtWiqI/AAAAAAAAEZk/N-oqR72a8Qsc5_0zN7DpoBalbUuienn-gCLcBGAsYHQONS/gCLc%OqR72a8Qsc5_0zN7DpoBalbUuienn-gclcBGAsYHQONSYHQONS" title-GCLc%OqBgSYHQONS "title-JETS = 0 grupo CBGAsYHQONS" JETSONS
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w279459319.m3u8
-
-
-#EXTINF: 0 tvg-logo = "https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYYCw51.png "CARTOON", KURIAKOS KIDS
-http://c2.manasat.com:1935/kkids/kkids2/chunklist_w550177744.m3u8
-
-#EXTINF: 0 tvg-logo = "https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/s620-44/21/21/creenshot.png-group.png "CARTOON", GOSPEL CARTOON
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
-
-
-
-#EXTINF: 0 tvg-logo = "https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLc%2BGAsYHQ" title = CIME group0ONTVsYHQ "ANIME" ANIME = 2BGAsYHQ "title = ANIME" ANIME group0 = ANIME "ANIME / GRIME" ANIME = "ANIME group0" ANIME = GRUPO ANGIME " 
-https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
-
-
-
-#EXTINF: 0 tvg-logo = "https://www.locomotiontv.com.br/assets/img/logo-animestation.png" group-title = "CARTOON", ESTAÇÃO ANIME
-https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w1464086466.m3u8
-
-#EXTINF: -1, ONDE ESTA MEU CORAÇAO
-https://www92.uptobox.com/dl/dIJ-hJQ1FlMDi_rlJT4JBNm7zRNPcS3EpZSeud5fASTij-0mnEbcC5i40tsY9Uz_6oj9KcmRTxaH8MHbPJkhi9M9W-cBLNMefs6H9X26F8xxgts87MW_P2BfSnSYVCVpXYZbWDlhypoeK0AXzM
-
-#EXTINF: -1, MYTHIC QUEST 8,1
-https://cdn.netcine.biz/html/content/conteudolb4/mythic/01dub/08-ALTO.mp4?token=74Ay3uFyWITBSbFav3vJQQ&expires=1608340367&ip=191.183.174.42
-  https://s9.pandafiles.com:183/d/6m34gbwd26kwoyap4gf3y56wmo4czaqin4iwyhouujxkykjmcz7uoahh6bvoivwh6em7fbwr/7287349024.2020.mkv
-
-#EXTINF: -1, foo-fighters-glastonbury
-https://play.pongalo.com/foo-fighters-glastonbury/foo-fighters-glastonbury_1-1/hls_2500.m3u8
-https://brasil.azureedge.net/RCServer05/ondemand/45RPMT01EP11.mp4?attachment=true
-
-#EXTINF: -1, RECORD
-https://origin-02.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1, RECORD2
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF: -1, ITALIA1
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/stream04/streamPlaylist.m3u8
-
-#EXTINF: -1, TELE5
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
- 
-#EXTINF: -1, TV BOBO
-https://origin-02.nxplay.com.br/TV_TEM_HD_PFZ_NX/tracks-v1a1/mono.m3u8
-https://origin-02.nxplay.com.br/TV_TEM_HD_PFZ_NX/tracks-v2a1/mono.m3u8
-
-#EXTINF: -1, TV BOBO2
-https://cdn-fox-br.comets.com.br/eimaxx/eimaxx.stream/chunklist_w1477965705.m3u8?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDYzNjEzMzIsIm5iZiI6MTYwNjM2MTMzMiwiZXhwIjoxNjA2MzYxNjMyLCJpc3MiOiJueHBsYXkuY29tLmJyIiwianRpIjoiMTE2NDU4MDU5NTVmYmYyMGY0Y2Y5Nzk0LjE1NTY0ODc5IiwiY2xpZW50ZSI6IjE3Mi4zMS44My4xMTQifQ.l8flbFiBXwRl6fvq0LyP489f4ZtKd3NA3I7gOvqIz4c
 
 
 #EXTINF: -1, Se Sobreviver, Caso: 2
