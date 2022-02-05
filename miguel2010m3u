@@ -15,12 +15,12 @@ https://xejzdqjevfxccyrk.wzcdn654.net:8443/hls/u225jtufy2dkv.m3u8?
 hhttps://xejzdqjevfxccyrk.wzcdn654.net:8443/hls/u225jtufy2dkv.m3u8
 
 
-#EXTINF: -1,fox
-https://xejzdqjevfxccyrk.wzcdn654.net:8443/hls/u225jtufy2dkv.m3u8?s=KPlCM81vhS3RlxukPAiuCw&e=1641300256
+#EXTINF: -1,GLOBO REDE CANAIS
+https://m3u9.ml/a2/hls1/bobosp.m3u8?
 
 
-#EXTINF: -1,gremio 4
-https://cdn.esporteone.com/SPORTVSD/video.m3u8?md5
+#EXTINF: -1,GLOBO OK
+https://edge-aws.aovivotv.xyz/hls/s:5.161.69.129/globosp_cfe21c68_01dcb04bda75e5b0ac1a3eb27053320e05fd3e9d/playlist.m3u8?
 
 #EXTINF: -1,gremio 5
 https://cdn.esporteone.com/SPORTVSD/video.m3u8?md5=
