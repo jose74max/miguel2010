@@ -11,8 +11,8 @@ https://m3u9.ml/b/hls1/boborj.m3u8?
 #EXTINF: -1,fox salao
 https://sinalpublico.com/player3/ch.php?canal=sportv1&img=sportv1
 
-#EXTINF: -fox 3
-https://streaming.gruporba.com.br/rba.m3u8
+#EXTINF: -1, sbt
+https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w56658377.m3u8
 
 
 #EXTINF: -1,GLOBO dd
