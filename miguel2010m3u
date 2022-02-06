@@ -21,8 +21,8 @@ https://sinalpublico.com/player3/ch.php?canal=telecinepipoca
 #EXTINF: -1,GLOBO OK
 https://edge-aws.aovivotv.xyz/hls/s:5.161.69.129/globosp_cfe21c68_01dcb04bda75e5b0ac1a3eb27053320e05fd3e9d/playlist.m3u8?
 
-#EXTINF: -1,gremio 5
-https://cdn.esporteone.com/SPORTVSD/video.m3u8?md5=
+#EXTINF: -1,sbt 2
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w436420930_b350000.m3u8
 
 
 #EXTINF: -1, Se Sobreviver, Caso: 2
