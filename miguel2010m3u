@@ -8,16 +8,15 @@ https://m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq
 https://m3u9.ml/b/hls1/boborj.m3u8?
 
 
-#EXTINF: -1,fox salao
-https://sinalpublico.com/player3/ch.php?canal=sportv1&img=sportv1
+#EXTINF: -1,fox salao1
+<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=sportv1" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
 
-#EXTINF: -1, sbt
-https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w56658377.m3u8
+#EXTINF: -1, sbt2
+https://sinalpublico.com/player3/ch.php?canal=sportv1" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
 
 
-#EXTINF: -1,GLOBO dd
-https://sinalpublico.com/player3/ch.php?canal=sportv1&img=sportv1.m3u8
-
+#EXTINF: -1,GLOBO aa
+https://sinalpublico.com/player3/ch.php?canal=sportv1
 
 #EXTINF: -1,GLOBO OK
 https://edge-aws.aovivotv.xyz/hls/s:5.161.69.129/globosp_cfe21c68_01dcb04bda75e5b0ac1a3eb27053320e05fd3e9d/playlist.m3u8?
