@@ -1,35 +1,27 @@
 # EXTM3U
-
-#EXTINF: -45
+#EXTINF:0 tvg-logo="" group-title="",bosta
 https://m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq
 
 
-#EXTINF: -2,tnt interativo
+#EXTINF:0 tvg-logo="" group-title="",tnt
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-#EXTINF: -1,tnt
+#EXTINF:0 tvg-logo="" group-title="",tnt 1
 https://bit.ly/3GvFH5T
 
 #EXTINF: -1, sbt2
 https://sinalpublico.com/player3/ch.php?canal=sportv1" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
 
 
-#EXTINF: -1,GLOBO sat
+#EXTINF:0 tvg-logo="" group-title="",globo sa
 https://sinalpublico.com/player3/ch.m3u8
 
-#EXTINF: -1,GLOBO OK
+#EXTINF:0 tvg-logo="" group-title="",globo ok
 https://edge-aws.aovivotv.xyz/hls/s:5.161.69.129/globosp_cfe21c68_01dcb04bda75e5b0ac1a3eb27053320e05fd3e9d/playlist.m3u8?
 
-#EXTINF: -1,sbt 2
+#EXTINF:0 tvg-logo="" group-title="",SBt 2
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w436420930_b350000.m3u8
 
 
-#EXTINF: -1, Se Sobreviver, Caso: 2
 
-#EXTINF: -1,31
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8
-#EXTINF: -1,41
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8?
-#EXTINF: -1,51
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sportvsd/video.m3u8?md5=
