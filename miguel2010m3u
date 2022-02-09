@@ -1,14 +1,14 @@
 # EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",globo
-https://sinalpublico.com/player3/ch.php?canal=bobosp
+#EXTINF:0 tvg-logo="" group-title="",FEMININO
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",tnt
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",tnt 1
-https://bit.ly/3GvFH5T
+#EXTINF:0 tvg-logo="" group-title="",PALMEIRAS
+https://vxtesfpnirlelbsb.wzcdn804.net:8443/hls/8uivez2xwc4h8.m3u8?s=7XsAXaOXy0bbRwx96ivqPQ&e=1644434747
 
 #EXTINF: -1, sbt2
 https://sinalpublico.com/player3/ch.php?canal=sportv1" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
