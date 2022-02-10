@@ -1,17 +1,17 @@
 # EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",FEMININO
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="",INTER
+https://assistirtv.xyz/sportv/video.m3u8?token=1fa111127d4dd44b41faffbe42a4f97204854a40-721303f613c35fd060e725c30ec62d2a-1644469683-1644466083&remote=186.213.136.152
 
 
-#EXTINF:0 tvg-logo="" group-title="",tnt
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="",tnt VR
+https://assistirtv.xyz/sportv/video.m3u8?
 
 
 #EXTINF:0 tvg-logo="" group-title="",PALMEIRAS
-https://vxtesfpnirlelbsb.wzcdn804.net:8443/hls/8uivez2xwc4h8.m3u8?s=7XsAXaOXy0bbRwx96ivqPQ&e=1644434747
+https://assistirtv.xyz/sportv2/video.m3u8?token=99c7dba8930dc4c91453f988d82d58001546a04e-4ba0de598d4f1a9b620a989cfc3f12c2-1644469886-1644466286&remote=186.213.136.152
 
-#EXTINF: -1, sbt2
-https://sinalpublico.com/player3/ch.php?canal=sportv1" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
+#EXTINF: -1, SPORTV 2
+https://assistirtv.xyz/premiereclube/video.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",globo sa
