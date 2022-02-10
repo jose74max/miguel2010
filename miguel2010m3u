@@ -1,6 +1,6 @@
 # EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",INTER
-https://assistirtv.xyz/sportv/video.m3u8?token=1fa111127d4dd44b41faffbe42a4f97204854a40-721303f613c35fd060e725c30ec62d2a-1644469683-1644466083&remote=186.213.136.152
+#EXTINF:0 tvg-logo="" group-title="",BOTA
+https://cdn.plt.one/cdn/premium78/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",tnt VR
