@@ -8,14 +8,14 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/ind
 
 
 #EXTINF:0 tvg-logo="" group-title="",ju da serra
-https://sportsonline.to/channels/bra/br1.php
+https://sportsonline.to/channels/bra/br1.php.m3u8
 
-#EXTINF: -1, SPORTV 2
-https://assistirtv.xyz/premiereclube/video.m3u8
+#EXTINF: -1, SPORTV 
+https://txebpkfwqjdzehps.wzcdn594.net:8443/hls/8uivez2xwc4h8.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",globo sa
-https://sinalpublico.com/player3/ch.m3u8
+#EXTINF:0 tvg-logo="" group-title="",globo ju
+https://txebpkfwqjdzehps.wzcdn594.net:8443/hls/8uivez2xwc4h8.m3u8?s=JZAXm6IgXg_erRF9w0Nf4g&e=1644816152
 
 #EXTINF:0 tvg-logo="" group-title="",globo ok
 https://edge-aws.aovivotv.xyz/hls/s:5.161.69.129/globosp_cfe21c68_01dcb04bda75e5b0ac1a3eb27053320e05fd3e9d/playlist.m3u8?
