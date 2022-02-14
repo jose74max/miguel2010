@@ -3,8 +3,8 @@
 https://sinalpublico.com/live/player3/ch.php?canal=sportv1&img=sportv1.m3u
 
 
-#EXTINF:0 tvg-logo="" group-title="",gremio x juventude
-http://SERVIDOR:25461/live/USUARIO/SE...
+#EXTINF:0 tvg-logo="" group-title="",gremio 3
+https://sinalpublico.com/live/player3/ch.php?canal=sportv1&img=sportv1.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",juaresj
 https://sportsonline.to/live/channels/bra/.m3u8
@@ -13,8 +13,8 @@ https://sportsonline.to/live/channels/bra/.m3u8
 https://sinalpublico.com/live/player3/ch.m3u8?
 
 
-#EXTINF:0 tvg-logo="" group-title="",globo ju
-https://txebpkfwqjdzehps.wzcdn594.net:8443/live/hls/8uivez2xwc4h8.m3u8?s=JZAXm6IgXg_erRF9w0Nf4g&e=1644816152
+#EXTINF:0 tvg-logo="" group-title="",globo sat
+https://sinalpublico.com/live/player3/.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",globo bigua
 https://txebpkfwqjdzehps.wzcdn594.net:8443/live/hls/8uivez2xwc4h8.m3u8?s=JZAXm6IgXg_erRF9w0Nf4g&e=1644816152.m3u
