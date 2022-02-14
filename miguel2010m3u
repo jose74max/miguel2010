@@ -1,6 +1,6 @@
 # EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",jux2
-https://txebpkfwqjdzehps.wzcdn594.net:8443/hls/8uivez2xwc4h8.m3u8
+#EXTINF:0 tvg-logo="" group-title="",jure
+https://txebpkfwqjdzehps.wzcdn594.net:8443/live//hls/8uivez2xwc4h8.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",gremio x juventude
@@ -15,10 +15,10 @@ https://txebpkfwqjdzehps.wzcdn594.net:8443/hls/8uivez2xwc4h8.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",globo ju
-https://txebpkfwqjdzehps.wzcdn594.net:8443/hls/8uivez2xwc4h8.m3u8?s=JZAXm6IgXg_erRF9w0Nf4g&e=1644816152
+https://txebpkfwqjdzehps.wzcdn594.net:8443/live/hls/8uivez2xwc4h8.m3u8?s=JZAXm6IgXg_erRF9w0Nf4g&e=1644816152
 
-#EXTINF:0 tvg-logo="" group-title="",globo ok
-https://edge-aws.aovivotv.xyz/hls/s:5.161.69.129/globosp_cfe21c68_01dcb04bda75e5b0ac1a3eb27053320e05fd3e9d/playlist.m3u8?
+#EXTINF:0 tvg-logo="" group-title="",globo bigua
+https://txebpkfwqjdzehps.wzcdn594.net:8443/live/hls/8uivez2xwc4h8.m3u8?s=JZAXm6IgXg_erRF9w0Nf4g&e=1644816152.m3u
 
 #EXTINF:0 tvg-logo="" group-title="",SBt 2
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w436420930_b350000.m3u8
