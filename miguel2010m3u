@@ -1,17 +1,16 @@
 # EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",jure
-https://txebpkfwqjdzehps.wzcdn594.net:8443/live//hls/8uivez2xwc4h8.m3u8
+#EXTINF:0 tvg-logo="" group-title="",jurere
+https://sinalpublico.com/live/player3/ch.php?canal=sportv1&img=sportv1.m3u
 
 
 #EXTINF:0 tvg-logo="" group-title="",gremio x juventude
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
+http://SERVIDOR:25461/live/USUARIO/SE...
 
 #EXTINF:0 tvg-logo="" group-title="",ju empate
 https://sportsonline.to/live/channels/bra/br1.php.m3u8
 
-#EXTINF: -1, SPORTV 
-https://txebpkfwqjdzehps.wzcdn594.net:8443/hls/8uivez2xwc4h8.m3u8
+#EXTINF: -1, SPORTV 2
+https://sinalpublico.com/live/player3/ch.php?.m3u
 
 
 #EXTINF:0 tvg-logo="" group-title="",globo ju
