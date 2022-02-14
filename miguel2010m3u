@@ -6,8 +6,8 @@ https://sinalpublico.com/live/player3/ch.php?canal=sportv1&img=sportv1.m3u
 #EXTINF:0 tvg-logo="" group-title="",gremio x juventude
 http://SERVIDOR:25461/live/USUARIO/SE...
 
-#EXTINF:0 tvg-logo="" group-title="",ju empate de
-https://sportsonline.to/live/channels/bra/br1.php?.m3u8
+#EXTINF:0 tvg-logo="" group-title="",juaresj
+https://sportsonline.to/live/channels/bra/.m3u8
 
 #EXTINF: -1, SPORTV ac
 https://sinalpublico.com/live/player3/ch.m3u8?
