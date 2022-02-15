@@ -1,6 +1,6 @@
 # EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",singular
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="",jigolo
+https://sinalpublico.com/live/player3/ch.php?canal=tnt.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",jucak
 https://futebolplayhd.com/live/player/cdn.php?id=vintequatrohrs4.m3u8
