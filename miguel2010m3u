@@ -1,7 +1,7 @@
 # EXTM3U
 #EXTINF:0 tvg-logo="" group-title="",jacar
 https://sinalpublico.com/live/player3/ch.php?canal=foxsports1.m3u8
-
+https://sinalpublico.com/player3/ch.php?canal=foxsports1
 
 #EXTINF:0 tvg-logo="" group-title="",gremio 2
 https://sinalpublico.com/live/player3/ch.php?.m3u8
@@ -13,8 +13,8 @@ https://cdn.esporteone.com/live/SPORTVSD.m3u8?
 https://sinalpublico.com/live/player3.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",globo tvh
-https://cdn.esporteone.com/live/.m3u8?
+#EXTINF:0 tvg-logo="" group-title="",globo r
+http://213.163.65.9:8081/live/sportv2k/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",globo exemplo
 http://cdn1.sistema.ovh/live/Space_HD+.m3u8
