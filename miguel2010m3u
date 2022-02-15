@@ -2,11 +2,11 @@
 #EXTINF:0 tvg-logo="" group-title="",singular
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",gremio ovo2
-https://sinalpublico.com/live/player3/ch.php?.m3u
+#EXTINF:0 tvg-logo="" group-title="",juca1
+http://www.janjua.tv/sheik.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",juaresa1
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="",juca
+http://www.janjua.tv/live/sheik.m3u8
 
 #EXTINF: -1, SPORTV ac
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
