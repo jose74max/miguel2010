@@ -21,5 +21,13 @@ http://cdn1.sistema.ovh/live/Space_HD+.m3u8
 #EXTINF:0 tvg-logo="" group-title="",SBt 2
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w436420930_b350000.m3u8
 
+#EXTINF: -1, SPORTV b
+https://glxlmn026c.singularcdn.net.br/playout_08/playlist-720p.m3u8
 
+
+#EXTINF: -1, SPORTV 
+https://glxlmn026c.singularcdn.net.br/playout_09/playlist-720p.m3u8
+
+#EXTINF: -1, SPORTV a
+https://glxlmn026c.singularcdn.net.br/playout_10/playlist-720p.m3u8
 
