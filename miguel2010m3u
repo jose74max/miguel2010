@@ -1,10 +1,10 @@
 # EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",jacare
-https://sinalpublico.com/live/player3.m3u8
+#EXTINF:0 tvg-logo="" group-title="",jacareg
+https://sinalpublico.com/player3/ch.php?canal=foxsports1.m3u
 
 
-#EXTINF:0 tvg-logo="" group-title="",gremio 
-https://sinalpublico.com/live/player3/ch.php.m3u8
+#EXTINF:0 tvg-logo="" group-title="",gremio 2
+https://sinalpublico.com/player3/ch.php?.m3u
 
 #EXTINF:0 tvg-logo="" group-title="",juaresa
 https://cdn.esporteone.com/live/SPORTVSD.m3u8?
