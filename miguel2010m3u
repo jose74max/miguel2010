@@ -1,6 +1,6 @@
 # EXTM3U
-#EXTINF:0 tvg-logo="" group-title="",jurere
-https://sinalpublico.com/live/player3/ch.php?canal=sportv1&img=sportv1.m3u
+#EXTINF:0 tvg-logo="" group-title="",jararaca
+https://sinalpublico.com/live/player3.m3u
 
 
 #EXTINF:0 tvg-logo="" group-title="",gremio 3
