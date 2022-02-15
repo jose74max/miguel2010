@@ -7,14 +7,14 @@ https://sinalpublico.com/live/player3.m3u8
 https://sinalpublico.com/live/player3/ch.php?canal=sportv1&img=sportv1.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",juaresa
-https://cdn.esporteone.com/live/SPORTVSD/video.m3u8?
+https://cdn.esporteone.com/live/SPORTVSD.m3u8?
 
 #EXTINF: -1, SPORTV ac
 https://sinalpublico.com/live/player3.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",globo sat
-https://sinalpublico.com/live/player3/.m3u8
+#EXTINF:0 tvg-logo="" group-title="",globo tv
+https://cdn.esporteone.com/live/.m3u8?
 
 #EXTINF:0 tvg-logo="" group-title="",globo exemplo
 http://cdn1.sistema.ovh/live/Space_HD+.m3u8
