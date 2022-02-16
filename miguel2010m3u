@@ -5,15 +5,13 @@ https://sinalpublico.com/live/player3/ch.php?canal=tnt.m3u8
 #EXTINF:0 tvg-logo="" group-title="",jucak
 https://futebolplayhd.com/live/player/cdn.php?id=vintequatrohrs4.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",juca
-http://www.janjua.tv/live/sheik.m3u8
-
-#EXTINF: -1, SPORTV ac
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="" group-title="",pluto 1
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?
 
 
-#EXTINF:0 tvg-logo="" group-title="",globo r
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",pluto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:0 tvg-logo="" group-title="",globo exemplo
 http://cdn1.sistema.ovh/live/Space_HD+.m3u8
