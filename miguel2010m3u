@@ -2,7 +2,14 @@
 
 #EXTINF:-1,Cine Pipoca 3
 http://cms-eu-01.casap2p.online:8080/chiquinho/102030/19384
-
+#EXTINF:-1,O Resgate (2014)
+http://cms-eu-01.casap2p.online:8080/movie/joaquim/joaquim123/59758.mp4
+#EXTINF:-1,Os Aventureiros do Bairro Proibido (1986)
+http://cms-eu-01.casap2p.online:8080/movie/joaquim/joaquim123/59759.mp4
+#EXTINF:-1,Os Bad Boys (1995)
+http://cms-eu-01.casap2p.online:8080/movie/joaquim/joaquim123/59760.mp4
+#EXTINF:-1,Os Bad Boys II (2003)
+http://cms-eu-01.casap2p.online:8080/movie/joaquim/joaquim123/59761.mp4
 #EXTINF:0 tvg-logo="" group-title="",jucak
 https://futebolplayhd.com/live/player/cdn.php?id=vintequatrohrs4.m3u8
 
