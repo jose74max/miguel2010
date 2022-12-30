@@ -1,7 +1,8 @@
 # EXTM3U
 
-#EXTINF:-1,fla x atl
-https://qihfcyimrchk.cdnexpress59.net:8443/hls/vfpbr8pmghr6j7t.m3u8?s=EJOkR0AU3NqLbbXTTLbaLQ&e=1665899184
+#EXTINF:-1,avatar
+
+https://qihfcyimrchk.cdnexpress59.net:8443/hls/vfpbr8pmghr6j7t.m3u8?s=EJOkR0AU3NqLbbXTTLbaLQ&e=1665899184https://delivery343.akamai-cdn-content.com/hls2/01/10408/qp1dpfu8ebyf_l/seg-1-v1-a1.ts?t=by62nzXcGRvXsI-LdClp3qcDC2vWvP6bAsvu0jJpdAg&s=1672368305&e=10800&f=52042790&srv=sto121&client=70.101.170.109
 #EXTINF:-1,Os Aventureiros do Bairro Proibido (1986)
 http://cms-eu-01.casap2p.online:8080/movie/joaquim/joaquim123/59759.mp4
 #EXTINF:-1,Os Bad Boys (1995)
