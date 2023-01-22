@@ -10,10 +10,8 @@ https://m3u9.ml/a2/hls1/foxsports2-bk.m3u8?
 https://m3u9.ml/a2/hls1/band.m3u8?mu3zAQc9HC3GbwJq=kUDszmDsPFNhW5vTaMs33A&3U1G7qaTxrPbalZnEx=1671531131
 #EXTINF:0 tvg-logo="" group-title="",jucatthttps://m3u9.ml/a2/hls1/band.m3u8?
 
-#EXTINF:0 tvg-logo="" group-title="",ufv
-https://m3u9.ml/a2/hls1/ufcfightpass-bk2.m3u8?
-https://sinalpublico.com/player3/ch.php?canal=ufcfightpass
-
+#EXTINF:0 tvg-logo="" group-title="",srte
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w6239628.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",SBt  gr
