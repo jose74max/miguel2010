@@ -14,8 +14,8 @@ https://m3u9.ml/a2/hls1/band.m3u8?mu3zAQc9HC3GbwJq=kUDszmDsPFNhW5vTaMs33A&3U1G7q
 https://sinalpublico.com/player3/ch.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",SBt  gr
-https://youtu.be/ABVQXgr2LW4
-#EXTINF: -1, the rock
-https://m3u9.top/hls2/RedeCanais/RedeCanais/RCFServer5/ondemand/JNGLCRSAMLDCNSCNFSDSLV/JNGLCRSAMLDCNSCNFSDSLV.m3u8?mu3zAQc9HC3GbwJq=d5wOx0ArdoKYR1VN03YeFw&3U1G7qaTxrPbalZnEx=1645609611
+https://m3u9.ml/a2/hls1/sportv1-bk2.m3u8?mu3zAQc9HC3GbwJq=PZW2jT-GWT4td5gbpt0yyg&3U1G7qaTxrPbalZnEx=1674737565
 
-2https://sinalpublico.com/player3/ch.m3u8
+
+#EXTINF: -1, the  badada
+https://sinalpublico.com/player3/ch.php?canal=sportv1
