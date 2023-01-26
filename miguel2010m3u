@@ -6,7 +6,7 @@
 
 
 #EXTINF:0 tvg-logo="" group-title="",sportv
-https://br.embedflix.net/p2p/sportv/chunks.m3u8?nimblesessionid=233705&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIzIDU6NTg6MjYgQU0maGFzaF92YWx1ZT0yQ2thMWRlVVJwS1pRcDZrWUdadHFnPT0mdmFsaWRtaW51dGVzPTkw
+https://server100.online/sportv2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=bd0955c0d042d895e09ced41998d88e50c25acc3-c0c31f229db98f9c144e4a8daade323c-1674754837-1674747637
 
 
 #EXTINF:0 tvg-logo="" group-title="",ufc pas
