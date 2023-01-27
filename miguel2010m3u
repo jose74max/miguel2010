@@ -6,14 +6,16 @@
 
 
 #EXTINF:0 tvg-logo="" group-title="",sportv
-https://server100.online/sportv2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=bd0955c0d042d895e09ced41998d88e50c25acc3-c0c31f229db98f9c144e4a8daade323c-1674754837-1674747637
-
+https://server100.online/sportv2/tracks-v1a1/mono.m3u8?
 
 #EXTINF:0 tvg-logo="" group-title="",sportv 2 hd
 https://server100.online/sportv2-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=14a7ed1d6bd94ee9270e491b27dfb1757a1bebbe-0145c0ebb54a7e4829c9d6ff2e2930a7-1674755383-1674748183
 
 #EXTINF:0 tvg-logo="" group-title="",premier 1 
-https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=eda615ac93044b2532464f1ab3a079d29e5777a4-14556185b6b6dce080a1bc45f9cf5852-1674717496-1674710296
+https://server100.online/sportv-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=bd873bcd0109f40bc05e5f8c4b193916454f588b-067c884992fa3feeb5cc49600990d2d8-1674796396-1674789196
 
 #EXTINF:0 tvg-logo="" group-title="",sportv ao vivo tv
 https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/sportv_91dfde1d_c1235178d89bea4ed58a4b31d2000cd1de556c27/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNTE6ODQxMzo1MDAwOjc1ZTg6YWIwNToxYWE5OmVhNDciO2k6MTtzOjExMToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjc0NzQ4Nzc0O30%3D
+
+#EXTINF:0 tvg-logo="" group-title="",globo
+https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=4b9d6c91c77ce75d6c15922c6eae1ccfc344b87d-7b0cfe26ae4c4bdada75e7ef6e976253-1674795607-1674788407
