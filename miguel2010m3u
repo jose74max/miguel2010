@@ -5,11 +5,11 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",inter
-https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=ec4635b706a2ef6022b90a1871e9853d33090bdd-017eeef0b2fbed6810887520aae8683f-1674938171-1674934571
+#EXTINF:0 tvg-logo="" group-title="",inter2
+https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=5994f49432bce49c8fdb70666265fffea2ba3fd7-4341c133aea8cf928fa31c0a12d2a0a1-1674941580-1674937980
 /player3/canaishlb.php?canal=foxsports2&img=foxsports2
-#EXTINF:0 tvg-logo="" group-title="",sportv 2 hd
-https://server100.online/sportv2-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=14a7ed1d6bd94ee9270e491b27dfb1757a1bebbe-0145c0ebb54a7e4829c9d6ff2e2930a7-1674755383-1674748183
+#EXTINF:0 tvg-logo="" group-title="",sportv inter 3
+https://server100.online/premiere2-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=100e45d16a4aba84c103b592d71db5c3a18eb375-648d7619e918f633a8b8778dbf0d4aa5-1674941626-1674938026
 
 #EXTINF:0 tvg-logo="" group-title="",premier 1 
 https://server100.online/sportv-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=bd873bcd0109f40bc05e5f8c4b193916454f588b-067c884992fa3feeb5cc49600990d2d8-1674796396-1674789196
