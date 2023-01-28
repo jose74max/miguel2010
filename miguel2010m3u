@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",basquete 2
-https://newtest.webtv1.lol/ddy4/premium13/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="",inter
+https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=ec4635b706a2ef6022b90a1871e9853d33090bdd-017eeef0b2fbed6810887520aae8683f-1674938171-1674934571
 /player3/canaishlb.php?canal=foxsports2&img=foxsports2
 #EXTINF:0 tvg-logo="" group-title="",sportv 2 hd
 https://server100.online/sportv2-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=14a7ed1d6bd94ee9270e491b27dfb1757a1bebbe-0145c0ebb54a7e4829c9d6ff2e2930a7-1674755383-1674748183
