@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",inter2
-https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=5994f49432bce49c8fdb70666265fffea2ba3fd7-4341c133aea8cf928fa31c0a12d2a0a1-1674941580-1674937980
+#EXTINF:0 tvg-logo="" group-title="",gre
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 /player3/canaishlb.php?canal=foxsports2&img=foxsports2
 #EXTINF:0 tvg-logo="" group-title="",sportv inter 3
 https://server100.online/premiere2-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=100e45d16a4aba84c103b592d71db5c3a18eb375-648d7619e918f633a8b8778dbf0d4aa5-1674941626-1674938026
