@@ -8,13 +8,13 @@
 #EXTINF:0 tvg-logo="" group-title="",gre
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",inter e caxias
-https://no2.onlinewebtv.lol/ddy1/premium88/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="",JU
+https://server100.online/premiere2-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=2e914de4e0e789da212ee7265e83f4b02b4b4f52-b9f6632a0282b6dd183c249fb484b31e-1675988897-1675981697
 
-#EXTINF:0 tvg-logo="" group-title="",inter 2
-https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/premiereclubes_3f1522d0_4e6e259a1b99773cc51581380dd558492c864c18/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDpkNTE6ODQxMzo1MDAwOjgxNmQ6OTZjOjhlZDU6NzY3OSI7aToxO3M6MTExOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA5LjAuMC4wIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2NzU4OTg1MjI7fQ%3D%3D
+#EXTINF:0 tvg-logo="" group-title="",JU 2
+https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=0cbff925a8159040d9ee11991e869f9025516e43-caa109f0f379e7660d96a571c9f9e29d-1675988980-1675981780
 
-#EXTINF:0 tvg-logo="" group-title="",caxias
-https://no2.onlinewebtv.lol/ddy1/premium88/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="",JU 3
+https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=e1fbf586384ae8e0703afd1b29d14327c7dea5cc-9f0b108bd387996c2c527823def74d54-1675989069-1675981869
 #EXTINF:0 tvg-logo="" group-title="",globo
 https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=4b9d6c91c77ce75d6c15922c6eae1ccfc344b87d-7b0cfe26ae4c4bdada75e7ef6e976253-1674795607-1674788407
