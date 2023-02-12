@@ -5,11 +5,11 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",INTER
-https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=edd9b8a75dc14e67ac794f58ce0497cafa878e36-988a04e555224e857e6dec6e9cf88231-1676166451-1676159251
+#EXTINF:0 tvg-logo="" group-title="",AVENIDA 1
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=536c80b90e39bfc9e5d69e50aad30730348ef24a-398f27cbf2dc2c23bd9f747c4103db13-1676236070-1676228870
 
 #EXTINF:0 tvg-logo="" group-title="",INTER2
-https://server100.online/sportv/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=22343dd1d134cf181a2c3965eb7b304a4b25be36-34da92f9b79bf4fe4d5396c9c5effd8e-1676166547-1676159347
+https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=f5ecea54a1d78a38700aaf2fb2d5431afe93e252-7db3b2717acbe3da2d1eeaa74f084358-1676236129-1676228929
 #EXTINF:0 tvg-logo="" group-title="",SPORTV SD
 https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=a71f2ef33555f699b9139765de7c87c10599f536-46c74bb67c7059ceed8334143d8a4a40-1676166609-1676159409
 #EXTINF:0 tvg-logo="" group-title="",JU 3
