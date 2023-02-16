@@ -5,14 +5,14 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",AVENIDA 1
-https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=536c80b90e39bfc9e5d69e50aad30730348ef24a-398f27cbf2dc2c23bd9f747c4103db13-1676236070-1676228870
+#EXTINF:0 tvg-logo="" group-title="",SPORTV
+https://server100.online/sportv/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=1bc0a9f74ba2238cfeb21f31e8475522899f1cdc-8f2c44f8e63a2118925e4bdbcd283712-1676596526-1676589326
 
-#EXTINF:0 tvg-logo="" group-title="",INTER2
-https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=f5ecea54a1d78a38700aaf2fb2d5431afe93e252-7db3b2717acbe3da2d1eeaa74f084358-1676236129-1676228929
+#EXTINF:0 tvg-logo="" group-title="",SPORTV 1
+https://server100.online/sportv-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=06f908bb2b3c88c19f90993f6bfd4fafb842118d-39dd0424aaa78f4398e2015a9c076891-1676596659-1676589459
 #EXTINF:0 tvg-logo="" group-title="",SPORTV SD
 https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=a71f2ef33555f699b9139765de7c87c10599f536-46c74bb67c7059ceed8334143d8a4a40-1676166609-1676159409
 #EXTINF:0 tvg-logo="" group-title="",JU 3
 https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=e1fbf586384ae8e0703afd1b29d14327c7dea5cc-9f0b108bd387996c2c527823def74d54-1675989069-1675981869
-#EXTINF:0 tvg-logo="" group-title="",globo
-https://server100.online/globo-sp/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=4b9d6c91c77ce75d6c15922c6eae1ccfc344b87d-7b0cfe26ae4c4bdada75e7ef6e976253-1674795607-1674788407
+#EXTINF:0 tvg-logo="" group-title="",INTER 1
+https://br.embedflix.net/p2p/sportv/chunks.m3u8?nimblesessionid=2635123&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIzIDExOjMxOjM2IFBNJmhhc2hfdmFsdWU9cEltanpncVcyeGNPMG40dUQraW5GQT09JnZhbGlkbWludXRlcz05MA==
