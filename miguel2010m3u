@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",SPORTV
-https://server100.online/sportv/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=1bc0a9f74ba2238cfeb21f31e8475522899f1cdc-8f2c44f8e63a2118925e4bdbcd283712-1676596526-1676589326
+#EXTINF:0 tvg-logo="" group-title="",pepa
+https://server100.online/discovery-kids/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=02293872609369b9aaedb10c06b1a0d5b69b4c9a-c8a264ab85798a1cb5569d699323efd1-1676666528-1676662928
 
 #EXTINF:0 tvg-logo="" group-title="",SPORTV 1
 https://server100.online/sportv-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=06f908bb2b3c88c19f90993f6bfd4fafb842118d-39dd0424aaa78f4398e2015a9c076891-1676596659-1676589459
