@@ -5,11 +5,11 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",pepa
-https://server100.online/discovery-kids/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=4c9dd4a174795012cc187804d8f0d0f262316208-a8d1878d311bbed0c0f1fe46733837e3-1676673685-1676666485
+#EXTINF:0 tvg-logo="" group-title="",kids
+https://server100.online/discovery-kids/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=a02b49ad2e9b4af96ff0b204d794ffdd6b138f5f-b6fc4d3553da6bd35f7a624445d5b9e7-1676740131-1676736531
 
-#EXTINF:0 tvg-logo="" group-title="",SPORTV 1
-https://server100.online/sportv-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=06f908bb2b3c88c19f90993f6bfd4fafb842118d-39dd0424aaa78f4398e2015a9c076891-1676596659-1676589459
+#EXTINF:0 tvg-logo="" group-title="",kids 2
+https://server100.online/discovery-kids/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=6cf89bb4604bf992cb56ea9fdc79039d03d41d95-0025fae8cdc006ebfdee7270943c0816-1676740244-1676736644
 #EXTINF:0 tvg-logo="" group-title="",SPORTV SD
 https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=a71f2ef33555f699b9139765de7c87c10599f536-46c74bb67c7059ceed8334143d8a4a40-1676166609-1676159409
 #EXTINF:0 tvg-logo="" group-title="",GLOBO
