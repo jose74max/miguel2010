@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",kids
-https://server100.online/discovery-kids/tracks-v1a1/mono.m3u8?remote=200.163.134.49&token=6d767f904fb395d23ee9f207191fd2eade1af18b-619ddb0028b7393a67859f23c3443cfd-1676909946-1676902746
+#EXTINF:0 tvg-logo="" group-title="",BOB
+https://server100.online/bob/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=bec91b90ea6e3ed284a0bee5e0b19f911b40e188-dc247c180444a8251dae2f3bf23d8b26-1677341923-1677334723
 
 #EXTINF:0 tvg-logo="" group-title="bete
 https://cloclo59.datacloudmail.ru/public/view/7Zz9ZcLvUQz3pLDu393ztJsi5VK2fBKRq9dbTDGrLfJiZXKAerShPqSEobM5mygMmTgHkv/no/cw5YfgRI6PziE8ls.mp4
