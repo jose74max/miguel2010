@@ -8,8 +8,8 @@
 #EXTINF:0 tvg-logo="" group-title="",ufc
 https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=cfa99b9b2bb1415dc0e1a0d4b8392442d7033657-d476e0b139ef1df807cb45ebfcfee4bf-1677992798-1677985598
 
-#EXTINF:0 tvg-logo="" group-title="",DISKOVERY
-https://server100.online/discovery-kids/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=e2ea14375c0bdfd2048308293615161198b1778a-8070c199b5b54e12947d4ce019f519eb-1677338530-1677334930
+#EXTINF:0 tvg-logo="" group-title="",2
+https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=5097deaef2f1538f535d456816548cafc6a7a1f0-7e56d3adebddb27ac191e5f370822407-1677993169-1677985969
 
 #EXTINF:0 tvg-logo="" group-title="",BABY
 https://server100.online/babyfirst/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=21c912302a4a8cff9f6aefd3c05d6e72345efa6b-a3b859e9fd41b7350fb234c3ac0a2732-1677342423-1677335223
