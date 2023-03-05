@@ -10,7 +10,7 @@ https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.2
 
 #EXTINF:0 tvg-logo="" group-title="",inter 2
 https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=244db084f1b300f6afdc86e39c3720ed8ebbe443-93c749120b9ce46389ff5ed4dc33e839-1678063950-1678056750
-#EXTINF:0 tvg-logo="" group-title="",BABY
-https://server100.online/ufc2/tracks-v1a1/mono.m3u8?
-#EXTINF:0 tvg-logo="" group-title="",botas
-https://source2.simpleans.xyz/_6ikksRUM4hTML22MPg06_7oNu5b4SxD5G6i8mGKejwYIKlqHUC5Lx76qHsZACbj9KXFca3qI-OjCILtd2KrUA/dlc7rpPJUs1y6AQ4weJPR3Na938Tnsgc2VebfnpdxiU/480.m3u8
+#EXTINF:0 tvg-logo="" group-title="",grenal
+https://server100.online/premiereclube/tracks-v1a1/2023/03/05/23/56/54-08342.ts?token=3ab910edeff77acc6c82774b1468c95bc15c8869-612dbc21e893caa8f8b9943426f0ecaf-1678067502-1678060302
+#EXTINF:0 tvg-logo="" group-title="",grenal sd
+https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=05ab4067fa9231c0cc76ca8b79ff5aed89ae2396-0e414a905efcd31ad2c5ceb502bf253f-1678067598-1678060398
