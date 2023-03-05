@@ -5,12 +5,11 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",ufc
-https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=076b4c3c622f196a55236bfa406c700eaff9e532-97712d99060e62d19fb39d01158fc877-1678000254-1677993054
+#EXTINF:0 tvg-logo="" group-title="",inter 01
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=45346cd874919542530ba1ad74aa19978b38fc06-472d789ffcb088bdbb412eb41a0d8e5e-1678063854-1678056654
 
-#EXTINF:0 tvg-logo="" group-title="",2
-https://server100.online/ufc2/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=62e8f4d4dc5926822bfee00c5b3d9ff62a86c2d2-1dee84d28fe8a5987b16912b33ee5946-1678000311-1677993111
-
+#EXTINF:0 tvg-logo="" group-title="",inter 2
+https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=244db084f1b300f6afdc86e39c3720ed8ebbe443-93c749120b9ce46389ff5ed4dc33e839-1678063950-1678056750
 #EXTINF:0 tvg-logo="" group-title="",BABY
 https://server100.online/ufc2/tracks-v1a1/mono.m3u8?
 #EXTINF:0 tvg-logo="" group-title="",botas
