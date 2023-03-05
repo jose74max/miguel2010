@@ -6,13 +6,12 @@
 
 
 #EXTINF:0 tvg-logo="" group-title="",ufc
-https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=cfa99b9b2bb1415dc0e1a0d4b8392442d7033657-d476e0b139ef1df807cb45ebfcfee4bf-1677992798-1677985598
+https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=076b4c3c622f196a55236bfa406c700eaff9e532-97712d99060e62d19fb39d01158fc877-1678000254-1677993054
 
 #EXTINF:0 tvg-logo="" group-title="",2
-https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=5097deaef2f1538f535d456816548cafc6a7a1f0-7e56d3adebddb27ac191e5f370822407-1677993169-1677985969
+https://server100.online/ufc2/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=62e8f4d4dc5926822bfee00c5b3d9ff62a86c2d2-1dee84d28fe8a5987b16912b33ee5946-1678000311-1677993111
 
 #EXTINF:0 tvg-logo="" group-title="",BABY
-https://server100.online/babyfirst/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=21c912302a4a8cff9f6aefd3c05d6e72345efa6b-a3b859e9fd41b7350fb234c3ac0a2732-1677342423-1677335223
-
+https://server100.online/ufc2/tracks-v1a1/mono.m3u8?
 #EXTINF:0 tvg-logo="" group-title="",botas
 https://source2.simpleans.xyz/_6ikksRUM4hTML22MPg06_7oNu5b4SxD5G6i8mGKejwYIKlqHUC5Lx76qHsZACbj9KXFca3qI-OjCILtd2KrUA/dlc7rpPJUs1y6AQ4weJPR3Na938Tnsgc2VebfnpdxiU/480.m3u8
