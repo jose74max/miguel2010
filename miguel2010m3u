@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",BOB
-https://server100.online/bob/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=bec91b90ea6e3ed284a0bee5e0b19f911b40e188-dc247c180444a8251dae2f3bf23d8b26-1677341923-1677334723
+#EXTINF:0 tvg-logo="" group-title="",ufc
+https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=cfa99b9b2bb1415dc0e1a0d4b8392442d7033657-d476e0b139ef1df807cb45ebfcfee4bf-1677992798-1677985598
 
 #EXTINF:0 tvg-logo="" group-title="",DISKOVERY
 https://server100.online/discovery-kids/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=e2ea14375c0bdfd2048308293615161198b1778a-8070c199b5b54e12947d4ce019f519eb-1677338530-1677334930
