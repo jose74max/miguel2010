@@ -5,12 +5,14 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",inter 01
-https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=45346cd874919542530ba1ad74aa19978b38fc06-472d789ffcb088bdbb412eb41a0d8e5e-1678063854-1678056654
+#EXTINF:0 tvg-logo="" group-title="",premier
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=146a61e92b059341f17a47a617643d1214ba8265-4e62783b7021898af5748708929b5d7b-1678569202-1678562002
 
 #EXTINF:0 tvg-logo="" group-title="",inter 2
-https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=244db084f1b300f6afdc86e39c3720ed8ebbe443-93c749120b9ce46389ff5ed4dc33e839-1678063950-1678056750
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=85eebcb2f865bad6f4db5e25b2b31b0c85310daf-10fecc5d2d1558ba792bda3e02b82946-1678565799-167856219963950-1678056750
+
 #EXTINF:0 tvg-logo="" group-title="",grenal
 https://server100.online/premiereclube/tracks-v1a1/2023/03/05/23/56/54-08342.ts?token=3ab910edeff77acc6c82774b1468c95bc15c8869-612dbc21e893caa8f8b9943426f0ecaf-1678067502-1678060302
+
 #EXTINF:0 tvg-logo="" group-title="",grenal sd
 https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=05ab4067fa9231c0cc76ca8b79ff5aed89ae2396-0e414a905efcd31ad2c5ceb502bf253f-1678067598-1678060398
