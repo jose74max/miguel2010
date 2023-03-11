@@ -8,8 +8,8 @@
 #EXTINF:0 tvg-logo="" group-title="",inter 01
 https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=d2eb241b1cb865ebafede92bcd77e847575fb3e5-742c3bb2406046dacbc50983bfb594c7-1678576391-1678569191202-1678562002
 
-#EXTINF:0 tvg-logo="" group-title="",inter 2
-https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=85eebcb2f865bad6f4db5e25b2b31b0c85310daf-10fecc5d2d1558ba792bda3e02b82946-1678565799-167856219963950-1678056750
+#EXTINF:0 tvg-logo="" group-title="",inter 3
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=28bd7b1a66353ba50bf4203d97d476c9c9ede6d0-bc529dd20cd1b2e92e58acfced76a600-1678576563-1678569363
 
 #EXTINF:0 tvg-logo="" group-title="",grenal
 https://server100.online/premiereclube/tracks-v1a1/2023/03/05/23/56/54-08342.ts?token=3ab910edeff77acc6c82774b1468c95bc15c8869-612dbc21e893caa8f8b9943426f0ecaf-1678067502-1678060302
