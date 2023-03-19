@@ -6,7 +6,8 @@
 
 
 #EXTINF:0 tvg-logo="" group-title="",inter 01
-https://server100.online/prime2/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=9b24334e02405d3ac05d97ee4818b4a2b386ceea-e65a29680aa87dd0b6887d3577095f4a-1679014070-1679006870
+https://br.embedflix.net/p2p/premier2/chunks.m3u8?nimblesessionid=20504859&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIzIDY6NTQ6NTQgUE0maGFzaF92YWx1ZT0rczR1d2NTNmJ2U09Xb01VSWRPNzJ3PT0mdmFsaWRtaW51dGVzPTkw
+
 
 #EXTINF:0 tvg-logo="" group-title="",inter 3
 https://server100.online/prime2/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=1cbe67eb3cc82bea74b442157b28dec69c8d646f-5c8910f7fa83d47027933fae3d2f7d54-1679014175-1679006975
