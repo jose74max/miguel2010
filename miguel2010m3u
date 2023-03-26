@@ -5,15 +5,15 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",inter x caxias
+#EXTINF:0 tvg-logo="" group-title="",inter x caxias n
 https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=baf5ecd1d61526a3012faffb77a133a892af83ca-61f214e39a604e5cdf7f59fb107e0d7c-1679871016-1679863816
 
 
-#EXTINF:0 tvg-logo="" group-title="",inter 3
-https://server100.online/prime2/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=1cbe67eb3cc82bea74b442157b28dec69c8d646f-5c8910f7fa83d47027933fae3d2f7d54-1679014175-1679006975
+#EXTINF:0 tvg-logo="" group-title="",inter 2p
+https://br.embedflix.net/p2p/prfc1_720p/chunks.m3u8?nimblesessionid=22597181&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDIzIDEwOjAzOjMzIFBNJmhhc2hfdmFsdWU9bVhCbklQZkp0aTdMS1JqblIzMHg2dz09JnZhbGlkbWludXRlcz05MA==
 
-#EXTINF:0 tvg-logo="" group-title="",grenal
-https://server100.online/premiereclube/tracks-v1a1/2023/03/05/23/56/54-08342.ts?token=3ab910edeff77acc6c82774b1468c95bc15c8869-612dbc21e893caa8f8b9943426f0ecaf-1678067502-1678060302
+#EXTINF:0 tvg-logo="" group-title="",grena5
+https://ddy1.onlinewebtv.lol/ddy1/premium88/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",grenal sd
 https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=05ab4067fa9231c0cc76ca8b79ff5aed89ae2396-0e414a905efcd31ad2c5ceb502bf253f-1678067598-1678060398
