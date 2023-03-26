@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",inter 01
-https://br.embedflix.net/p2p/premier2/chunks.m3u8?nimblesessionid=20504859&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIzIDY6NTQ6NTQgUE0maGFzaF92YWx1ZT0rczR1d2NTNmJ2U09Xb01VSWRPNzJ3PT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:0 tvg-logo="" group-title="",inter x caxias
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=200.163.134.178&token=baf5ecd1d61526a3012faffb77a133a892af83ca-61f214e39a604e5cdf7f59fb107e0d7c-1679871016-1679863816
 
 
 #EXTINF:0 tvg-logo="" group-title="",inter 3
