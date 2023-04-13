@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",paramount 2
-https://gsczttdvw9nh.cdnexpress42.net:8443/hls/hh2qwzit8rc.m3u8?s=KpgZSCT3K6qzmuc2QYZpeg&e=1680682986
+#EXTINF:0 tvg-logo="" group-title="",paramount 
+https://server100.online/prime/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=cde9e787b29b8e29e8d9c6b2ed026ec4f7cde5ec-924f903a2e383704e47435efe0d8b89c-1681358457-1681351257
 
 #EXTINF:0 tvg-logo="" group-title="",para1
 https://server100.online/paramount/tracks-v1a1/mono.m3u8?remote=177.6.47.166&token=ca7202446bc2331f81c9c09550ca24f7fb2c34e3-aa19c9be31e523746b6a415a455a482f-1680652850-1680649250
