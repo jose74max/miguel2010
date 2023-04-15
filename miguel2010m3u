@@ -5,14 +5,14 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",PALMEIRAS X CUIABA
-https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=fd4f324b60788cbd01a4fdb6678cba0f3a820206-33a8c1b2e04ca0780d7dc8c0438a4cc8-1681596168-1681588968
+#EXTINF:0 tvg-logo="" group-title="",INTER X FORTALEZA
+https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=08ab926c6e134084957b8d859dff390a7c3aeaf6-91494c7e7f6aa3e4128cd0150a04ef5c-1681600215-1681593015
 
-#EXTINF:0 tvg-logo="" group-title="",FLU X AMERICA
-https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=c5031ec8e872797d8d47b9290825a724e49c4945-a1c450d29cce90b531e047033c62bff0-1681596730-1681589530
+#EXTINF:0 tvg-logo="" group-title="",FURACAO
+https://server100.online/furacaotv/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=b65dd3a3f59729bcd4b99327f9bbf1d239155db3-8e5ad7d603b6ecc241e160c5110be607-1681600435-1681593235
 
-#EXTINF:0 tvg-logo="" group-title="",grenal sd
-https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=189.10.150.244&token=05ab4067fa9231c0cc76ca8b79ff5aed89ae2396-0e414a905efcd31ad2c5ceb502bf253f-1678067598-1678060398
+#EXTINF:0 tvg-logo="" group-title="",PAULO
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=98dbbb6e62912c85d1dcb0748a9d3f37fcb00fab-4f41186b9f5c5ba635696d27b3c04c3c-1681600523-1681593323
 
 #EXTINF:0 tvg-logo="" group-title="",grenal sd
 
