@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",INTER X FORTALEZA
-https://server100.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=08ab926c6e134084957b8d859dff390a7c3aeaf6-91494c7e7f6aa3e4128cd0150a04ef5c-1681600215-1681593015
+#EXTINF:0 tvg-logo="" group-title="",INTER X ME
+https://server100.online/conmebol2/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=500ec0fe024b4f8b7215cbf6a356ab01aee61e2d-2c6a37ed1e207507a9700226691063d6-1681862059-1681854859
 
 #EXTINF:0 tvg-logo="" group-title="",FURACAO
 https://server100.online/furacaotv/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=b65dd3a3f59729bcd4b99327f9bbf1d239155db3-8e5ad7d603b6ecc241e160c5110be607-1681600435-1681593235
