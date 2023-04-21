@@ -14,8 +14,8 @@ https://server100.online/espn/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=
 #EXTINF:0 tvg-logo="" group-title="",PAULO
 https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=98dbbb6e62912c85d1dcb0748a9d3f37fcb00fab-4f41186b9f5c5ba635696d27b3c04c3c-1681600523-1681593323
 
-#EXTINF:0 tvg-logo="" group-title="",grenal sd
-
+#EXTINF:0 tvg-logo="" group-title="",LIBRERTA
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/04/21/Libertad_PAR_vs_Alianza_L_20230421_1682036752020/cmaf-cenc-ctr-1832K/1832_complete.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",grenal sd
 
