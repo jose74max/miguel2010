@@ -5,11 +5,11 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",INTER X ME
-https://server100.online/conmebol2/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=500ec0fe024b4f8b7215cbf6a356ab01aee61e2d-2c6a37ed1e207507a9700226691063d6-1681862059-1681854859
+#EXTINF:0 tvg-logo="" group-title="",PAL1
+https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/04/20/Palmeiras_BRA_vs_Cerro_Po_20230420_1682029240067/audio-1-64K/64_slide.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",FURACAO
-https://server100.online/furacaotv/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=b65dd3a3f59729bcd4b99327f9bbf1d239155db3-8e5ad7d603b6ecc241e160c5110be607-1681600435-1681593235
+#EXTINF:0 tvg-logo="" group-title="",PAL 2
+https://server100.online/espn/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=eae8216dacc709d74ec56adb73
 
 #EXTINF:0 tvg-logo="" group-title="",PAULO
 https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=98dbbb6e62912c85d1dcb0748a9d3f37fcb00fab-4f41186b9f5c5ba635696d27b3c04c3c-1681600523-1681593323
