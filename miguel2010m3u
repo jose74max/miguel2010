@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",PAL1
-https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/04/20/Palmeiras_BRA_vs_Cerro_Po_20230420_1682029240067/audio-1-64K/64_slide.m3u8
+#EXTINF:0 tvg-logo="" group-title="",FLU X ATL
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=8b85a2fa67ff14d792f9eec0f0c668bc57de13da-197070cb835597a01a7032389c322b37-1682200573-1682193373
 
 #EXTINF:0 tvg-logo="" group-title="",PAL 2
 https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/04/21/Angers_vs_PSG_20230421_1682097646050/cmaf-cenc-ctr-1200K/1200_slide.m3u8
