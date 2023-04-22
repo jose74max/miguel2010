@@ -8,9 +8,8 @@
 #EXTINF:0 tvg-logo="" group-title="",SA
 https://br.embedflix.net/p2p/prfc1_720p/chunks.m3u8?nimblesessionid=30078999&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIzIDEwOjQxOjA4IFBNJmhhc2hfdmFsdWU9TlhCMStMbjB6Tmp4cEhmWWs2cUdJUT09JnZhbGlkbWludXRlcz05MA==
 
-#EXTINF:0 tvg-logo="" group-title="", SA 2
-https://br.embedflix.net/p2p/prfc1_720p/chunks.m3u8?nimblesessionid=30079875&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIzIDEwOjQyOjQyIFBNJmhhc2hfdmFsdWU9ZjRNZkhsc2ptWWEvREU0QmQ0SGxrUT09JnZhbGlkbWludXRlcz05MA==
-
+#EXTINF:0 tvg-logo="" group-title="", SA SI
+https://embedflix.net/tv/pfc-clubes-fhd
 #EXTINF:0 tvg-logo="" group-title="",CRB
 https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/04/21/Angers_vs_PSG_20230421_1682097646050/cmaf-cenc-ctr-5600K/5600_slide.m3u8
 
