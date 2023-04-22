@@ -8,8 +8,8 @@
 #EXTINF:0 tvg-logo="" group-title="",FLU X ATL
 https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=e1935994619b770c75550dc9250
 
-#EXTINF:0 tvg-logo="" group-title="",PAL 2
-https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/04/21/Angers_vs_PSG_20230421_1682097646050/cmaf-cenc-ctr-1200K/1200_slide.m3u8
+#EXTINF:0 tvg-logo="" group-title="",CEARA
+https://server100.online/sportv/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=8a1d5f56842be29489d051e58a0f242e53b3156c-4cdce4299152506073fe6d630861e58a-1682207071-1682199871
 
 #EXTINF:0 tvg-logo="" group-title="",CRB
 https://live-ftc-sa-east-1.media.starott.com/gru1/qb01/starplus/event/2023/04/21/Angers_vs_PSG_20230421_1682097646050/cmaf-cenc-ctr-5600K/5600_slide.m3u8
