@@ -21,8 +21,7 @@ https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",truma
-https://cloclo13.datacloudmail.ru/public/view/81tUq4nAj8bf1q4szEyyCuBPvLqAqCuo651CXd7G4a1gCXLUFFaJuFe7WSFxyuQ3jFQDvH/no/wmXw38lPlRIoWMYu.mp4
-
+#EXTINF:0 tvg-logo="" group-title="",GREMIO X BRAGANTINO
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 #EXTINF:0 tvg-logo="" group-title="",ITER X NACIONAL URUGUAI
 https://input.futebolgratis.net:8088/hls/livechannel1.m3u8
