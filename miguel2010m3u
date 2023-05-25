@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",GREMIO 
-https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
+#EXTINF:0 tvg-logo="" group-title="",metropolitano
+https://ddy5.salamus1.lol/ddy5/premium142/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="", INTER
 https://input.futebolgratis.net:8088/hls/livechannel2.m3u8
