@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",metropolitano
-https://server101.online/espn4/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=432a13fb4ae20c4939604fd70368af7b5af60c55-bbbaa4771229dbe67c06a95b42cfacba-1686271835-1686264635
+#EXTINF:0 tvg-logo="" group-title="",mJR
+https://server101.online/sportv/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=8a535ee905b922b01ef371a1a336e624e4034542-ff499cfee2d30fb1b04db0f4c632226d-1687478177-1687470977
 
 #EXTINF:0 tvg-logo="" group-title="", INTER
 https://input.futebolgratis.net:8088/hls/livechannel2.m3u8
