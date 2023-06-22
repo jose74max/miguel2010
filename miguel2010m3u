@@ -8,8 +8,8 @@
 #EXTINF:0 tvg-logo="" group-title="",mJR
 https://server101.online/sportv/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=8a535ee905b922b01ef371a1a336e624e4034542-ff499cfee2d30fb1b04db0f4c632226d-1687478177-1687470977
 
-#EXTINF:0 tvg-logo="" group-title="", INTER
-https://input.futebolgratis.net:8088/hls/livechannel2.m3u8
+#EXTINF:0 tvg-logo="" group-title="", INTER X COXA
+https://server101.online/premiere4/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=6573e3cd19c50eda580b1e5f063248f38d05d198-f1c0a693d312ab46e16f9b531eb01160-1687482422-1687475222
 
 #EXTINF:0 tvg-logo="" group-title="",vasco x bahia
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
