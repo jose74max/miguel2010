@@ -8,14 +8,14 @@
 #EXTINF:0 tvg-logo="" group-title="", bahia
 https://server101.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=27de056d5cef5719823fd43e1fcc7308cb7c6063-5f9a44dfa6633d24dd83ef0ed9a6a395-1687650213-1687643013
 
-#EXTINF:0 tvg-logo="" group-title="", INTER 1
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:0 tvg-logo="" group-title="", Inter x amaerica
+https://server101.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=1e82407958aed631246ea9c43a1dc3ccfb5056bd-fdbcf42559b80d50b7bfd5c6c3e5d381-1687734991-1687727791
 
 #EXTINF:0 tvg-logo="" group-title="",vasco x bahia
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",GOIAS X BAHIA
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=200.163.134.143&token=2c88cba389aff26bacfc6b411d2aef1ac765cfd7-80fcf8a0d3f07143dde64a5b4fee1723-1684616908-1684609708
+#EXTINF:0 tvg-logo="" group-title="",inter x anerica 2
+https://bal02.vivartec.com.br:8088/hls/livechannel2.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",TOLIMA
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
