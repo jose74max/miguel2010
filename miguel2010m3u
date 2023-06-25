@@ -8,8 +8,8 @@
 #EXTINF:0 tvg-logo="" group-title="", bahia
 https://server101.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=27de056d5cef5719823fd43e1fcc7308cb7c6063-5f9a44dfa6633d24dd83ef0ed9a6a395-1687650213-1687643013
 
-#EXTINF:0 tvg-logo="" group-title="", INTER filme
-https://poa4.akamaized.net/hls/live/2037607/poa4/hdntl=exp=1687749325~acl=%2f*~data=hdntl~hmac=8baea5a1c5485bc3010160221f6ca7c6cc12611bb673214a47f30dd4c93a1f8d/master_720.m3u8
+#EXTINF:0 tvg-logo="" group-title="", INTER 1
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",vasco x bahia
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
