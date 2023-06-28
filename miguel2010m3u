@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="", bahia
-https://server101.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=27de056d5cef5719823fd43e1fcc7308cb7c6063-5f9a44dfa6633d24dd83ef0ed9a6a395-1687650213-1687643013
+#EXTINF:0 tvg-logo="" group-title="", INTER
+https://server101.online/conmebol2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=ed274d24ca159e4289c4748701d38f4487326fb1-09891ba58ae654d717ed8f89b7573671-1687998518-1687991318
 
 #EXTINF:0 tvg-logo="" group-title="", Inter x amaerica
 https://server101.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=1e82407958aed631246ea9c43a1dc3ccfb5056bd-fdbcf42559b80d50b7bfd5c6c3e5d381-1687734991-1687727791
@@ -14,8 +14,8 @@ https://server101.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&t
 #EXTINF:0 tvg-logo="" group-title="",vasco x bahia
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",inter x anerica 2
-https://bal02.vivartec.com.br:8088/hls/livechannel2.m3u8
+#EXTINF:0 tvg-logo="" group-title="",inter 2
+https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",TOLIMA
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
