@@ -8,8 +8,8 @@
 #EXTINF:0 tvg-logo="" group-title="", INTER
 https://server101.online/conmebol2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=ed274d24ca159e4289c4748701d38f4487326fb1-09891ba58ae654d717ed8f89b7573671-1687998518-1687991318
 
-#EXTINF:0 tvg-logo="" group-title="", Inter x amaerica
-https://server101.online/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=1e82407958aed631246ea9c43a1dc3ccfb5056bd-fdbcf42559b80d50b7bfd5c6c3e5d381-1687734991-1687727791
+#EXTINF:0 tvg-logo="" group-title="", Inter x PALMEIRAS
+https://server101.online/espn/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=e05dc34d0704e90f22ea1bb2cf10773dbc2f98fa-7ced0d924ff6b57b70348711e94672d4-1688091940-1688084740
 
 #EXTINF:0 tvg-logo="" group-title="",vasco x bahia
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
