@@ -6,7 +6,7 @@
 
 
 #EXTINF:0 tvg-logo="" group-title="", INTER x cruzeiro
-https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=3a49f78ecf96c4f4ef47ba232dac08d3d1ac4c10-bff69e5d8f373c4ab710f04b07e6cd2d-1688266540-1688259340
 
 #EXTINF:0 tvg-logo="" group-title="", Inter x cru 1
 https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=5c14ed354c1167c0fece9fbe6a3971fe32d33596-74e29522739edcab0a8447b0a46f3535-1688262693-1688255493
@@ -14,8 +14,8 @@ https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&to
 #EXTINF:0 tvg-logo="" group-title="",vasco x bahia
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",inter 2
-https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
+#EXTINF:0 tvg-logo="" group-title="",inter 3
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=3a49f78ecf96c4f4ef47ba232dac08d3d1ac4c10-bff69e5d8f373c4ab710f04b07e6cd2d-1688266540-1688260000
 
 #EXTINF:0 tvg-logo="" group-title="",TOLIMA
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
