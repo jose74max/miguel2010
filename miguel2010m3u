@@ -12,10 +12,10 @@ https://server101.online/sportv/tracks-v1a1/mono.m3u8?remote=189.10.150.141&toke
 https://server101.online/sportv-op2/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=e17f4a7e12f3af384d99b49fbe00d15f625caec6-36938ec37bddabaf99c58df2fd01cdf7-1688520979-1688513779
 
 #EXTINF:0 tvg-logo="" group-title="",GEMIO TOKEN
-https://server101.online/sportv-op2/tracks-v1a1/mono.m3u8?
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=b754cb2cb8c7450a4ddd2e9739bd9f7e46f3ba40-528d3b65bd0665720e1d10ec515b5bb9-1688525245-1688518045
 
-#EXTINF:0 tvg-logo="" group-title="",inter 3
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=3a49f78ecf96c4f4ef47ba232dac08d3d1ac4c10-bff69e5d8f373c4ab710f04b07e6cd2d-1688266540-1688260000
+#EXTINF:0 tvg-logo="" group-title="",inter 4
+https://server101.online/sportv/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=9c8dcff6e0a590bc3b681c388bdab8bebfc275c7-b53a5d4a793cbf160969c0ac0a99d388-1688525365-1688518165
 
 #EXTINF:0 tvg-logo="" group-title="",TOLIMA
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
