@@ -5,8 +5,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="", gremio 1
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=2f6680f139569ff2c9aa80805bd068bcb9b27644-ba47bdcefbef0f1a33ded01b67ccaf24-1688944861-1688937661
+#EXTINF:0 tvg-logo="" group-title="", gremio 3
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=a2194f86c4cafeac14deec3358e078729334c437-a1a795d53cd1f91f23e00e880c12d0a3-1688948462-1688941262
 
 #EXTINF:0 tvg-logo="" group-title="", GREMIO 2
 https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=aebaad369169beb7bf3acb18cac325f9430e3187-3e518c23832a4e13cc47de428ec62697-1688944926-1688937726
