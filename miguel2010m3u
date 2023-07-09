@@ -15,7 +15,7 @@ https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&to
 https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=b754cb2cb8c7450a4ddd2e9739bd9f7e46f3ba40-528d3b65bd0665720e1d10ec515b5bb9-1688525245-1688518045
 
 #EXTINF:0 tvg-logo="" group-title="",inter 4
-https://server101.online/sportv/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=9c8dcff6e0a590bc3b681c388bdab8bebfc275c7-b53a5d4a793cbf160969c0ac0a99d388-1688525365-1688518165
+https://bal02.vivartec.com.br:8088/hls/livechannel2.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",TOLIMA
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
