@@ -6,13 +6,15 @@
 
 
 #EXTINF:0 tvg-logo="" group-title="", gremio 3
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=a2194f86c4cafeac14deec3358e078729334c437-a1a795d53cd1f91f23e00e880c12d0a3-1688948462-1688941262
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=aebaad369169beb7bf3acb18cac325f9430e3187-3e518c23832a4e13cc47de428ec62697-1688944926-1688937726
+ 
+
 
 #EXTINF:0 tvg-logo="" group-title="", GREMIO 2
 https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=aebaad369169beb7bf3acb18cac325f9430e3187-3e518c23832a4e13cc47de428ec62697-1688944926-1688937726
 
-#EXTINF:0 tvg-logo="" group-title="",GEMIO TOKEN
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=b754cb2cb8c7450a4ddd2e9739bd9f7e46f3ba40-528d3b65bd0665720e1d10ec515b5bb9-1688525245-1688518045
+
+
 
 #EXTINF:0 tvg-logo="" group-title="",inter 4
 https://bal02.vivartec.com.br:8088/hls/livechannel2.m3u8
@@ -23,5 +25,6 @@ https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",GREMIO X BRAGANTINO
 https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="",ITER X NACIONAL URUGUAI
 https://input.futebolgratis.net:8088/hls/livechannel1.m3u8
