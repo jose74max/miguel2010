@@ -5,13 +5,13 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="", gremio 1
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=b3969eb74d3c237fc49f8760e228845412b554d3-f8d7bfb4f4f9c23c59130348c441958a-1689462745-1689455545
+#EXTINF:0 tvg-logo="" group-title="", inter x pal
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=df7eddb6d3f6c2534db8afe290ba5265af8550b2-db876c616748fc49195cff313a3756e2-1689549346-1689542146
  
 
 
-#EXTINF:0 tvg-logo="" group-title="", GREMIO 2
-https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.150.141&token=aebaad369169beb7bf3acb18cac325f9430e3187-3e518c23832a4e13cc47de428ec62697-1688944926-1688937726
+#EXTINF:0 tvg-logo="" group-title="", inter 2
+https://server101.online/premiere/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=35e854fc6497942fc6c189869bab94706320c9e3-165a91d1c8d279c85c703853b084b3a3-1689549409-1689542209
 
 
 
