@@ -16,7 +16,7 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",inter 4
+#EXTINF:0 tvg-logo="" group-title="",inter p
 https://server100.shop/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=3a037202a00979c1e56b066ab27edb3512e035d0-be79efead193b07a9bc21ca277cc887d-1690071992-1690064792
 
 #EXTINF:0 tvg-logo="" group-title="",TOLIMA
