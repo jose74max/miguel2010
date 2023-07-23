@@ -16,8 +16,8 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",gremio  1
-https://server100.shop/premiere-op2/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=753b93dac0cdc70bfe27ecc4c215d0c8974c173d-0ee4ad6692ee3ff72cad9d10cfe582d0-1690076067-1690068867
+#EXTINF:0 tvg-logo="" group-title="",sportv
+https://server100.shop/sportv/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=0a9533e26e5381bae6c3775fd1deb89b00db5d87-83638cee1c53860b29952999e5267b30-1690080864-1690073664
 
 #EXTINF:0 tvg-logo="" group-title="",gre 2
 https://server100.shop/sportv/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=542819af6f59e34b16e3a8408cb81042e39cdc78-262cdf1ebb008243f797fd893cc0a778-1690076154-1690068954
