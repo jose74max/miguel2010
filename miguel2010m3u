@@ -16,15 +16,15 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",INTER X CUIABA RS
-https://server101.shop/premiere2/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=dd056ec1d676e8d65495b59839ce1823e5505770-2167f8a0f695f97ccea9001b9f9979ce-1690667701-1690660501
+#EXTINF:0 tvg-logo="" group-title="",PREMIER
+https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=2e76f5fb67666f3218ed2f9aca45066c4965ab7f-7fe8bbb518368c37bf8867cb6f11804e-1690758649-1690751449
 
 #EXTINF:0 tvg-logo="" group-title="",gre 2
 https://server100.shop/sportv/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=542819af6f59e34b16e3a8408cb81042e39cdc78-262cdf1ebb008243f797fd893cc0a778-1690076154-1690068954
 
 
-#EXTINF:0 tvg-logo="" group-title="",GREMIO X atletico
-https://server100.shop/sportv-op2/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=0e72627722f81a2e77b637fafd04e40c5a62f101-903473884b579ae8c8351e6663f6519c-1690076248-1690069048
+#EXTINF:0 tvg-logo="" group-title="",SPORTV
+https://server101.shop/sportv/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=b84194fd9ae73e95e2509204abf8c4914bc2b959-18b240b45188854fcb303a2e52dbfba8-1690758757-1690751557
 
 #EXTINF:0 tvg-logo="" group-title="",ITER X NACIONAL URUGUAI
 https://input.futebolgratis.net:8088/hls/livechannel1.m3u8
