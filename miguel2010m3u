@@ -16,8 +16,8 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIERE
-https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=09cebaecfacc13fdea32dcd634af421a0ba62056-5df10edc0697a448f290f97d87300549-1690762494-1690755294
+#EXTINF:0 tvg-logo="" group-title="",spn
+https://server101.shop/espn4/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=e00295d620328ee25bd95675fb3b3ca10ffe9fc6-42c9bcefd4793fba758b4009e73617e3-1690940503-1690933303
 
 #EXTINF:0 tvg-logo="" group-title="",gre 2
 https://server100.shop/sportv/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=542819af6f59e34b16e3a8408cb81042e39cdc78-262cdf1ebb008243f797fd893cc0a778-1690076154-1690068954
@@ -26,5 +26,5 @@ https://server100.shop/sportv/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=
 #EXTINF:0 tvg-logo="" group-title="",SPORTV
 https://server101.shop/sportv/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=4b8ba07377438c0190a24288cd228d82d5814514-e909813502a0dbad1c137d5c4c3fdac7-1690762553-1690755353
 
-#EXTINF:0 tvg-logo="" group-title="",ITER X NACIONAL URUGUAI
-https://input.futebolgratis.net:8088/hls/livechannel1.m3u8
+#EXTINF:0 tvg-logo="" group-title="",ITER X river
+https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
