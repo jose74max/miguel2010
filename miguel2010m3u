@@ -16,11 +16,11 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",spn 4
-https://server101.shop/espn/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=d163e320f89bedd5671c85f4d36e842aa07c492a-cfb00be5387607de7397960103d1e615-1691112871-1691105671
+#EXTINF:0 tvg-logo="" group-title="",premier 1
+https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=216aa7a69a67c1a6444f38cd0af99c76a181c2a2-8e24c8a53f761c26d70d259bf136f556-1691276934-1691269734
 
-#EXTINF:0 tvg-logo="" group-title="",gre 2
-https://server100.shop/sportv/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=542819af6f59e34b16e3a8408cb81042e39cdc78-262cdf1ebb008243f797fd893cc0a778-1690076154-1690068954
+#EXTINF:0 tvg-logo="" group-title="",inter x cor 2
+https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=189.10.155.105&token=b9362842aa257e57ff4823c05a8bfdbc56e8e6a0-c70567f79707568be68da4ee45a0ada3-1691277039-1691269839
 
 
 #EXTINF:0 tvg-logo="" group-title="",fla
