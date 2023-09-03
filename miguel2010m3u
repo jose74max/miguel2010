@@ -19,8 +19,8 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 #EXTINF:0 tvg-logo="" group-title="",GREMIO x CUIABA
 https://server101.shop/premiere-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.150&token=4f0c855d154c6d60433049f1425ef78715381ae4-fda7e65f0a810d1f679e84849048815c-1693755702-1693748502
 
-#EXTINF:0 tvg-logo="" group-title="",inter x goias
-https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=200.163.134.150&token=9ab1aa80ed591b5b07b41ec42f415143f7648731-41f04da638722b7f34ad0ec786a55bf5-1693687956-1693680756
+#EXTINF:0 tvg-logo="" group-title="",GREMIO X CUIABA
+https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=200.163.134.150&token=eea140e8e5b98d7b6d04e2c8eab553daa4254655-6fb408bf8750fed2e98fa00d15ddbd32-1693755797-1693748597
 
 
 #EXTINF:0 tvg-logo="" group-title="",fla
