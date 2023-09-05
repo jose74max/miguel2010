@@ -13,11 +13,10 @@ https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 #EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
 https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="", filme
+https://ddh1.cdnbos.lol/ddh1/premium334/tracks-v1a1/mono.m3u8
 
 
-
-#EXTINF:0 tvg-logo="" group-title="",GREMIO x CUIABA
-https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=200.163.134.150&token=44c0629aa01c25d2883783237a83d1292657ebed-09404a6551e431c6f3a2ff005f0ce9d3-1693760150-1693752950
 
 #EXTINF:0 tvg-logo="" group-title="",GREMIO X CUIABA
 https://server101.shop/premiere-op2/tracks-v1a1/mono.m3u8?remote=200.163.134.150&token=278c6ca284b0ffdf116de3b97fb23e68ef6e826f-427310578f1d40553e786a3df7e9817a-1693760227-1693753027
