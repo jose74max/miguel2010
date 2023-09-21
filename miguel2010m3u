@@ -18,8 +18,8 @@ https://ddh1.cdnbos.lol/ddh1/premium334/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",FLU 2
-https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=201.89.151.49&token=1774a7c63213bd688b2409800dab4fecf7f76249-b5276185e94ae2da8edb5e62b441ce6b-1694903760-1694896560
+#EXTINF:0 tvg-logo="" group-title="",inter
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",fla
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
