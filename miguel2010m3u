@@ -7,8 +7,8 @@
 
 #EXTINF:0 tvg-logo="" group-title="", bah x cor
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
- 
-
+ #EXTINF:0 tvg-logo="" group-title="", INT X ATL
+https://server101.shop/sportv/tracks-v1a1/mono.m3u8?remote=177.6.47.184&token=fb201e8ed54471f4e5bed42fcd5a3daa700e075f-8fec72829b855665f3f3a2fdea12d03f-1696128639-1696121439
 
 #EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
 https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
