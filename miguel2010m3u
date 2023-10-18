@@ -15,8 +15,8 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="", filme
 https://ddh1.cdnbos.lol/ddh1/premium334/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:0 tvg-logo="" group-title="", GREMIO 2
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",inter
 https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
