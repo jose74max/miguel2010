@@ -27,5 +27,5 @@ https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0 tvg-logo="" group-title="",ITER X river
 https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",MINEIRO
-https://server101.shop/premiere/tracks-v1a1/mono.m3u8?remote=177.6.47.184&token=a608cc75d6c953c5affc3f9826ecc3448dc19937-befb72caab4c1ea6e306e0f19928dcc6-1696128502-1696121302
+#EXTINF:0 tvg-logo="" group-title="",SAMPA
+https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
