@@ -8,7 +8,7 @@
 #EXTINF:0 tvg-logo="" group-title="", bah x cor
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
  #EXTINF:0 tvg-logo="" group-title="", GRE X ATL
-https://tvembed.net/sportv-op2/tracks-v1a1/mono.m3u8?remote=177.6.46.94&token=65fe4c1011b8aa4f45c734612f6e5c8ae1e63262-5601e0ba1ceae67755349e43e8b588f7-1697674813-1697667613
+https://tvembed.net/premiere-op2/tracks-v1a1/mono.m3u8?remote=177.6.46.94&token=85da0d2d9dc1304e7af02685eed0b9e5df9cddbe-eec0ca92c625bf66ec74e6c2684e2faa-1697930296-1697923096
 
 #EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
 https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
