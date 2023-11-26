@@ -29,5 +29,5 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",SAMPA
 https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
-#EXTINF:0 tvg-logo="" group-title="",stet faiter
-https://play.prod.gcp.vix.services/street-fighter-chungli_pt/street-fighter-chungli_pt_1-1/thumbs_640x360.m3u8
+#EXTINF:0 tvg-logo="" group-title="",BRAGA
+https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000)/pfc3/edge-cache-token=Expires=1701120548&KeyName=media-cdn-keyset-prod&IPRanges=MTc3LjYuNDcuOTYvMzI=&Signature=KC71M7b34MwKpBdPodJYZ398cMfD1_p-dSLZhwpzqoXaj3yG1pHkI9sGpLKVp5sMr5pHxfMQtLXOXaBDJ5C2CA==/pfc3-audio_1=96000-video=160000.m3u8
