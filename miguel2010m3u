@@ -31,9 +31,13 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 #EXTINF:0 tvg-logo="" group-title="",Bagaço
 https://embedflix.net/tv/tnt-sports.m3u8
-#EXTINF:-1,Desconhecido 0
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Desconhecido 5
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/tracks-v1a1/mono.m3u8?77.247.109.137:443
-#EXTINF:-1,Desconhecido 6
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/premiere1sd/tracks-v1a1/mono.m3u8?77.247.109.137
+
+
+#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nicklogo_3_0.png" group-title="Infantis BR",🎈.NICKELODEON.ᴴᴰ
+http://187.95.95.247/Nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_(2009).png" group-title="Canais: Infantil",🎈.Discovery Kids
+http://170.82.200.35/discovery_kids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoon_Network_logo_(2004-2010).svg" group-title="Infantis BR",🎈.Carton Network
+http://187.95.95.243/Cartoon-Network/playlist.m3u8
