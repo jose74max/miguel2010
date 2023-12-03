@@ -31,3 +31,26 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 #EXTINF:0 tvg-logo="" group-title="",Bagaço
 https://embedflix.net/tv/tnt-sports.m3u8
+#EXTINF:-1,Desconhecido 0
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&url=https://newedge.eu-central-1.edge.mycdn .live/live/bbb24hras/bbb24hras_2000/index.m3u8
+
+#EXTINF:-1,Desconhecido 1
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&url=https://newedge.eu-central-1.edge.mycdn .live/live/bbb24hras/bbb24hras_1000/index.m3u8
+
+#EXTINF:-1,Desconhecido 2
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&url=https://newedge.eu-central-1.edge.mycdn .live/live/bbb24hras/bbb24hras_500/index.m3u8
+
+#EXTINF:-1,Desconhecido 3
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&url=https://newedge.eu-central-1.edge.mycdn .live/live/bbb24hras/bbb24hras_350/index.m3u8
+
+#EXTINF:-1,Desconhecido 4
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&url=https://newedge.eu-central-1.edge.mycdn .live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1,Desconhecido 5
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&url=https://newedge.eu-central-1.edge.mycdn .live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
+
+#EXTINF:-1,Desconhecido 6
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&url=https://newedge.eu-central-1.edge.mycdn .live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
+
+#EXTINF:-1,Desconhecido 7
+plugin://plugin.video.f4mTester/?name=[COLORblue]Ze[/COLOR][COLORyellow]us[/COLOR]&streamtype=TSDOWNLOADER&url=https://newedge.eu-central-1.edge.mycdn .live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
