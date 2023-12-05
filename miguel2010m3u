@@ -253,3 +253,15 @@ http://bdtb.io:80/live/378724/pcapQ5/184047.m3u8
  
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="?Canais Aberto",GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:0,SPACE FHD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/278
+#EXTINF:26,TNT SD
+https://cdn-1.nxplay.com.br/TNT_TK//tracks-v1a1/mono.m3u8
+#EXTINF:26,TNT HD
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:0,TNT HD [Alter]
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1004
+#EXTINF:0,TNT Series HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/315
+#EXTINF:0,Warner Channel HD
+http://208.115.225.174:14132/
