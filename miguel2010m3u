@@ -265,3 +265,7 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1004
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/315
 #EXTINF:0,Warner Channel HD
 http://208.115.225.174:14132/
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P5rCawD.jpg" group-title="CAVERNA DO DRAGAO",CAVERNA DO DRAGAO 1
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/CVRNDDRGEP01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P5rCawD.jpg" group-title="CAVERNA DO DRAGAO",CAVERNA DO DRAGAO 2
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/CVRNDDRGEP02.mp4
