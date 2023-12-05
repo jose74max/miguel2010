@@ -265,7 +265,75 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1004
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/315
 #EXTINF:0,Warner Channel HD
 http://208.115.225.174:14132/
-#EXTINF:-1 tvg-logo="http://i.imgur.com/P5rCawD.jpg" group-title="CAVERNA DO DRAGAO",CAVERNA DO DRAGAO 1
-http://vd.ec.cx/vd/dd/RC/RCServer01/videos/CVRNDDRGEP01.mp4
-#EXTINF:-1 tvg-logo="http://i.imgur.com/P5rCawD.jpg" group-title="CAVERNA DO DRAGAO",CAVERNA DO DRAGAO 2
-http://vd.ec.cx/vd/dd/RC/RCServer01/videos/CVRNDDRGEP02.mp4
+
+################################################# ######################### ESTREIA DO CANAIS
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
+http://208.115.225.174:14460/
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD [Alterar]
+http://208.115.225.174:14460/
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD [Alterar]
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/164
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD [Alterar]
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/150
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Estreia 2 FHD
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/13
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
+http://185.150.190.225:16468/
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD [Alterar]
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/152
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
+http://185.150.190.225:16472/
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD [Alterar]
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/154
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
+http://185.150.190.225:16472/
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD [Alterar]
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/156
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
+http://185.150.190.225:16482/
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD [Alterar]
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/158
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/160
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
+https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
+
+################################################# ######################### ao vivo | FUTEBOL
+
+
+
+
+################################################# ######################### AO VIVO AGORA
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO
+https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 2
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 3
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 4
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 5
+https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
