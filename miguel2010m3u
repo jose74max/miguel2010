@@ -246,3 +246,14 @@ https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 5
 https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title=" Channels| ESPORTES",SporTV HD
+http://fadder.eletrinho.shop:2095/live2/sportv/chunks.m3u8?token=1702262912_2e61f28c76bc0a0ea046c0f55a128d04bcceee67
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Channels | ESPORTES",SporTV HD [Alterar]
+http://45.235.0.78/SPORTV-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Channels | ESPORTES",SporTV FHD
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/993
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Channels | ESPORTES",SporTV 4K
+http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/6
