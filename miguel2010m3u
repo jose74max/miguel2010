@@ -31,7 +31,8 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 #EXTINF:0 tvg-logo="" group-title="",Bagaço
 https://embedflix.net/tv/tnt-sports.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="",bomba atomica
+https://live-ftc-sa-east-1.media.starott.com/clt2/va01/starplus/event/2023/12/16/Preliminares_David_Morrel_20231216_1702764940041/cmaf-cenc-ctr-1200K/1200_complete.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://51.83.238.223:16437/
