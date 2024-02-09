@@ -104,19 +104,19 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnk
 ############################################################################ AO VIVO AGORA 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 
-https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
+https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 2
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8?ManoTV
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 3
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 4
-https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 5
-https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
+https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 
 ############################################################################ TNT SPORTS REPRISE
 http://bdtb.io:80/live/378724/pcapQ5/184047.m3u8
@@ -197,19 +197,19 @@ https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
 ################################################# ######################### AO VIVO AGORA
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO
-https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
+https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 2
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8?ManoTV
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 3
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 4
-https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 5
-https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
+https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title=" Channels| ESPORTES",SporTV HD
 http://fadder.eletrinho.shop:2095/live2/sportv/chunks.m3u8?token=1702262912_2e61f28c76bc0a0ea046c0f55a128d04bcceee67
 
