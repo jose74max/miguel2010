@@ -31,11 +31,15 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",SAMPA
 https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="",Bagaço
 https://embedflix.net/tv/tnt-sports.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="",bomba atomica
 https://live-ftc-sa-east-1.media.starott.com/clt2/va01/starplus/event/2023/12/16/Preliminares_David_Morrel_20231216_1702764940041/cmaf-cenc-ctr-1200K/1200_complete.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2023-09/73126108.jpg" group-title="FILMES | NOVOS",Besouro Azul
+https://alukard.bio/a1/out/old/6/3360/3360_dub_1xbet.m3u8
 
 ################################################# ######################### CANAIS ESPORTES
 
@@ -221,3 +225,32 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/993
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Channels | ESPORTES",indiana
 https://sinalpublico.com/player3/serverf3hlb.php?vid=INDNAJNSEARLQDSTNO"
+
+################################################# ######################### Canais | Cine Céu
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 1
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18253
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais |Cine Sky",CINE SKY PLAY 2
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18254
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais |Cine Sky",CINE SKY PLAY 3
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18255
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais |Cine Sky",CINE SKY PLAY 4
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18256
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais |Cine Sky",CINE SKY PLAY 5
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18257
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais |Cine Sky",CINE SKY PLAY 6
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18258
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 7" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais |Cine Sky",CINE SKY PLAY 7
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18259
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 8" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais |Cine Sky",CINE SKY PLAY 8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18260
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 9" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais |Cine Sky",CINE SKY PLAY 9
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18261
