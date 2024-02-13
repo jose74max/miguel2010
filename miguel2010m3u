@@ -35,8 +35,8 @@ https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 #EXTINF:0 tvg-logo="" group-title="",Bagaço
 https://embedflix.net/tv/tnt-sports.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",bomba atomica
-https://live-ftc-sa-east-1.media.starott.com/clt2/va01/starplus/event/2023/12/16/Preliminares_David_Morrel_20231216_1702764940041/cmaf-cenc-ctr-1200K/1200_complete.m3u8
+#EXTINF:0 tvg-logo="" group-title="",bomba 
+https://vod.cf.dmcdn.net/sec2(YoGhdBL5IxDJA8Ry2EdZJZKIJmpzjxQeigQYWnHJ4yTtQux30kv3h_0SU_7gLkr1q9chO48u9-lZmYnWAOHHTCiuZosNWPrPfSF5H5z2h4esF4WVZup6DwJ26ysn5n7O2EXLdNuQlvwxcn-s_iPqow)/video/736/947/527749637_mp4_h264_aac_hd_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2023-09/73126108.jpg" group-title="FILMES | NOVOS",Besouro Azul
 https://alukard.bio/a1/out/old/6/3360/3360_dub_1xbet.m3u8
