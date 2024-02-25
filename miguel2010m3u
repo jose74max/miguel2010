@@ -107,7 +107,21 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title=" Canais | Esportes",Combate HD²
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/239
 
-
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title= "Canais | Premiere",Premiere Clubes HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/493
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Estreia 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title= "Canais | Premiere",Estreia 2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/498
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title= "Canais | Premiere",Estreia 3 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title= "Canais | Premiere",Estreia 4 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/508
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title= "Canais | Premiere",Estreia 5 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title= "Canais | Premiere",Estreia 6 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title= "Canais | Premiere",Estreia 7 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title= "Canais | Premiere",Estreia 8 SD
 
 
 ############################################################################ AO VIVO AGORA 
@@ -139,6 +153,18 @@ http://209.222.97.92:16493/
 ################################################# ######################### ao vivo | FUTEBOL
 
 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title=" Canais | SporTV",SporTV FHD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title=" Canais | SporTV",SPORTV HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/548
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title= "Canais | SporTV",SporTV 2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title= "Canais | SporTV",SporTV 2 SD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118704
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title= "Canais | SporTV",SporTV 3 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title= "Canais | SporTV",SporTV 3 SD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118706
 
 
 ################################################# ######################### AO VIVO AGORA
