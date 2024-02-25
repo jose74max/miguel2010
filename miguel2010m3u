@@ -102,6 +102,11 @@ http://185.150.190.225:16482/
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
+
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD
+http://209.222.97.92:16493/
+
 ############################################################################ AO VIVO AGORA 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/UfazRoy.png" group-title="ao vivo | FUTEBOL",JOGO 
