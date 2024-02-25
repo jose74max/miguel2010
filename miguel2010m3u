@@ -103,14 +103,12 @@ http://185.150.190.225:16482/
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate 01
-https://salamus2023.onlinehdhls.ru/ddh1/premium89/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate 
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_1000/index.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" group-title=" Canais | Esportes",Combate HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/239
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD
-http://209.222.97.92:16493/
+
+
 
 ############################################################################ AO VIVO AGORA 
 
