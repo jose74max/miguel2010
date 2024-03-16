@@ -15,8 +15,8 @@ https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
 https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", sportv 2
-https://embedflix.info/p2p/sportv/chunks.m3u8?nimblesessionid=12139223&wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDI0IDEwOjA3OjAyIFBNJmhhc2hfdmFsdWU9Vktud3N4dTZJbDQxcVMvam9sUFUwQT09JnZhbGlkbWludXRlcz0xNjA=
+#EXTINF:0 tvg-logo="" group-title="", sportv 
+https://embedflix.info/p2p/sportv/chunks.m3u8
 #EXTINF:0 tvg-logo="" group-title="", GREMIO 2
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 
