@@ -22,7 +22,7 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 #EXTINF:0 tvg-logo="" group-title="", PREMIERE 2
 https://stream.embedflix.info/p2p/premier2/chunks.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", PREMIERE 32
+#EXTINF:0 tvg-logo="" group-title="", PREMIERE 39
 https://4yyxpd9bwkc3pt40i0thдйra3jpmwjmpn6s6d12sl2vq7yjb88e3jg.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfuhkfb51z7u2lj.foo/a2/docs/premiereclubes/__index.m3u8
 
 
@@ -39,8 +39,7 @@ https://embedflix.info/p2p/premier6/chunks.m3u8
 https://4yyxpd9bwkc3pt40i0thдйra3jpmwjmpn6s6d12sl2vq7yjb88e3jg.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfuhkfb51z7u2lj.foo/a2/docs/premiereclubes/__index.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="", sportv 
-https://embedflix.info/p2p/sportv/chunks.m3u8
-
+https://server11.net/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="", GREMIO 2
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 
