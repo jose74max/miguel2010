@@ -11,10 +11,12 @@ https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0 tvg-logo="" group-title="", inter x avenida
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
-#EXTINF:0 tvg-logo="" group-title="", cinema
-https://roborift8.link/cdn/H4sIAAAAAAAAAw3O3ZKCIBgA0FcCCo1m9sYKsw13JD8N7_ipbJG22WpkfPo6T3BSZJllsxOlGs0WiSOOEbpIU2YY0hafl269o.LWc3XkY3l90B94agN3UQX2ghCphvj_jfvM_KrJguMdLgfbwCRzuQdSje0GvxThsg4jbXiTaHQZ1ST3ts7.RJD.tHFZu3qidr07Gh.9vakoeFkI1G_Bd7W5sk.tmFviKpdH1IYLNrwrYHDZwd9XLsfbZhoSG9TXGwBS5hDNAAAA/list.m3u8
+#EXTINF:0 tvg-logo="" group-title="", zona de rusco
+https://m3u8.vg/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="", PREMIERE
 https://embedflix.info/p2p/prfc1/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="", zona de rusco net ine
+https://iev.netcine.bz/html/storage.bunnycdn.com/html/content/conteudolb4/filmes2024/ZDRISCO2024DUB-BAIXO.mp4
 
 #EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
 https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
