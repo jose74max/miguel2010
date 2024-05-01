@@ -15,8 +15,8 @@ https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://m3u8.vg/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="", PREMIERE
 https://embedflix.info/p2p/prfc1/chunks.m3u8
-#EXTINF:0 tvg-logo="" group-title="", rei
-https://reidoscanais.com/embed/?id=espn2
+#EXTINF:0 tvg-logo="" group-title="", fortaleza x vasco
+https://cdntv0800.com/premiere/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
 https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
