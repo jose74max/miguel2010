@@ -13,34 +13,19 @@ https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0 tvg-logo="" group-title="", zona de rusco
 https://m3u8.vg/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="", PREMIERE
-https://embedflix.info/p2p/prfc1/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="", GREMIO X STRONGS
+https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0 tvg-logo="" group-title="", fortaleza x vasco
 https://cdntv0800.com/premiere/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
 https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", PREMIERE 2
-https://stream.embedflix.info/p2p/premier2/chunks.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="", PREMIERE 39
-https://4yyxpd9bwkc3pt40i0thдйra3jpmwjmpn6s6d12sl2vq7yjb88e3jg.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfuhkfb51z7u2lj.foo/a2/docs/premiereclubes/__index.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="", PREMIERE 4
-https://embedflix.info/p2p/premier4/chunks.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", PREMIERE 5
-https://embedflix.info/p2p/premier5/chunks.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", PREMIERE 6
-https://embedflix.info/p2p/premier6/chunks.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", PREMIERE 8
-https://4yyxpd9bwkc3pt40i0thдйra3jpmwjmpn6s6d12sl2vq7yjb88e3jg.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfuhkfb51z7u2lj.foo/a2/docs/premiereclubes/__index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", sportv 
-https://server11.net/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="", GREMIO 2
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 
