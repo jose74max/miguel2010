@@ -4,10 +4,10 @@
 https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0 tvg-logo="" group-title="", flamengo x criciuma 
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0 tvg-logo="" group-title="", bah x cor 3
-http://www.visioncine.info/m/11496/34619
-#EXTINF:0 tvg-logo="" group-title="", bah x cor3g
-https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="", bah x cor 5
+https://abc.embedmax.site/tcpipoca/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="", bah x corPIPOCA
+ttps://abc.embedmax.site/tnt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="RBSTV" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="ALL",RBSTV
 http://server.globalhd.org:80/ANDRENJ/Tn5yJHnl5G/4447
