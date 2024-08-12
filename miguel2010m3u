@@ -9,6 +9,8 @@ http://www.visioncine.info/m/11496/34619
 #EXTINF:0 tvg-logo="" group-title="", bah x cor3g
 https://cdn-4.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="RBSTV" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="ALL",RBSTV
+http://server.globalhd.org:80/ANDRENJ/Tn5yJHnl5G/4447
 #EXTINF:0 tvg-logo="" group-title="", bah x cor
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 #EXTINF:0 tvg-logo="" group-title="", GOR X PAP
