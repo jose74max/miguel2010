@@ -6,8 +6,8 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0 tvg-logo="" group-title="", bah x cor TNT FT
 https://stmv3.webtvninjas.com.br/luiz5587/luiz5587/chunklist_w675622854.m3u8
-#EXTINF:0 tvg-logo="" group-title="", macacos
-https://xn--orbjmdo5s6yer3zo8n54vcpxzowgi7n87xdtauvacfed983n3dbm-694brl.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/V/RCFServer3/ondemand/PLNTDSMCMCSORNDO.mp4
+#EXTINF:0 tvg-logo="" group-title="", globo
+https://anonmedia.eu/globorj-globorio/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="", bah x cor
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 #EXTINF:0 tvg-logo="" group-title="", GOR X PAP
