@@ -6,8 +6,8 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0 tvg-logo="" group-title="", bah x cor TNT FT
 https://stmv3.webtvninjas.com.br/luiz5587/luiz5587/chunklist_w675622854.m3u8
-#EXTINF:0 tvg-logo="" group-title="", globo
-https://anonmedia.eu/globorj-globorio/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="", glo
+https://ddy5.mizhls.ru/ddy5/premium89/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="", bah x cor
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 #EXTINF:0 tvg-logo="" group-title="", GOR X PAP
