@@ -52,10 +52,10 @@ https://cr7v.short.gy/live7/GloboRS/Index.m3u8
 
 
 
-################################################# ######################### CANAIS ESPORTES
+################################################# ######################### CANAIS FILMES
 
-
-
+#EXTINF:0 tvg-logo="" group-title="",farofeiros
+https://space.vscine.biz/filmes/osfarofeiros2/play_480p.mp4
 
 ############################################################################ AO VIVO AGORA 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
