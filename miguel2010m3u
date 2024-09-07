@@ -48,15 +48,18 @@ https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/Lmi9NLU.png" group-title="Canais | ABERTO",Globo RBS alta definição
 https://cr7v.short.gy/live7/GloboRS/Index.m3u8
-
-
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/Lmi9NLU.png" group-title="Canais | ABERTO",Globo RBS alta definição
+https://space.vscine.biz/filmes/tansacaoperigosa/play_480p.mp4
 
 
 ################################################# ######################### CANAIS FILMES
 
 #EXTINF:0 tvg-logo="" group-title="",farofeiros
 https://space.vscine.biz/filmes/osfarofeiros2/play_480p.mp4
-
+#EXTINF:0 tvg-logo="" group-title="",TRAVOLTA
+https://space.vscine.biz/filmes/tansacaoperigosa/play_480p.mp4
+#EXTINF:0 tvg-logo="" group-title="",MACACOS
+https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=TEajHzRcsh-xeNE4ZHrJymPGnmGteb4v2OwVBbyxAmM&expires=1725778023&token_path=%2F/4adeeb0e-3f43-4ae2-87e5-7ed9950fcf6d/play_480p.mp4
 ############################################################################ AO VIVO AGORA 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
 http://45.235.0.78/SPORTV-HD/tracks-v1a1/mono.m3u8
