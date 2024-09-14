@@ -53,9 +53,15 @@ https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 
 ################################################# ######################### CANAIS FILMES
 
-#EXTINF:0 tvg-logo="" group-title="",farofeiros
-https://space.vscine.biz/filmes/osfarofeiros2/play_480p.mp4
-#EXTINF:0 tvg-logo="" group-title="",TRAVOLTA
-https://space.vscine.biz/filmes/tansacaoperigosa/play_480p.mp4
-#EXTINF:0 tvg-logo="" group-title="",MACACOS
-https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=c-ge2klF7ZXK_qr0N1ByQ8GXRyFCzpBlLtZAiikzX6Y&expires=1725848309&token_path=%2F/4adeeb0e-3f43-4ae2-87e5-7ed9950fcf6d/play_480p.mp4
+#EXTINF:0 tvg-logo="" group-title="",KG MORTAIS 01
+https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=SR35LMCu-Cdd_HwsAk86TkCJgilltVTjpE8KjfNqidA&expires=1726352268&token_path=%2F/d597502c-1aee-4d19-981b-60d26325e41f/play_480p.mp4
+#EXTINF:0 tvg-logo="" group-title="",KG MORTAIS 02
+https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=wdlUvuiobSUUqzKZJ44carLIrz7edIA5xUU3LoNgo3A&expires=1726352517&token_path=%2F/e4627f93-0341-4193-8fe9-720aa1aa4a41/play_480p.mp4
+#EXTINF:0 tvg-logo="" group-title="",KG MORTAIS 03
+https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=bH9NhDeuaiuGGexa8cFysmIpL98DEe3Puh3BmlCRmrU&expires=1726352568&token_path=%2F/5cd26970-772a-4798-868f-bdbbb7a5ea40/play_480p.mp4
+#EXTINF:0 tvg-logo="" group-title="",KG MORTAIS 04
+https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=Erc021eveZiwVIwuM4kVxHgj7j5ueKOYsiV6W6jVr28&expires=1726352633&token_path=%2F/e74d5c3c-4aad-4cc1-90fd-c8f41653ec84/play_480p.mp4
+#EXTINF:0 tvg-logo="" group-title="",KG MORTAIS 05
+https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=KHttstqGM9EKAUsd9Hkqb_UaeKEsWpJmFGzW2whxwCk&expires=1726352684&token_path=%2F/76d2230d-3b0d-4e0f-9766-24491d764a3f/play_480p.mp4
+
+
