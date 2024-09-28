@@ -54,12 +54,12 @@ https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 
 ################################################# ######################### CANAIS FILMES
 
-#EXTINF:0 tvg-logo="" group-title="",KG MORTAIS 01
-https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=SR35LMCu-Cdd_HwsAk86TkCJgilltVTjpE8KjfNqidA&expires=1726352268&token_path=%2F/d597502c-1aee-4d19-981b-60d26325e41f/play_480p.mp4
-#EXTINF:0 tvg-logo="" group-title="",KG MORTAIS 02
-https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=wdlUvuiobSUUqzKZJ44carLIrz7edIA5xUU3LoNgo3A&expires=1726352517&token_path=%2F/e4627f93-0341-4193-8fe9-720aa1aa4a41/play_480p.mp4
-#EXTINF:0 tvg-logo="" group-title="",KG MORTAIS 03
-https://vz-58099e5d-dc6.b-cdn.net/bcdn_token=bH9NhDeuaiuGGexa8cFysmIpL98DEe3Puh3BmlCRmrU&expires=1726352568&token_path=%2F/5cd26970-772a-4798-868f-bdbbb7a5ea40/play_480p.mp4
+#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/7.m3u8
+#EXTINF:0 tvg-logo="" group-title="",PREMIER 2
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/2.m3u8
+#EXTINF:0 tvg-logo="" group-title="",PREMIER 3
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/3.m3u8
 #EXTINF:0 tvg-logo="" group-title="",spn
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/8.m3u8
 #EXTINF:0 tvg-logo="" group-title="",parana
