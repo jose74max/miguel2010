@@ -54,60 +54,59 @@ https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 
 ################################################# ######################### CANAIS FILMES
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES 07
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/7.m3u8
-#EXTINF:0 tvg-logo="" group-title="",PREMIER 2
+#EXTINF:0 tvg-logo="" group-title="",GLOBO 02
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/2.m3u8
-#EXTINF:0 tvg-logo="" group-title="",PREMIER 3
+#EXTINF:0 tvg-logo="" group-title="",BAND 03
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/3.m3u8
-#EXTINF:0 tvg-logo="" group-title="",spn
+#EXTINF:0 tvg-logo="" group-title="",spn 08
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/8.m3u8
-#EXTINF:0 tvg-logo="" group-title="",parana
-https://cdn-5.nxplay.com.br/ESPN/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+
+#EXTINF:0 tvg-logo="" group-title="",FAZENDA 4
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/4.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",SPORTV 05
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/5.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",PREMIER NADA 27
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/27.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",TNT 9
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/9.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",TELE CINE PIPOCA 10
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/10.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",PREMIER NADA 25
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/25.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/26.m3u8
+#EXTINF:0 tvg-logo="" group-title="",PREMIER 27
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/27.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",TELE CINE PREMIUM 11
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/11.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",MEGAPIX 12
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/12.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",SEX HO 13
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/13.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",VIVA 14
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/14.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",NIK LONDEN 14
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/15.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
+#EXTINF:0 tvg-logo="" group-title="",SEX HOT16
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/16.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/10.m3u8
+#EXTINF:0 tvg-logo="" group-title="",PIPOCA
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/28.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/17.m3u8
