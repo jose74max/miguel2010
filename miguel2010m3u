@@ -27,10 +27,10 @@ https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 #EXTINF:0 tvg-logo="" group-title="", fortaleza 2
 https://sportscdn.me/espn/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", sbt
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/1.m3u8
-#EXTINF:0 tvg-logo="" group-title="", penh x fla
-https://ミンハビダ.xyz/gru1/va01/disneyplus/event/2024/09/26/Janela_Completa_Pearol_UR_20240926_1727370026023/cmaf-cenc-ctr-450K/450_complete.m3u8
+#EXTINF:0 tvg-logo="" group-title="", SPN2
+https://sportscdn.me/espn2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="", SPN1
+https://sportscdn.me/espn2/index.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="", GREMIO 2
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
