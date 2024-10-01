@@ -14,10 +14,9 @@ https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0 tvg-logo="" group-title="", inter x avenida
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="", SPORTV
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/5.m3u8
-#EXTINF:0 tvg-logo="" group-title="", SPORTV
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/5.m3u8
+https://conexao-vs.live/SPORTV1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="", GREMIO X STRONGS
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
@@ -54,34 +53,34 @@ https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 
 ################################################# ######################### CANAIS FILMES
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES 07
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/7.m3u8
-#EXTINF:0 tvg-logo="" group-title="",GLOBO 02
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/2.m3u8
+#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES 
+https://conexao-vs.live/PREMIERECLUBES/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="",GLOBO 
+https://conexao-vs.live/GLOBO/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="",BAND 03
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/3.m3u8
-#EXTINF:0 tvg-logo="" group-title="",spn 08
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/8.m3u8
+#EXTINF:0 tvg-logo="" group-title="",FX
+https://new.embedflix.co/fx/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",RECORD 4
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/4.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",SPORTV 05
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/5.m3u8
+#EXTINF:0 tvg-logo="" group-title="",SPORTV2
+https://conexao-vs.live/SPORTV2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER NADA 6
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/6.m3u8
+#EXTINF:0 tvg-logo="" group-title="",BR CDN
+https://brasil2.brcdn.live/hls/canal1/index.m3u8?
 
 
 #EXTINF:0 tvg-logo="" group-title="",TNT 9
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/9.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",TELE CINE PIPOCA 10
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/10.m3u8
+#EXTINF:0 tvg-logo="" group-title="",TELE CINE PIPOCA 
+https://conexao-vs.live/TELECINEPIPOCA/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",PREMIER NADA 25
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/25.m3u8
+#EXTINF:0 tvg-logo="" group-title="",CULT
+https://conexao-vs.live/TELECINECULT/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",PREMIER 30
 http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/30.m3u8
