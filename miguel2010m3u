@@ -15,15 +15,14 @@ https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0 tvg-logo="" group-title="", inter x avenida
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", twister
-https://space.vscine.biz/filmes/Twisters/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="", caçador de tormenta
-https://hubby.bz/movie/Visionplay-vods/IEDG2QduTO/30073.mp4
-
+#EXTINF:0 tvg-logo="" group-title="", ATLETICO 01
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1/docs/espn-sd/__index.m3u8
+#EXTINF:0 tvg-logo="" group-title="", ATLETICO 02
+https://brasil2.brcdn.live/hls/canal2/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="", GREMIO X STRONGS
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0 tvg-logo="" group-title="", JU1
-https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8?
+#EXTINF:0 tvg-logo="" group-title="",ATLETICO 3
+https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
 https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
 #EXTINF:0 tvg-logo="" group-title="", fortaleza 2
