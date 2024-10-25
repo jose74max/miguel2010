@@ -8,12 +8,14 @@ https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="", premier
-https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8?sdf
+https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 4
 https://conexao-vs.live/ESPN1/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:0 tvg-logo="" group-title="",ATLETICO 2
+https://conexao-vs.live/ESPN2/tracks-v1a1/mono.m3u8
 
 
