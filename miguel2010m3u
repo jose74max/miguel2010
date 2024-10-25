@@ -1,136 +1,19 @@
 # EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="", flamengo maraca
-https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
-#EXTINF:0 tvg-logo="" group-title="", flamengo x criciuma 
-https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0 tvg-logo="" group-title="", bah x cor TNT FT
-https://stmv3.webtvninjas.com.br/luiz5587/luiz5587/chunklist_w675622854.m3u8
-#EXTINF:0 tvg-logo="" group-title="", fLU X ATLETICO
-https://395cb53098eae6b290700d8683a8375b.livehwc3.cn/pull-hwteq.weistream.com/v/2287_660858622710468207.m3u8
-#EXTINF:0 tvg-logo="" group-title="", bah x cor
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
-#EXTINF:0 tvg-logo="" group-title="", GOR X PAP
-https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0 tvg-logo="" group-title="", inter x avenida
-https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", ATLETICO 01
-https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1/docs/espn-sd/__index.m3u8
-#EXTINF:0 tvg-logo="" group-title="", ATLETICO 02
-https://brasil2.brcdn.live/hls/canal2/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="", GREMIO X STRONGS
-https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 3
 https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="", cuia ba x sao paulo
-https://bal02.vivartec.com.br:8088/hls/livechannel3.m3u8
-#EXTINF:0 tvg-logo="" group-title="", fortaleza 2
-https://sportscdn.me/espn/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", EMB
-https://embedmax.site/tvl/hboxtreme.php
+#EXTINF:0 tvg-logo="" group-title="", spn4
+https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="", premier
+https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8?sdf
+
+
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 4
 https://conexao-vs.live/ESPN1/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", GREMIO 2
-https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",inter
-https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",fla
-https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",ITER X river
-https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",SAMPA
-https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 
 
-
-
-
-################################################# ######################### CANAIS FILMES
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES 
-https://conexao-vs.live/PREMIERECLUBES/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="",GLOBO 
-https://conexao-vs.live/GLOBO/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="",BAND 03
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/3.m3u8
-#EXTINF:0 tvg-logo="" group-title="",FX
-https://new.embedflix.co/fx/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="",RECORD 4
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/4.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",SPORTV2
-https://conexao-vs.live/SPORTV2/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",BR CDN
-https://brasil2.brcdn.live/hls/canal1/index.m3u8?
-
-
-#EXTINF:0 tvg-logo="" group-title="",TNT 9
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/9.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",TELE CINE PIPOCA 
-https://conexao-vs.live/TELECINEPIPOCA/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",CULT
-https://conexao-vs.live/TELECINECULT/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER 30
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/30.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",TELE CINE PREMIUM 11
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/11.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",MEGAPIX 12
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/12.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",DISNEY
-https://anonmedia.eu/disneychannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",VIVA 14
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/14.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",NIK LONDEN 15
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/15.m3u8
-
-
-#EXTINF:0 tvg-logo="" group-title="",SEX HOT16
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/16.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PIPOCA28
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/28.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES17
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/17.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES18
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/18.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES19
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/19.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES20
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/20.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES21
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/21.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES22
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/22.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES29
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/29.m3u8
-
-
-
-#EXTINF:0 tvg-logo="" group-title="",PREMIER CLUBES 23
-http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/23.m3u8
 
