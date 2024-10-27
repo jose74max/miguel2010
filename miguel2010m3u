@@ -7,15 +7,20 @@ https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="", spn4
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", premier
-https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="", FUTEBOL
+https://abc.embedmax.site/Globosp/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 4
 https://conexao-vs.live/ESPN1/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="",SPOTV2
+https://abc.embedmax.site/sportv2/video.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 2
 https://conexao-vs.live/ESPN2/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:0 tvg-logo="" group-title="",ESTOMAGO
+https://sinalprivado.info/cache/728201d2-db83-4f84-a665-81d90967e273/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",GLOBO
+https://anonmedia.eu/globosp-globosaopaulo/tracks-v1a1/mono.m3u8
