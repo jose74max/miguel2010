@@ -7,8 +7,8 @@ https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="", spn4
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", FUTEBOL
-https://abc.embedmax.site/Globosp/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="", RIVER X GALO
+https://anonmedia.foo/espn/index.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 4
