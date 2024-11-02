@@ -20,7 +20,21 @@ https://space.vscine.biz/filmes/asocieddenorteamericanadosnegros/480p/video.m3u8
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 2
 https://conexao-vs.live/ESPN2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",ESTOMAGO
-https://sinalprivado.info/cache/728201d2-db83-4f84-a665-81d90967e273/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",ju
+https://brasil.brcdn.live/hls/canal5/index.m3u8?
 #EXTINF:0 tvg-logo="" group-title="",GLOBO
 https://anonmedia.eu/globosp-globosaopaulo/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="",ju 2
+https://new.m3u8.one/pre2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="",premier 2
+https://anonmedia.foo/premiere2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",premier 3
+https://anonmedia.foo/premiere3/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",premier 4
+https://anonmedia.foo/premiere4/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",premier 5
+https://anonmedia.foo/premiere5/tracks-v1a1/mono.m3u8
+
