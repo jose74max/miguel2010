@@ -14,8 +14,8 @@ https://anonmedia.foo/espn/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 4
 https://conexao-vs.live/ESPN1/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",MAGICO
-https://space.vscine.biz/filmes/asocieddenorteamericanadosnegros/480p/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="",sportv
+https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 2
 https://conexao-vs.live/ESPN2/tracks-v1a1/mono.m3u8
@@ -24,9 +24,15 @@ https://conexao-vs.live/ESPN2/tracks-v1a1/mono.m3u8
 https://anonmedia.eu/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="",GLOBO
 https://anonmedia.eu/globosp/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",premierclubes
+https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0 tvg-logo="" group-title="",ju 2
 https://new.m3u8.one/pre2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="",premier 2
+
+https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
 https://anonmedia.foo/premiere2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",premier 3
