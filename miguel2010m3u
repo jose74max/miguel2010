@@ -34,11 +34,11 @@ https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="",ju 2
 https://new.m3u8.one/pre2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",premier clube an
-https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="",ufc
+https://anonmedia.eu/ufcfightpass/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",premier 2
-https://anonmedia.foo/premiere2/tracks-v1a1/mono.m3u8
+https://anonmedia.eu/premiere2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",premier 3
 https://anonmedia.foo/premiere3/tracks-v1a1/mono.m3u8
