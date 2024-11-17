@@ -35,9 +35,9 @@ https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
 http://108.181.63.63/SPORTV2/index.fmp4.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",ufc
-https://anonmedia.eu/ufcfightpass/tracks-v1a1/mono.m3u8
+http://108.181.63.63/UFC/index.fmp4.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",ufc 2
+#EXTINF:0 tvg-logo="" group-title="",ufc 3
 https://anonmedia.eu/ufcfightpass/index.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",premier 3
