@@ -14,11 +14,32 @@ https://anonmedia.foo/espn/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 4
 https://conexao-vs.live/ESPN1/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",DEAD
-https://sinalprivado.info/cache/817c11f9-af7a-4896-8b83-9ff9d39e7cd0/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",cangaço 01
+https://vods.conexao-vs.live/series/228957.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",cangaço 02
+https://vods.conexao-vs.live/series/228958.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",cangaço 03
+https://vods.conexao-vs.live/series/228959.mp4
+
+
+#EXTINF:0 tvg-logo="" group-title="",cangaço 04
+https://vods.conexao-vs.live/series/228960.mp4
+
+
+#EXTINF:0 tvg-logo="" group-title="",cangaço 05
+https://vods.conexao-vs.live/series/228961.mp4
+
+
+
 
 #EXTINF:0 tvg-logo="" group-title="",ATLETICO 2
 https://conexao-vs.live/ESPN2/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:0 tvg-logo="" group-title="",sportv
 https://new.m3u8.one/sportv/index.m3u8
 
