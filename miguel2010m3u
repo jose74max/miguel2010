@@ -28,8 +28,8 @@ http://conexao-vs.live/NICK/tracks-v1/index.fmp4.m3u8
 https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/MDE4ZTJjNjMtYmU1MS00MTNlLTg5MGEtNmYxZjFmMjE3MDk3.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",cangaço 06
-https://vods.conexao-vs.live/series/228962.mp4
+#EXTINF:0 tvg-logo="" group-title="",sport enbecanais
+https://embedcanaistv.club/sportv/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -43,8 +43,8 @@ https://conexao-vs.live/ESPN2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="",sportv
 https://new.m3u8.one/sportv/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",TV SIMPLES
-https://tvsimplestv.vercel.app/espn1/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="",sportv publico
+https://sinalpublicotv.vercel.app/sportv1/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="",filme sertao
 https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/MWM3MTY1OTAtMTgzOC00NjRiLTgyNTctOTg3YThiMzQwNDAw.m3u8
 
