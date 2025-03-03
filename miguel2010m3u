@@ -1,8 +1,8 @@
 # EXTM3U
 
 
-#EXTINF:0 tvg-logo="" group-title="",cachorro 2
-https://vods.conexao-vs.live/movie/651539.mp4
+#EXTINF:0 tvg-logo="" group-title="",NORA
+https://vods.conexao-vs.live/movie/670231.mp4
 
 #EXTINF:0 tvg-logo="" group-title="", spn4
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
