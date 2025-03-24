@@ -39,76 +39,7 @@ https://conexao-vs.live/ESPN2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0 tvg-logo="" group-title="",sportv
-https://new.m3u8.one/sportv/index.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",sportv publico
-https://sinalpublicotv.vercel.app/sportv1/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="",filme sertao
-https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/MWM3MTY1OTAtMTgzOC00NjRiLTgyNTctOTg3YThiMzQwNDAw.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",premierclubes
-https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="",sportv gg
+https://tvsmarters.org/sportv/video.m3u8
 
 
-#EXTINF:0 tvg-logo="" group-title="",sport2
-http://108.181.63.63/SPORTV2/index.fmp4.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="",sportnu
-http://108.181.63.63/SPORTV/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37016.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://cr7v.short.gy/M/Clube/Index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
-https://cr7v.short.gy/M/CLUBE1HD/Index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD³
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/63093.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD⁴
-
-
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37060.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36952.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37059.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36951.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/155
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
-
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37057.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36949.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37056.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36906.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37017.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 6
-https://s1.embecdn.site/DISNEY+6/index.m3u8
