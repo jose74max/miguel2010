@@ -6,9 +6,16 @@ https://vods.conexao-vs.live/movie/723072.mp4
 #EXTINF:0 tvg-logo="" group-title="", spn4
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", BRUXA
-https://vods.conexao-vs.live/movie/646732.mp4
+#EXTINF:0 tvg-logo="" group-title="", SPN
+http://conexao-vs.live/ESPN1/index.fmp4.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="", SPN2
+http://conexao-vs.live/ESPN2/index.fmp4.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="", SPORTVA
+http://conexao-vs.live/ESPORTV/index.fmp4.m3u8
+#EXTINF:0 tvg-logo="" group-title="", SPORTVB
+http://conexao-vs.live/ESPORTV1/index.fmp4.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",spORTV B
 https://super-cdn.link/sportv/index.m3u8
