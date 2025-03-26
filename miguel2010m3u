@@ -12,13 +12,13 @@ http://conexao-vs.live/ESPN1/index.fmp4.m3u8
 #EXTINF:0 tvg-logo="" group-title="", SPN2
 http://conexao-vs.live/ESPN2/index.fmp4.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", SPORTVA
-http://conexao-vs.live/ESPORTV/index.fmp4.m3u8
-#EXTINF:0 tvg-logo="" group-title="", SPORTVB
-http://conexao-vs.live/ESPORTV1/index.fmp4.m3u8
+#EXTINF:0 tvg-logo="" group-title="", GREMIO X FERROVIARIA
+https://tvsmarters.org/sportv/video.m3u8
+#EXTINF:0 tvg-logo="" group-title="", GREMIO X FERROVIARIA 2
+https://cdnlv.online/sportv/index.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="",spORTV B
-https://super-cdn.link/sportv/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="",SPORTV
+https://new.ejaculacaoretardada.site/sportv/index.m3u8?wmsAuthSign=undefined
 
 #EXTINF:0 tvg-logo="" group-title="",globo
 http://conexao-vs.live/GLOBO/index.fmp4.m3u8
