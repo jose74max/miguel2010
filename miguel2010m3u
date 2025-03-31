@@ -5,13 +5,12 @@
 https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/Zjg0NDMzYTgtOWZmNC00ZjcxLTliMzEtYWY5YWMxMTMwNTNm.m3u8
 #EXTINF:0 tvg-logo="" group-title="", spn4
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="",the pitt 01
-https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/YjQ0ZjAwZjEtZDNmOS00MGI5LTliYTQtNmM2ZTg2YWVjMzg3.m3u8
-#EXTINF:0 tvg-logo="" group-title="",the pitt 02
-https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/NmExMzFmMzQtYTA2NS00NDQyLWIzMzctZjVhOThhNGQ1MTBh.m3u8
-#EXTINF:0 tvg-logo="" group-title="",the pitt 03
-https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/OTg1Mzg3ZTEtZmVmMS00ZGRhLWI1YzAtMDhiZTFiM2FiNjJi.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="",the pitt 04
+https://sinalprivado.info/cache/bee67928-7d63-4620-91e7-19df3adbfca1/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",the pitt 05
+https://sinalprivado.info/cache/f30b7cb1-c18c-4681-bd68-68d06a1f72f3/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="",the pitt 06
+https://sinalprivado.info/cache/126c7e06-83a4-4637-bf1a-a89dc95d3094/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="", SPN
 http://conexao-vs.live/ESPN1/index.fmp4.m3u8
 
