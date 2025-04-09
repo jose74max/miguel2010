@@ -8,8 +8,8 @@ https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="",MULTICANAIS
 https://futebolhoje.org/espn/video.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="", SPN
-http://server1.conexao-vs.live/ESPN1/tracks-v1/index.fmp4.m3u8
+#EXTINF:0 tvg-logo="" group-title="", TNT
+http://server2.conexao-vs.live/TNT/index.fmp4.m3u8?token=f1m6Drtd3P60
 
 
 #EXTINF:0 tvg-logo="" group-title="", SPN1
