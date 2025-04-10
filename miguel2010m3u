@@ -1,25 +1,25 @@
 # EXTM3U
 
 
-#EXTINF:0 tvg-logo="" group-title="",gladiador
-https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/Zjg0NDMzYTgtOWZmNC00ZjcxLTliMzEtYWY5YWMxMTMwNTNm.m3u8
+#EXTINF:0 tvg-logo="" group-title="",Paramount
+http://server1.conexao-vs.live/PARAMOUNT/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="", spn4
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="",paramom
-https://outbound-proxy-us-east1-0-glob-usercontent-client-id-6243751459.googleapis.com.de/docs/boborj/__index.m3u8?nu3zAQc9HC3GbwJq=1744246832-nTproXNjekZ%2BkbBToamgDO4F%2FBAWtD771y5G0qAXGVs%3D
+#EXTINF:0 tvg-logo="" group-title="",GLOBO
+http://server2.conexao-vs.live/GLOBO/tracks-v1/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="", TNT
 http://server2.conexao-vs.live/TNT/index.fmp4.m3u8?token=f1m6Drtd3P60
 
 
 #EXTINF:0 tvg-logo="" group-title="", SP
 http://server1.conexao-vs.live/ESPN1/index.fmp4.m3u8?token=f1m6Drtd3P60
-#EXTINF:0 tvg-logo="" group-title="", 10
-https://tvsmarters.org/sportv/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="", BARÇA
-https://zekonew.newkso.ru/zeko/premium437/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="", SP2
+http://server1.conexao-vs.live/ESPN2/index.fmp4.m3u8?token=f1m6Drtd3P60
+#EXTINF:0 tvg-logo="" group-title="", SP3
+http://server1.conexao-vs.live/ESPN3/index.fmp4.m3u8?token=f1m6Drtd3P60
 
-#EXTINF:0 tvg-logo="" group-title="",SPORTV
-https://new.ejaculacaoretardada.site/sportv/index.m3u8?wmsAuthSign=undefined
+#EXTINF:0 tvg-logo="" group-title="",SP4
+http://server1.conexao-vs.live/ESPN4/index.fmp4.m3u8?token=f1m6Drtd3P60
 
 #EXTINF:0 tvg-logo="" group-title="",globo
 http://conexao-vs.live/GLOBO/index.fmp4.m3u8
