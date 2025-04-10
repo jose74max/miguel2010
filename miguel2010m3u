@@ -5,8 +5,8 @@
 http://server1.conexao-vs.live/PARAMOUNT/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="", spn4
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="",GLOBO
-http://server2.conexao-vs.live/GLOBO/tracks-v1/index.fmp4.m3u8?token=f1m6Drtd3P60
+#EXTINF:0 tvg-logo="" group-title="",GLOBO RIO
+http://server2.conexao-vs.live/GLOBO/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="", TNT
 http://server2.conexao-vs.live/TNT/index.fmp4.m3u8?token=f1m6Drtd3P60
 
