@@ -5,9 +5,8 @@
 https://sinalprivado.info/m3u8/MQ==/dnotNTgwOTllNWQtZGM2/Zjg0NDMzYTgtOWZmNC00ZjcxLTliMzEtYWY5YWMxMTMwNTNm.m3u8
 #EXTINF:0 tvg-logo="" group-title="", spn4
 https://new.m3u8.one/espn4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="",MULTICANAIS
-https://futebolhoje.org/espn/video.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="",paramom
+https://outbound-proxy-us-east1-0-glob-usercontent-client-id-6243751459.googleapis.com.de/docs/boborj/__index.m3u8?nu3zAQc9HC3GbwJq=1744246832-nTproXNjekZ%2BkbBToamgDO4F%2FBAWtD771y5G0qAXGVs%3D
 #EXTINF:0 tvg-logo="" group-title="", TNT
 http://server2.conexao-vs.live/TNT/index.fmp4.m3u8?token=f1m6Drtd3P60
 
