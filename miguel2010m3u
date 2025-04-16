@@ -13,8 +13,8 @@ http://server2.conexao-vs.live/TNT/index.fmp4.m3u8?token=f1m6Drtd3P60
 
 #EXTINF:0 tvg-logo="" group-title="", SP
 http://server1.conexao-vs.live/ESPN1/index.fmp4.m3u8?token=f1m6Drtd3P60
-#EXTINF:0 tvg-logo="" group-title="", PALMEIRAS
-https://sportzonline.ps/channels/bra/br2.php
+#EXTINF:0 tvg-logo="" group-title="", INTER
+https://9degraca.net/live/canal2/chunks.m3u8?
 #EXTINF:0 tvg-logo="" group-title="", SPORTV1
 http://server1.conexao-vs.live/SPORTV/index.fmp4.m3u8?token=f1m6Drtd3P60
 
