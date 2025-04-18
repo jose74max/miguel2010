@@ -21,8 +21,8 @@ http://server1.conexao-vs.live/SPORTV/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="",frozen
 https://vods.conexao-vs.live/movie/646680.mp4?token=ce14723ae3948ed7e6c2aa2a0530b51f69b4b4f7832c641a03de73a3e81d8f57&expires=1744640638
 
-#EXTINF:0 tvg-logo="" group-title="",pitt
-https://be4235.rcr32.ams02.cdn255.com/hls2/03/08754/lywkrstl9by2_x/master.m3u8?t=gsvcGgZWtUV7QKReCRDVdd_rL42uRib-1JTGywHPWoA&s=1744495809&e=10800&f=43770280&srv=30&asn=8167&sp=5500&p=
+#EXTINF:0 tvg-logo="" group-title="",ultimo alvo
+https://sinalprivado.info/m3u8/MQ==/dnotYzIwYTAxMGMtYTk4/YWFlZjdmN2YtMzJiMi00MThkLWIxYmUtZGQwZGExZjM4Njgx.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",inter x nacional
 http://server1.conexao-vs.live/ESPN1/index.fmp4.m3u8?token=f1m6Drtd3P60
