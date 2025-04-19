@@ -11,7 +11,21 @@ http://server1.conexao-vs.live/PREMIERE/index.fmp4.m3u8?token=f1m6Drtd3P60
 http://server2.conexao-vs.live/GLOBO/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="", TNT
 http://server2.conexao-vs.live/TNT/index.fmp4.m3u8?token=f1m6Drtd3P60
-#EXTINF:0 tvg-logo="" group-title="", globo news
+#EXTINF:0 tvg-logo="" group-title="", globo news#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 1 HD
+http://zutufo.in:80/live/781487031/K788a6763d/264953.m3u8
+
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 1 FHD
+http://zutufo.in:80/live/781487031/K788a6763d/264952_.m3u8
+
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 2
+http://zutufo.in:80/live/781487031/K788a6763d/264956_.m3u8
+
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 3
+http://zutufo.in:80/live/781487031/K788a6763d/264959_.m3u8
+
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 4
+http://zutufo.in:80/live/781487031/K788a6763d/264962_.m3u8
+
 http://187.62.246.65:8000/play/globonews
 #EXTINF:0 tvg-logo="" group-title="", pipoca
 http://187.62.246.65:8000/play/telecinepipoca
