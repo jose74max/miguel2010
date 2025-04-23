@@ -9,8 +9,8 @@ Leia mais em https://htforum.net/threads/canais-de-tv-em-ip.5580/
 http://server1.conexao-vs.live/PREMIERE/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="",GLOBO RIO
 http://server2.conexao-vs.live/GLOBO/index.fmp4.m3u8?token=f1m6Drtd3P60
-#EXTINF:0 tvg-logo="" group-title="", TNT
-http://server2.conexao-vs.live/TNT/index.fmp4.m3u8?token=f1m6Drtd3P60
+#EXTINF:0 tvg-logo="" group-title="", TNT 2
+https://s2.100mundial.icu/fontes/nossoplayer/tnt.m3u8
 #EXTINF:0 tvg-logo="" group-title="", globo news#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/PRIMEVIDEO.png" group-title="Canais | PPV ESPORTES",Prime Vídeo 1 HD
 http://zutufo.in:80/live/781487031/K788a6763d/264953.m3u8
 
@@ -42,8 +42,8 @@ http://187.62.246.65:8000/play/telecinetouch
 Leia mais em https://htforum.net/threads/canais-de-tv-em-ip.5580/
 #EXTINF:0 tvg-logo="" group-title="", SP
 http://server1.conexao-vs.live/ESPN1/index.fmp4.m3u8?token=f1m6Drtd3P60
-#EXTINF:0 tvg-logo="" group-title="", INTER
-https://9degraca.net/live/canal2/chunks.m3u8?
+#EXTINF:0 tvg-logo="" group-title="", mundual
+https://s2.100mundial.icu/fontes/nossoplayer/espn.m3u8
 #EXTINF:0 tvg-logo="" group-title="", SPORTV1
 http://server1.conexao-vs.live/SPORTV/index.fmp4.m3u8?token=f1m6Drtd3P60
 
