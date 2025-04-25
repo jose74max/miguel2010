@@ -1,5 +1,12 @@
 # EXTM3U
 
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
+http://zutufo.in:80/live/781487031/K788a6763d/223_.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
+http://zutufo.in:80/live/781487031/K788a6763d/21318_.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
 
 #EXTINF:0 tvg-logo="" group-title="",sportv 2
 http://187.62.246.65:8000/play/sportv
