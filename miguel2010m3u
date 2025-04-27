@@ -79,7 +79,17 @@ https://outbound-proxy-us-east1-0-glob-usercontent_client-id-6523853753.googleap
 #EXTINF:0 tvg-logo="" group-title="",caju
 https://stream.ejaculacaoretardada.site/espn/index.m3u8?wmsAuthSign=undefined
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 1
+http://zutufo.in:80/live/781487031/K788a6763d/367119_.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 2
+http://zutufo.in:80/live/781487031/K788a6763d/121602_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 3
+http://zutufo.in:80/live/781487031/K788a6763d/121606_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 4
+http://zutufo.in:80/live/781487031/K788a6763d/121610_.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="",RECORD
 https://new.ejaculacaoretardada.site/recordsp/index.m3u8?wmsAuthSign=undefined
