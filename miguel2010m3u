@@ -8,10 +8,37 @@ http://zutufo.in:80/live/781487031/K788a6763d/21318_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
 
-#EXTINF:0 tvg-logo="" group-title="",sportv 2
-http://187.62.246.65:8000/play/sportv
 
-Leia mais em https://htforum.net/threads/canais-de-tv-em-ip.5580/
+#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
+https://cr7v.short.gy/manoiTVOP1/sptv/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
+https://cr7v.short.gy/manoiTVOP2/sptvextra/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD³
+https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
+https://cr7v.short.gy/manoiTVOP4/sptvFHD/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV 4k
+https://cr7v.short.gy/manoiTVOP5/sptv4k/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 SD
+http://zutufo.in:80/live/781487031/K788a6763d/551_.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
+http://zutufo.in:80/live/781487031/K788a6763d/552_.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 FHD
+ 
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
+http://zutufo.in:80/live/781487031/K788a6763d/557_.m3u8
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
+http://zutufo.in:80/live/781487031/K788a6763d/21274_.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="", premiere CLUBES
 http://server1.conexao-vs.live/PREMIERE/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="",GLOBO RIO
