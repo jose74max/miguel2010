@@ -7,8 +7,8 @@ http://zutufo.in:80/live/781487031/K788a6763d/223_.m3u8
 http://zutufo.in:80/live/781487031/K788a6763d/21318_.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
-
-
+#EXTINF:0 tvg-logo="" group-title="", tv max
+https://tvmax.life/sportv/video.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 https://cr7v.short.gy/manoiTVOP1/sptv/75991634025/index.m3u8
 
