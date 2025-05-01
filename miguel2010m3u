@@ -41,6 +41,8 @@ http://zutufo.in:80/live/781487031/K788a6763d/21274_.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="", premiere CLUBES
 http://server1.conexao-vs.live/PREMIERE/index.fmp4.m3u8?token=f1m6Drtd3P60
+#EXTINF:0 tvg-logo="" group-title="", premier sportv
+http://server2.conexao-vs.live/SPORTV2/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="",GLOBO RIO
 http://server2.conexao-vs.live/GLOBO/index.fmp4.m3u8?token=f1m6Drtd3P60
 #EXTINF:0 tvg-logo="" group-title="", TNT 2
