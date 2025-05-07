@@ -4,8 +4,8 @@
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
 https://new.m3u8.one/sportv/index.m3u8
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",BAHIA
-https://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?token=pidpOAbcVmJKceY3C9xVk1eF5bJKV-R_DQFVTxEHiPg&token_path=%2F&expires=1746672650
+#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",BAHIA 3
+https://server1.brcdn.live/live/canal1/chunks.m3u8?sdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsasdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjsajgjasgagsfdsdfasdjfkjsj
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD²
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8 
@@ -15,8 +15,8 @@ https://new.m3u8.one/sportv2/index.m3u8
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",BAHIA X NACIONAL
 https://server1.brcdn.live/live/canal1/chunks.m3u8?
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",BAHIA X NACIONAL 2
-https://server1.brcdn.live/live/canal1/chunks.m3u8?
+#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",BAHIA X NACIONAL 2ZZZ5
+ttps://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?token=pidpOAbcVmJKceY3C9xVk1eF5bJKV-R_DQFVTxEHiPg&token_path=%2F&expires=1746672650Z
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
 https://new.m3u8.one/sportv3/index.m3u8
