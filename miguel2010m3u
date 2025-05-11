@@ -2,64 +2,80 @@
 
 
 
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD
-https://new.m3u8.one/sportv/index.m3u8
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",BAHIA 3
-https://server1.brcdn.live/live/canal1/chunks.m3u8?sdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsasdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjsajgjasgagsfdsdfasdjfkjsj
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD²
-https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8 
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-https://new.m3u8.one/sportv2/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV SD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ",nacional da colom bia
-https://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ", NACIONAL uruguai
-https://3janelas.net/live/canal1/chunks.m3u8?sdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsasdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjadklfokasdfjsajgjasgagsfdsdfasdjfkjsjsajgjasgagsfdsdfasdjfkjsj
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
-https://new.m3u8.one/sportv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-############################################################################ CANAIS ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fU9ulW.png" group-title="ao vivo | FUTEBOL",Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT
+#EXTINF:-1 tvg-id="JP ESPORTES" tvg-name="JP ESPORTES" tvg-logo="https://i.imgur.com/UbT12bX.png" group-title="Canais | ESPORTES",JP Esportes YT
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 3
 https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 4
 https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 5
 https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 6
 https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 7
 https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 8
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
+https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
+
+################################################################## AO VIVO | LIBERTADORES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 1
+https://cr7v.short.gy/Canal1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 2
+https://cr7v.short.gy/Canal2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 3
+https://cr7v.short.gy/Canal3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 4
+https://cr7v.short.gy/Canal4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 5
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 6
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 7
+https://cr7v.short.gy/mano3/testchamaWhats75991634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsumOW9.png" group-title="ao vivo | LIBERTADORES",Canal 8
+https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 9
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN SD
-http://fonte.lista.luxe:80/iptvgood/101011/3979
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
-http://fonte.lista.luxe:80/iptvgood/101011/3980
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
-http://fonte.lista.luxe:80/iptvgood/101011/4873
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD²
-http://fonte.lista.luxe:80/iptvgood/101011/4789
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
 http://fonte.lista.luxe:80/iptvgood/101011/3976.m3u8
@@ -76,20 +92,14 @@ http://fonte.lista.luxe:80/iptvgood/101011/4876.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://fonte.lista.luxe:80/iptvgood/101011/3961.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
-http://185.236.183.118:14191/
+
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 FHD
 http://fonte.lista.luxe:80/iptvgood/101011/3962.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD
-http://fonte.lista.luxe:80/iptvgood/101011/7923
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD
-http://fonte.lista.luxe:80/iptvgood/101011/3977.m3u8
 
 ############################################################################ ao vivo | BRASILEIRÃO
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mK9NklK.png" group-title="ao vivo | BRASILEIRÃO",Canal 1
 https://cr7v.short.gy/Canal1/index.m3u8
 
@@ -126,24 +136,6 @@ https://cr7v.short.gy/Canal3/index.m3u8
 https://cr7v.short.gy/Canal4/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max Extra 1
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max Extra 2
-https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
-############################################################################ CANAIS | PRIME VIDEO
 
-http://lscliente.xyz:80/y3zio3jg/dmvdqt4s/602677
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD²" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 SD²
-http://lscliente.xyz:80/y3zio3jg/dmvdqt4s/654303
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 HD¹
-http://lscliente.xyz:80/y3zio3jg/dmvdqt4s/654304
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD²" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 HD²
-http://lscliente.xyz:80/y3zio3jg/dmvdqt4s/654305
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 FHD¹
-http://lscliente.xyz:80/y3zio3jg/dmvdqt4s/654306
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD²" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 FHD²
-http://lscliente.xyz:80/y3zio3jg/dmvdqt4s/654307
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD H265¹" tvg-logo="https://images2.imgbox.com/d5/e7/fBKlf6bd_o.png" group-title="CANAIS | ESPORTE",ESPN 2 FHD H265¹
-http://lscliente.xyz:80/y3zio3jg/dmvdqt4s/654331
