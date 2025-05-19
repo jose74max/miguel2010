@@ -11,4 +11,14 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTE
 https://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?token=mNV8Gn3wvTkz4QiYwmjttEFw4YiNTqlc0hk5fqiXd4I&token_path=%2F&expires=1747707702
 
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36968.m3u8
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
+https://new.m3u8.one/globorj/index.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
+https://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?token=mNV8Gn3wvTkz4QiYwmjttEFw4YiNTqlc0hk5fqiXd4I&token_path=%2F&expires=1747707702
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
+https://a2vlca.fubohd.com/sportv/mono.m3u8?token=3c6c6662ba9d1fdfb47d6fb3d353bc80035feec3-c9-1747708343-1747690343
