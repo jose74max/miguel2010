@@ -1,24 +1,17 @@
 # EXTM3U
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",inter 
+https://fazoeli.fun/fontes/nossoplayer/sportv.m3u8
 
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",inter x palmeiras
+https://bgfuzq.fubohd.com/sportv/mono.m3u8?token=02071bf0b530fe55f0712778e739491890b3e29f-70-1747716778-1747698778
 
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",spottv
-https://a2vlca.fubohd.com/sportv/mono.m3u8?token=3c6c6662ba9d1fdfb47d6fb3d353bc80035feec3-c9-1747708343-1747690343
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",spotv
-https://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?token=mNV8Gn3wvTkz4QiYwmjttEFw4YiNTqlc0hk5fqiXd4I&token_path=%2F&expires=1747707702
-
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36968.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 https://new.m3u8.one/globorj/index.m3u8
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD²
-https://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?token=mNV8Gn3wvTkz4QiYwmjttEFw4YiNTqlc0hk5fqiXd4I&token_path=%2F&expires=1747707702
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ FHD 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",sportv
 https://a2vlca.fubohd.com/sportv/mono.m3u8?token=3c6c6662ba9d1fdfb47d6fb3d353bc80035feec3-c9-1747708343-1747690343
