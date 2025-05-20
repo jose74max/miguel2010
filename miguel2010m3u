@@ -1,4 +1,6 @@
 # EXTM3U
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",amerrica
+https://13ligados.net/live/canal1/chunks.m3u8?
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",inter 
 https://fazoeli.fun/fontes/nossoplayer/sportv.m3u8
@@ -8,6 +10,9 @@ https://fazoeli.fun/fontes/nossoplayer/sportv.m3u8
 https://bgfuzq.fubohd.com/sportv/mono.m3u8?token=02071bf0b530fe55f0712778e739491890b3e29f-70-1747716778-1747698778
 
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | spn",spn 2
+https://rehgkdsv72twy93cx46b5p.cdnshave.net:8443/hls/2ov0r1.m3u8?s=Y540UcKJyQX9C6V4SHLTbw&e=1747726360
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 https://new.m3u8.one/globorj/index.m3u8
@@ -15,5 +20,7 @@ https://new.m3u8.one/globorj/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",sportv
 https://a2vlca.fubohd.com/sportv/mono.m3u8?token=3c6c6662ba9d1fdfb47d6fb3d353bc80035feec3-c9-1747708343-1747690343
+
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",spn
 https://ag9wzq.fubohd.com/espn2_br/mono.m3u8?token=c472629a90b806d80aa6571062018eaf0e3e7ce5-13-1747718680-1747700680
+
