@@ -16,12 +16,12 @@ https://tyg2mnl9.fubohd.com/premiere1/mono.m3u8?token=c4051fdb243b1dfd6856e8aba6
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | spn",spn 2
 https://rehgkdsv72twy93cx46b5p.cdnshave.net:8443/hls/2ov0r1.m3u8?s=Y540UcKJyQX9C6V4SHLTbw&e=1747726360
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ",flamengp
-https://3janelas.net/live/canal1/chunks.m3u8
+ttps://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?token=kBPI7yHmV_njaYDnw85B2OukMrFBIyR4d5r01vwaSqs&token_path=%2F&expires=1747889262
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 https://new.m3u8.one/globorj/index.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ",flamengo 2
+https://server1.brcdn.live/live/canal1/chunks.m3u8
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",sportv
 https://a2vlca.fubohd.com/sportv/mono.m3u8?token=3c6c6662ba9d1fdfb47d6fb3d353bc80035feec3-c9-1747708343-1747690343
 
