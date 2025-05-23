@@ -1,34 +1,48 @@
 # EXTM3U
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",amerrica
-https://13ligados.net/live/canal1/chunks.m3u8?
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",inter 
-https://fazoeli.fun/fontes/nossoplayer/sportv.m3u8
-
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",inter x palmeiras
-https://bgfuzq.fubohd.com/sportv/mono.m3u8?token=02071bf0b530fe55f0712778e739491890b3e29f-70-1747716778-1747698778
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ",premier clubes
-https://y2fzdgxl.fubohd.com/premiere1/mono.m3u8?token=4451d85fe9a30a6da266b3cd3b976f3f302d170e-e5-1747879254-1747861254
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ",feminino
-https://new2.multicanaistv.xyz/sportv2/index.m3u8?wmsAuthSign=undefined
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | spn",spn 2
-https://rehgkdsv72twy93cx46b5p.cdnshave.net:8443/hls/2ov0r1.m3u8?s=Y540UcKJyQX9C6V4SHLTbw&e=1747726360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ",flamengp
-ttps://cdn1.xn--y5q31cs7iove24m.net/live/canal1/chunks.m3u8?token=kBPI7yHmV_njaYDnw85B2OukMrFBIyR4d5r01vwaSqs&token_path=%2F&expires=1747889262
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 https://new.m3u8.one/globorj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | ",flamengo 2
-https://server1.brcdn.live/live/canal1/chunks.m3u8
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",sportv
-https://a2vlca.fubohd.com/sportv/mono.m3u8?token=3c6c6662ba9d1fdfb47d6fb3d353bc80035feec3-c9-1747708343-1747690343
-
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",spn
-https://ag9wzq.fubohd.com/espn2_br/mono.m3u8?token=c472629a90b806d80aa6571062018eaf0e3e7ce5-13-1747718680-1747700680
-
-
+#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 1 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162468.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR| PREMIERE 2 HD" tvg-logo="https://lo1.in/BR/prme2.png" group-title="AM | BRAZIL HD",BR| PREMIERE 2 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331246.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR| PREMIERE 3 HD" tvg-logo="https://lo1.in/BR/prme3.png" group-title="AM | BRAZIL HD",BR| PREMIERE 3 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331247.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR| PREMIERE 4 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 4 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162471.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR| PREMIERE 5 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 5 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331248.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR| PREMIERE 6 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 6 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331249.m3u8
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR| PREMIERE 7 HD" tvg-logo="https://lo1.in/BR/prme7.png" group-title="AM | BRAZIL HD",BR| PREMIERE 7 HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/400230122.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 FHD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="AM | BRAZIL FHD",BR| SPORTV 2 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162502.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 FHD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL FHD",BR| SPORTV 3 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="AM | BRAZIL FHD",BR| SPORTV FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH| LOOK THOONG TV HD" tvg-logo="https://lo1.in/tha/flg.png" group-title="AS | THAILLAND",TH| LOOK THOONG TV HD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162527.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION FHD" tvg-logo="https://lo1.in/BR/telact.png" group-title="AM | BRAZIL FHD",BR| TELECINE ACTION FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162510.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN FHD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="AM | BRAZIL FHD",BR| TELECINE FUN FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162512.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA FHD" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="AM | BRAZIL FHD",BR| TELECINE PIPOCA FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162513.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM FHD" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="AM | BRAZIL FHD",BR| TELECINE PREMIUM FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162514.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH FHD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="AM | BRAZIL FHD",BR| TELECINE TOUCH FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162515.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR| TNT FHD" tvg-logo="https://lo1.in/BR/tnt.png" group-title="AM | BRAZIL FHD",BR| TNT FHD
+#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 01 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 01 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 02 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 02 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 03 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 03 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 04 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 04 FHD
+http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52280.m3u8
 #EXTINF:-1 tvg-id="espn.br" tvg-name="BR| ESPN 2 HD" tvg-logo="https://lo1.in/BR/esp.png" group-title="AM | BRAZIL HD",BR| ESPN 2 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171301.m3u8
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN 3 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="AM | BRAZIL HD",BR| ESPN 3 HD
