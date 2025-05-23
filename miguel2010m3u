@@ -22,8 +22,7 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162502.m3u8
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="AM | BRAZIL FHD",BR| SPORTV FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH| LOOK THOONG TV HD" tvg-logo="https://lo1.in/tha/flg.png" group-title="AS | THAILLAND",TH| LOOK THOONG TV HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162527.m3u8
+
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION FHD" tvg-logo="https://lo1.in/BR/telact.png" group-title="AM | BRAZIL FHD",BR| TELECINE ACTION FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162510.m3u8
 #EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN FHD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="AM | BRAZIL FHD",BR| TELECINE FUN FHD
@@ -34,15 +33,10 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162513.m3u8
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162514.m3u8
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH FHD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="AM | BRAZIL FHD",BR| TELECINE TOUCH FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162515.m3u8
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="BR| TNT FHD" tvg-logo="https://lo1.in/BR/tnt.png" group-title="AM | BRAZIL FHD",BR| TNT FHD
-#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 01 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 01 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 02 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 02 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 03 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 03 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PARAMOUNT+ 04 FHD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL FHD",BR| PARAMOUNT+ 04 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/52280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney JR FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney JR FHD
+http://supersonictv.live:8080/812493/376688/84975
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney XD FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney XD FHD
+http://supersonictv.live:8080/812493/376688/84976.m3u8
 #EXTINF:-1 tvg-id="espn.br" tvg-name="BR| ESPN 2 HD" tvg-logo="https://lo1.in/BR/esp.png" group-title="AM | BRAZIL HD",BR| ESPN 2 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171301.m3u8
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN 3 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="AM | BRAZIL HD",BR| ESPN 3 HD
