@@ -2,22 +2,8 @@
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 https://new.m3u8.one/globorj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 1 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162468.m3u8
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="BR| PREMIERE 2 HD" tvg-logo="https://lo1.in/BR/prme2.png" group-title="AM | BRAZIL HD",BR| PREMIERE 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331246.m3u8
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="BR| PREMIERE 3 HD" tvg-logo="https://lo1.in/BR/prme3.png" group-title="AM | BRAZIL HD",BR| PREMIERE 3 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331247.m3u8
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="BR| PREMIERE 4 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 4 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162471.m3u8
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="BR| PREMIERE 5 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 5 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331248.m3u8
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="BR| PREMIERE 6 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| PREMIERE 6 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/331249.m3u8
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="BR| PREMIERE 7 HD" tvg-logo="https://lo1.in/BR/prme7.png" group-title="AM | BRAZIL HD",BR| PREMIERE 7 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/400230122.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 FHD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="AM | BRAZIL FHD",BR| SPORTV 2 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| GREMIO
+https://embmaxtv.online/espn/index.m3u8
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 FHD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL FHD",BR| SPORTV 3 FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="AM | BRAZIL FHD",BR| SPORTV FHD
