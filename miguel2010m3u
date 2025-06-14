@@ -1,26 +1,23 @@
 # EXTM3U
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",contador 3
-http://95.141.32.136:8081/look/sportv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| GREMIO
-https://embmaxtv.online/espn/index.m3u8
+
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 FHD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL FHD",BR| SPORTV 3 FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="AM | BRAZIL FHD",BR| SPORTV FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",rede canais 2
-https://redecanaistv.gs/link/stream.m3u8?categoria=fhd&canal=c0hId0JkL1pVMXNWRVRoRDJseHI3aWpaZzloZ0Z6UT0=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",rede canais
-https://outbound-proxy-us-east1-0-glob-usercontent-client-id-7242752458.googleapis.com.pt/docs/bobonordeste/__index.m3u8?sv=115&nu3zAQc9HC3GbwJq=1748107132-KoHYMK5DcnGZlnQMJkG3anNU3D4nY4%2Bn4r6wZtZ7YRA%3D
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | FUTEBOL",ManoFUT 2
-https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | PIRATA 2
-https://chora-embedflix.shop/fontes/embedtv/espn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | PIRATA 3
+EXTINF:0 group-title="CANAIS BRASILEIROS", FOX
+http://185.181.102.2:8081/live/fox/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXAltQq.png" group-title="ao vivo | PIRATA 1
-https://chora-embedflix.shop/token/1d12611f6bc63eb4adef3ebc4cece4b6/embedtv.m3u8
+#EXTINF:0 group-title="CANAIS BRASILEIROS", FX
+http://185.181.100.218:8081/live/master25/chunks.m3u8
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", A&E
+http://185.181.100.218:8081/live/ae_1/chunks.m3u8
+
+#EXTINF:0 group-title="CANAIS BRASILEIROS", MEGAPIX
+http://185.181.102.3:8081/live/master11/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 
 https://s1.embecdn.site/DISNEY+1/index.m3u8
@@ -39,37 +36,3 @@ https://s1.embecdn.site/DISNEY+5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 6
 https://s1.embecdn.site/DISNEY+6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV SD
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/576p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/720p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV FHD
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION FHD" tvg-logo="https://lo1.in/BR/telact.png" group-title="AM | BRAZIL FHD",BR| TELECINE ACTION FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162510.m3u8
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN FHD" tvg-logo="https://lo1.in/BR/telcef.png" group-title="AM | BRAZIL FHD",BR| TELECINE FUN FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162512.m3u8
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA FHD" tvg-logo="https://lo1.in/BR/telpipo.png" group-title="AM | BRAZIL FHD",BR| TELECINE PIPOCA FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162513.m3u8
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM FHD" tvg-logo="https://lo1.in/BR/telcnpr.png" group-title="AM | BRAZIL FHD",BR| TELECINE PREMIUM FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162514.m3u8
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH FHD" tvg-logo="https://lo1.in/BR/telcnto.png" group-title="AM | BRAZIL FHD",BR| TELECINE TOUCH FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney JR FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney JR FHD
-http://supersonictv.live:8080/812493/376688/84975
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney XD FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney XD FHD
-http://supersonictv.live:8080/812493/376688/84976.m3u8
-#EXTINF:-1 tvg-id="espn.br" tvg-name="BR| ESPN 2 HD" tvg-logo="https://lo1.in/BR/esp.png" group-title="AM | BRAZIL HD",BR| ESPN 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171301.m3u8
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="BR| ESPN 3 HD" tvg-logo="https://lo1.in/BR/espex.png" group-title="AM | BRAZIL HD",BR| ESPN 3 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162360.m3u8
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="BR| ESPN 4 HD" tvg-logo="https://lo1.in/BR/espn4.png" group-title="AM | BRAZIL HD",BR| ESPN 4 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162358.m3u8
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="BR| FOX SPORTS 2 HD" tvg-logo="https://lo1.in/BR/fxsp.png" group-title="AM | BRAZIL HD",BR| FOX SPORTS 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162381.m3u8
-#EXTINF:-1 tvg-id="foxsports.br" tvg-name="BR| FOX SPORTS HD" tvg-logo="https://lo1.in/BR/fxsp.png" group-title="AM | BRAZIL HD",BR| FOX SPORTS HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162380.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="AM | BRAZIL HD",BR| SPORTV 1 HD
