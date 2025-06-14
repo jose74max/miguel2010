@@ -6,11 +6,11 @@ http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="AM | BRAZIL FHD",BR| SPORTV FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
 
-EXTINF:0 group-title="CANAIS BRASILEIROS", FOX
-http://185.181.102.2:8081/live/fox/chunks.m3u8
+EXTINF:0 group-title="CANAIS BRASILEIROS", sportv01
+https://2bebes.net/live/canal1/chunks.m3u8?
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", FX
-http://185.181.100.218:8081/live/master25/chunks.m3u8
+#EXTINF:0 group-title="CANAIS BRASILEIROS", spotv 002
+http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1744557881_724cbf778125b28626a668c3ebb46bb7a2917121
 
 #EXTINF:0 group-title="CANAIS BRASILEIROS", A&E
 http://185.181.100.218:8081/live/ae_1/chunks.m3u8
@@ -19,20 +19,3 @@ http://185.181.100.218:8081/live/ae_1/chunks.m3u8
 http://185.181.102.3:8081/live/master11/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 
-https://s1.embecdn.site/DISNEY+1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 2
-https://s1.embecdn.site/DISNEY+2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 3
-https://s1.embecdn.site/DISNEY+3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 4
-https://s1.embecdn.site/DISNEY+4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 5
-https://s1.embecdn.site/DISNEY+5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3jwgcNr.png" group-title="Canais | ESPN",Disney+ 6
-https://s1.embecdn.site/DISNEY+6/index.m3u8
