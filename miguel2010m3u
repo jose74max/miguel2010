@@ -1,7 +1,7 @@
 # EXTM3U
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",contador 2
-https://cdn.iageni.com/m/O.Contador.2.2025.1080p.WEB-DL.DUAL.5.1.mp4
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",contador 3
+http://95.141.32.136:8081/look/sportv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR| PREMIERE 1 HD" tvg-logo="https://lo1.in/BR/prme.png" group-title="AM | BRAZIL HD",BR| GREMIO
 https://embmaxtv.online/espn/index.m3u8
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 FHD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL FHD",BR| SPORTV 3 FHD
