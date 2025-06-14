@@ -3,19 +3,14 @@
 
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 FHD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL FHD",BR| SPORTV 3 FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
+
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="AM | BRAZIL FHD",BR| SPORTV FHD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
 
-EXTINF:0 group-title="CANAIS BRASILEIROS", sportv01
+EXTINF:0 group-title="CANAIS BRASILEIROS",sportv01
 https://2bebes.net/live/canal1/chunks.m3u8?
 
-#EXTINF:0 group-title="CANAIS BRASILEIROS", spotv 002
+#EXTINF:0 group-title="CANAIS BRASILEIROS",spotv 002
 http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1744557881_724cbf778125b28626a668c3ebb46bb7a2917121
-
-#EXTINF:0 group-title="CANAIS BRASILEIROS", A&E
-http://185.181.100.218:8081/live/ae_1/chunks.m3u8
-
-#EXTINF:0 group-title="CANAIS BRASILEIROS", MEGAPIX
-http://185.181.102.3:8081/live/master11/chunks.m3u8
 
 
