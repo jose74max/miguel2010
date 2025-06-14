@@ -1,37 +1,16 @@
 # EXTM3U
 
 
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 FHD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL FHD",BR| SPORTV 3 FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162503.m3u8
-
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://lo1.in/BR/sp.png" group-title="AM | BRAZIL FHD",BR| SPORTV FHD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162504.m3u8
 
 EXTINF:0 group-title="CANAIS BRASILEIROS",sportv01
-https://2bebes.net/live/canal1/chunks.m3u8?
-
-#EXTINF:0 group-title="CANAIS BRASILEIROS",spotv 002
-http://kobe.kaseline.shop:2095/live3/sportv/chunks.m3u8?token=1744557881_724cbf778125b28626a668c3ebb46bb7a2917121
+https://13ligados.net/live/canal2/chunks.m3u8
+EXTINF:0 group-title="CANAIS BRASILEIROS",maiami
+https://ddy6new.newkso.ru/ddy6/premium78/mono.m3u8
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="AM | BRAZIL HD",BR| SPORTV 1 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171307.m3u8
 #EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 HD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="AM | BRAZIL HD",BR| SPORTV 2 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171308.m3u8
 #EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL HD",BR| SPORTV 3 HD
-
-#EXTINF:60,BR| FOX SPORTS 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162381.m3u8
-#EXTINF:60,BR| SPORTV 2 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171308.m3u8
-#EXTINF:60,BR| SPORTV 3 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171309.m3u8
-#EXTINF:59,BR| PREMIERE 1 HD
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162468.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="AM | BRAZIL HD",BR| SPORTV 1 HDz
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171307.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 HD" tvg-logo="https://lo1.in/BR/spt2.png" group-title="AM | BRAZIL HD",BR| SPORTV 2 HDz
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171308.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 HD" tvg-logo="https://lo1.in/BR/spt3.png" group-title="AM | BRAZIL HD",BR| SPORTV 3 HDz
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171309.m3u8
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="BR| PARAMOUNT CHANNEL HD" tvg-logo="https://lo1.in/BR/paramch.png" group-title="AM | BRAZIL HD",BR| PARAMOUNT CHANNEL HDz
-http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162465.m3u8
+EXTINF:0 group-title="CANAIS BRASILEIROS",maiami 2
+https://m3u8.anoncors.stream/proxy?url=https%3A%2F%2Flive-as-10-03.video.globo.com%2Fj%2FeyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMDMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUwMDMxNzAxLCJpYXQiOjE3NDk5NDUzMDEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYzhiMDQ1YjQtNzEwMi00NjYyLTg3NjUtZTI3MjM5NWRiM2VlIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.mvdvl6Y8CSMBJBV3pwkbVtIn6dBRpE5LohZemNpahHKitgqTwewzYdk6R8VOxrpXw44WMmz97E56pCfT0UjWRHQc6RdJL417qT7P12DFACvWKyO8_o19zUo6xgdnVRU-UkFl2TnUOFtSNYdOgpJToXKJLn0aiBmAxAq5r5CXQhYzyzBPKDO3OQ_lI90tNUsOMQwrSpX0aStd2vPJ6wVtJGw91kMAZv6lnWj2MNor0BziliBX9sx0pHP7Y6LSBZ8kZxgop3vypgibLkx6A68k5Kjdi5_XN8T7k3ZFbde7sljx7_gDc89NroHMgrBSJP4wVAnDmNMQZRjYlOSwOMzU3w%2Flive%2Ff(i%3D2)%2Fspo124ha%2Fplaylist.m3u8
