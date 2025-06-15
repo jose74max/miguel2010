@@ -1,11 +1,10 @@
 # EXTM3U
 
-
-
-EXTINF:0 group-title="CANAIS BRASILEIROS",sportv01
-https://13ligados.net/live/canal2/chunks.m3u8
-EXTINF:0 group-title="CANAIS BRASILEIROS",maiami
+#EXTINF:0 tvg-logo="" group-title="futebol", all hali x inter maiami
 https://ddy6new.newkso.ru/ddy6/premium78/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="futebol", sportv
+https://13ligados.net/live/canal2/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="AM | BRAZIL HD",BR| SPORTV 1 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171307.m3u8
