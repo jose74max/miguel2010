@@ -3,9 +3,14 @@
 #EXTINF:0 tvg-logo="" group-title="futebol", all hali x inter maiami
 https://ddy6new.newkso.ru/ddy6/premium78/mono.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="futebol", sportv
-https://13ligados.net/live/canal2/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="futebol", sportv papai
+https://aipapai.shop/_temp/sportv.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="futebol", sportv papai3
+https://agvyby.fubohd.com/sportv/mono.m3u8?token=2fa72425f9b82a76370d7f71d2739ef1db90cbb6-ee-1749973347-1749955347
+
+#EXTINF:0 tvg-logo="" group-title="futebol", sportv provedor
+https://qzv4jmsc.fubohd.com/sportv/mono.m3u8?token=027f7a68c08da859d1c5e6a8ffb53159eb8b8047-97-1749973472-1749955472
 
 #EXTINF:-1 tvg-id="sportv.br" tvg-name="BR| SPORTV 1 HD" tvg-logo="https://lo1.in/BR/sp1.png" group-title="AM | BRAZIL HD",BR| SPORTV 1 HD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/171307.m3u8
