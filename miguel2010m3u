@@ -1,12 +1,12 @@
 # EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="futebol", sportv 3
-https://m3u8.anoncors.stream/proxy?url=https%3A%2F%2Flive-as-02-20.video.globo.com%2Fj%2FeyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMjAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUwMDgwNzY3LCJpYXQiOjE3NDk5OTQzNjcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTE2MDkyYWUtZGZhZS00OTU4LWE1YzktYjA4ODBjZDdiZWI4IiwicGF0aCI6Ii9saXZlL2YoaT0yKS9zcG8zMjRoYS9wbGF5bGlzdC5tM3U4In0.nPNye-aFQkFWAm16sXrbkx3A4M3KmwDgCTEwmsG3h0DH-LNnx6my4OCdXyrnqMJTlVo-_Ms9EWJgIBhktNSQ3We6XPsPv2Z8FRSEdI4O8Hu2BlavcBj8ZtLUhyOhBdnM8lHYRMWNGbbUtj-LsLfMSfkUBFKPHPzqtlbXtYElAhplDiAI-94LtAfNoeoLREvm3VYVohlUw2PEHp9SnycSrGhpW514V_Y8CbQag0mHPxQFB_6OKb0jL861tdU-qJlnAEikZ3Gr3LEavVoCWzlw40523WZKCegAooBlmIY8r8tQQ790sY456-B_P3V4QYOtihNb0rBAOXGwNGedf_tAGA%2Flive%2Ff(i%3D2)%2Fspo324ha%2Fplaylist.m3u8
+#EXTINF:0 tvg-logo="" group-title="futebol", sportv 4
+https://m3u8.anoncors.stream/proxy?url=https%3A%2F%2Flive-cm-ah-14-37.video.globo.com%2Fj%2FeyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTQtMzcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUwMzQ4OTg1LCJpYXQiOjE3NTAyNjI1ODUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTE2MDkyYWUtZGZhZS00OTU4LWE1YzktYjA4ODBjZDdiZWI4IiwicGF0aCI6Ii9saXZlL2YoaT0yKS9zcG8xMjRoYS9wbGF5bGlzdC5tM3U4In0.cyPp1Tym5laM_qkOQQrGEHWsUNksI3rWxayhaSJjjzKBFb2bEh0X7Q8YqyJpNgPllh3w69xeDM6r9rOiioVXOl_Bx2ellO2EBgWb4f7lMQSUxnasNruRelwzOTiNR92NsuWjYMXHOhTgbWVdichTZMROzE5uVPgmJWQdx347othl2KwgAJgzeX8-VP1bKSAphPjHsz7X3b2G4NtjzN4Y4t8llL0Dw2MpZDFkt-ET2rXkqjTknQ6bNT48iVX3CGQRQgJXqMuNQU5MPKXq0ti8KrcMdzJeohmRkkXSLL84cHXFQeO7d_AFThUgajTM0EjggNuWw6BPLshE9DqzRMmX-w%2Flive%2Ff(i%3D2)%2Fspo124ha%2Fplaylist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="futebol", sportv papai
 https://aipapai.shop/_temp/sportv.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="futebol", sportv papai3
+#EXTINF:0 tvg-logo="" group-title="futebol", MUNDIAL
 https://agvyby.fubohd.com/sportv/mono.m3u8?token=2fa72425f9b82a76370d7f71d2739ef1db90cbb6-ee-1749973347-1749955347
 
 #EXTINF:0 tvg-logo="" group-title="futebol", sportv 
@@ -14,8 +14,8 @@ https://dglvz29s.fubohd.com/sportv/mono.m3u8?token=b6c575421a906074c7efb1ebae3d5
 
 #EXTINF:0 tvg-logo="" group-title="futebol", boca
 https://c2f2zq.fubohd.com/sportv/mono.m3u8?token=a9b79f408b55a68a20b4f98521bc88623467752b-6e-1750102875-1750084875
-#EXTINF:0 tvg-logo="" group-title="futebol", TENIS
-https://rehgkdsv72twy93cx46b5p.cdnshave.net:8443/hls/4h80gffrr5803z.m3u8?s=De8RedJL8r7VM5yvW5IcpA&e=1750208893
+#EXTINF:0 tvg-logo="" group-title="futebol", GLOBO
+https://m3u8.anoncors.stream/proxy?url=https%3A%2F%2Flive-as-02-17.video.globo.com%2Fj%2FeyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMTcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzUwMzQ5MDUxLCJpYXQiOjE3NTAyNjI2NTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNTE2MDkyYWUtZGZhZS00OTU4LWE1YzktYjA4ODBjZDdiZWI4IiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1tb2MvcGxheWxpc3QubTN1OCJ9.KSKRf4QBv4d74ovLyMxHfxtbXRG8CGfzm5Kdp9ptwEUg5Oz3Uyj407OTeg6k0WiYVAmf0yOs-Q_R6OlDwoNROZd_y0jZMqx9EawDPkb8fP3HjSpVbKFKcZ2LpMPhByd1oceS_GxP3jPXrNXPYqWo14tWMUefXL12bUwMjmiHoL33UEj1CwX3jqD5sa9ikHLW-xd3FHE1WT4-Q4YN89_2gmprBQyifSx0HteI56gvjaa2ymwmY23lxtzuAbVukOZITuL4tPXUHlkkNR4LlevDLXUqb6BhhWXRi0Ziq2Q29oasLe316Ha0hScwhULuraqRc5Vs8LfGJAf68MvQRsI3_A%2Flive%2Ff(i%3D2)%2Fglobo-moc%2Fplaylist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="futebol", RIVER
-https://cgxheq.fubohd.com/sportv/mono.m3u8?token=f611648c367877a6134be2a6dd26dcb348d66940-b8-1750203947-1750185947
+#EXTINF:0 tvg-logo="" group-title="futebol", CITI
+https://tyg2mnl9.fubohd.com/sportv/mono.m3u8?token=5b6b39c2230c23fb9dd0249240dd699d1e6866f2-75-1750279500-1750261500
