@@ -4,9 +4,12 @@
 
 #EXTINF:0 tvg-logo="" group-title="futebol", santo
 https://indoor.sheikindoor.com.br/wp-content/uploads/2025/08/07174.mp4
-#EXTINF:0 tvg-logo="" group-title="futebol", sportv papai
-https://aipapai.shop/_temp/sportv.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="futebol", 19230-01
+https://vods.conexao-vs.live/series/707678.mp4?token=33c644f171b29802c76a80324cf5cc9f499f796a4ca4049eae44071bae4255ff&expires=1755028100
+#EXTINF:0 tvg-logo="" group-title="futebol", 19230-02
+https://www-fontedecanais-one.79nzvh52ifzb70.com/series/1923/187755.mp4?username=Visionplay-vods&token=C1EQAgcOWlBaW0VHXF5fX0hZR04FAAEZBAoVD0lWUiUNGAMEFhoHDQleEgQOGFpGSQERCzsIBQUWDwgYGRwKGEhRWl1dVVJfRgkLBRwdAggEG0ZRX1pWXkdOExwKHw8FDDUCCFJJVltSUkldFg%3D%3D
+#EXTINF:0 tvg-logo="" group-title="futebol", 19230-03
+https://www-fontedecanais-one.79nzvh52ifzb70.com/series/1923/314606.mp4?username=cinevs-vods&token=C1EQAgcOWlBaW0VHXF5fXkteR04FAAEZBAoVD0lWUhANBQ8dC0cdAxQARkdIBhkSNA8fHQoOCR8RBQUfUklGXFxSWkZJDhEdABwDDwwCSVZFQkpdXUdaCQQCBBYKHzUCHEhRW0JBUFNSFg%3D%3D
 #EXTINF:0 tvg-logo="" group-title="futebol", anjos
 https://cdn.iageni.com/m/Anjos.Do.Desierto.2024.1080p.WEB-DL.DUAL.5.1.mp4
 
