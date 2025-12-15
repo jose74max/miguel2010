@@ -16,3 +16,23 @@ https://m3u8.anoncors.stream/proxy?url=https%3A%2F%2Flive-as-02-17.video.globo.c
 
 #EXTINF:0 tvg-logo="" group-title="futebol", CITI
 https://tyg2mnl9.fubohd.com/sportv/mono.m3u8?token=5b6b39c2230c23fb9dd0249240dd699d1e6866f2-75-1750279500-1750261500
+ EXTINF : -1  tvg-logo = " http://s9.postimg.org/vd00n5o4b/telecineaction.png "  group-title = " " , AÇÃO DE TELECINE 
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+# EXTINF : -1  tvg-logo = " http://clarotv.claro.com.br/image/Get/453 "  group-title = " " , TELECINE PIPOCA 
+http://5.79.68.138:8081/look/tcpipoca/playlist.m3u8
+
+# EXTINF : -1  tvg-logo = " https://clarotvlojaonline.com.br/img/channels/20151112151535-canal-telecine-touch-hd.png "  group-title = " " , TELECINE TOUCH 
+http://187.49.86.238:10000/bysid/63 
+
+# EXTINF : -1  tvg-logo = " https://goo.gl/4HigWR "  group-title = " " , TELECINE TAUCH 
+http://187.49.86.238:10000/bysid/63
+
+# EXTINF : -1  tvg-logo = " https://goo.gl/OngVqc " group-title"", HBO 2 
+http://187.49.86.238:10000/bysid/69
+
+# EXTINF : 0  tipo = " stream "  channelId = " 2711 " , NICKTOONS 
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+
+# EXTINF : -1  tvg-id = " Paramount Channel "  tvg-logo = " http://s31.postimg.org/f9lq0eei3/paramount.png "  group-title = " Filmes e Séries " , PARAMOUNT 
+http://187.49.86.238:10000/bysid/49 
