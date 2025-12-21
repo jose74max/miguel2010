@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="futebol", voe
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765144082/ei/sqE1aYqNGOWi-LAPtfmyiQ8/ip/2804%3Ad51%3A84fe%3A4100%3Ad134%3Aff7f%3Ab23f%3Ac72f/id/7fe6c99dd9c37438/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr2---sn-cg51pauxax-2v5r.googlevideo.com/cps/0/met/1765122482%2C/mh/n-/mm/31%2C 29/mn/sn-cg51pauxax-2v5r%2Csn-bg0e6nel/ms/au%2Crdu/mv/m/mvi/2/pl/40/rms/au%2Cau/tx/51539831/txs/51539830%2C51539831/hfr/1/demuxed/1/tts_caps/1/maudio/1/initcwndbp s/2205000/bui/AYUSA3ByaCJkSyVzBEHhk2nkNP1zEN14IGRU7_S26Zohc9-9ORq_CMwsIuDXHsAdDUQP0hCLtUSsTkG0/spc/wH4QqxtfpmNd8AMGLpWrKGWvwy-YWWDLmbIyTtLa8mnFpr782-6MtE91io_K6bN 5/vprv/1/go/1/rqh/5/mt/1765122131/fvip/3/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565681%2C51580968/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/s ig/AJfQdSswRQIhAOJmbWOZh-AgsoqVfyaj6fGfocqttMNs4Fd72v2wneyzAiBdHgI7zDUw5sgPUGSWwm 6jwqzPmLwo8kEXS-VdnUK3fw%3D%3D/lsparams/playback_host%2Ccps%2Cmet%2Cmh%2Cmm%2Cmn% 2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps/lsig/APaTxxMwRAIgJqMY5xp_94iUhW_vGAoIjr4qAQxsEHMhVyWGL2oyOAcCIFb2RrLvcjQS52wYBc5sFlaZ4gNEVNMninXCiLpVjWfD/file/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="futebol", meia irma
+https://cdn.cnvsplay.com/m/A.Meia-Irm%C3%A3.Feia.2025.1080p.WEB-DL.DUAL.5.1.mp4
 #EXTINF:0 tvg-logo="" group-title="futebol", o ceu
 https://cdn.cnvsplus.com/m/Quando.oC%C3%A9u.se.Engana.2025.1080p.WEB-DL.DUAL.5.1.mp4
 #EXTINF:0 tvg-logo="" group-title="futebol", na selva
