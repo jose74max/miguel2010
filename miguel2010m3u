@@ -2,37 +2,23 @@
 
 
 
-#EXTINF:0 tvg-logo="" group-title="futebol", globo vv
-https://agropesca.live/live/globorj/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="futebol", globo v
+https://qzv4jmsc.fubohd.com/tudn/mono.m3u8?token=002987273b9885d9813e6fea9812acf622aded8b-b1-1768728637-1768710637
 
 #EXTINF:0 tvg-logo="" group-title="futebol", pipoca
 https://tvmaxplay.xyz/tPSQziMT8ftcppcJyPYv0iQS18VR6Hf/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="futebol", na selva
 https://vods1.watchingvs.com/m/Na%20Selva_2017_tt3758172.mp4
 
 #EXTINF:0 tvg-logo="" group-title="futebol", truque de mestre 3
 https://cdn.cnvsplay.com/m/Truque.de.Mestre.O.3.Ato.2025.1080p.WEB-DL.DUAL.5.1.mp4
+
 #EXTINF:0 tvg-logo="" group-title="futebol", lazaro
 https://vods1.watchingvs.com/m/O%20Sil%C3%AAncio%20da%20Chuva_2021_tt9463434.mp4
-#EXTINF:0 tvg-logo="" group-title="futebol", CITI
-https://tyg2mnl9.fubohd.com/sportv/mono.m3u8?token=5b6b39c2230c23fb9dd0249240dd699d1e6866f2-75-1750279500-1750261500
- EXTINF : -1  tvg-logo = " http://s9.postimg.org/vd00n5o4b/telecineaction.png "  group-title = " " , AÇÃO DE TELECINE 
-http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_f1tv_b1096000.m3u8
 
-# EXTINF : -1  tvg-logo = " http://clarotv.claro.com.br/image/Get/453 "  group-title = " " , TELECINE PIPOCA 
-http://5.79.68.138:8081/look/tcpipoca/playlist.m3u8
 
-# EXTINF : -1  tvg-logo = " https://clarotvlojaonline.com.br/img/channels/20151112151535-canal-telecine-touch-hd.png "  group-title = " " , TELECINE TOUCH 
-http://187.49.86.238:10000/bysid/63 
 
-# EXTINF : -1  tvg-logo = " https://goo.gl/4HigWR "  group-title = " " , TELECINE TAUCH 
-http://187.49.86.238:10000/bysid/63
 
-# EXTINF : -1  tvg-logo = " https://goo.gl/OngVqc " group-title"", HBO 2 
-http://187.49.86.238:10000/bysid/69
 
-# EXTINF : 0  tipo = " stream "  channelId = " 2711 " , NICKTOONS 
-http://208.86.19.13:8080/live/15.stream/index.m3u8
 
-# EXTINF : -1  tvg-id = " Paramount Channel "  tvg-logo = " http://s31.postimg.org/f9lq0eei3/paramount.png "  group-title = " Filmes e Séries " , PARAMOUNT 
-http://187.49.86.238:10000/bysid/49 
