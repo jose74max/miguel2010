@@ -4,7 +4,32 @@
 
 #EXTINF:0 tvg-logo="" group-title="futebol", SPORTV
 https://01.vipcanaisplay.site/OB1rcavXsprtviOqkVCJTBJahe/index.m3u8
-
+#EXTINF:-1 tvg-name="BBB Cam 01 FHD" tvg-logo="http://camelo.vip/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 FHD
+http://camelo.vip:80/bru777322/Online99999/238604.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 01 SD" tvg-logo="http://camelo.vip/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 SD
+http://camelo.vip:80/bru777322/Online99999/238606.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 02 FHD" tvg-logo="http://camelo.vip/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 FHD
+http://camelo.vip:80/bru777322/Online99999/238607.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 02 SD" tvg-logo="http://camelo.vip/static/bbb/02.jpg" group-title="Canais | BBB",BBB Cam 02 SD
+http://camelo.vip:80/bru777322/Online99999/238609.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 03 FHD" tvg-logo="http://camelo.vip/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 FHD
+http://camelo.vip:80/bru777322/Online99999/238639.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 03 HD" tvg-logo="http://camelo.vip/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 HD
+http://camelo.vip:80/bru777322/Online99999/238641.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 03 SD" tvg-logo="http://camelo.vip/static/bbb/03.jpg" group-title="Canais | BBB",BBB Cam 03 SD
+http://camelo.vip:80/bru777322/Online99999/238693.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 04 FHD" tvg-logo="http://camelo.vip/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 FHD
+http://camelo.vip:80/bru777322/Online99999/238694.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 04 HD" tvg-logo="http://camelo.vip/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 HD
+http://camelo.vip:80/bru777322/Online99999/238695.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 04 SD" tvg-logo="http://camelo.vip/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 SD
+http://camelo.vip:80/bru777322/Online99999/238696.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 05 FHD" tvg-logo="http://camelo.vip/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 FHD
+http://camelo.vip:80/bru777322/Online99999/238697.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 05 HD" tvg-logo="http://camelo.vip/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 HD
+http://camelo.vip:80/bru777322/Online99999/238698.m3u8
+#EXTINF:-1 tvg-name="BBB Cam 05 SD" tvg-logo="http://camelo.vip/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 SD
+http://camelo.vip:80/bru777322/Online99999/238699.m3u8
 #EXTINF:0 tvg-logo="" group-title="futebol", SPORTV 2
 https://01.vipcanaisplay.site/OB1rcavXsprtviOqkVCJTBJahe/tracks-v1a1/mono.ts.m3u8
 
