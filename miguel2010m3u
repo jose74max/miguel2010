@@ -22,17 +22,19 @@ http://camelo.vip:80/bru777322/Online99999/238693.m3u8
 http://camelo.vip:80/bru777322/Online99999/238694.m3u8
 #EXTINF:-1 tvg-name="BBB Cam 04 HD" tvg-logo="http://camelo.vip/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 HD
 http://camelo.vip:80/bru777322/Online99999/238695.m3u8
-#EXTINF:-1 tvg-name="BBB Cam 04 SD" tvg-logo="http://camelo.vip/static/bbb/04.jpg" group-title="Canais | BBB",BBB Cam 04 SD
-http://camelo.vip:80/bru777322/Online99999/238696.m3u8
+
 #EXTINF:-1 tvg-name="BBB Cam 05 FHD" tvg-logo="http://camelo.vip/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 FHD
 http://camelo.vip:80/bru777322/Online99999/238697.m3u8
 #EXTINF:-1 tvg-name="BBB Cam 05 HD" tvg-logo="http://camelo.vip/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 HD
-http://camelo.vip:80/bru777322/Online99999/238698.m3u8
-#EXTINF:-1 tvg-name="BBB Cam 05 SD" tvg-logo="http://camelo.vip/static/bbb/05.jpg" group-title="Canais | BBB",BBB Cam 05 SD
+
 http://camelo.vip:80/bru777322/Online99999/238699.m3u8
 #EXTINF:0 tvg-logo="" group-title="futebol", SPORTV 2
 https://01.vipcanaisplay.site/OB1rcavXsprtviOqkVCJTBJahe/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="https://docdog.top/logo/countries/brazil/sportv1.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 1
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4902
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://docdog.top/logo/countries/brazil/sportv2.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 2
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4903
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://docdog.top/logo/countries/brazil/sportv3.png" group-title="LAME | BRAZIL VIP",BR: SPORTV 3
 #EXTINF:0 tvg-logo="" group-title="futebol", na 
 https://agvyby.fubohd.com/premiere1/mono.m3u8
 
