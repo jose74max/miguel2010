@@ -13,3 +13,32 @@ https://canais.fazoeli.co.za/token/c18327027068c8b02fcb74f53eec20bf/espn.m3u8
 https://canais.fazoeli.co.za/token/d16ba55dea7769129adb9d610966ff98/espn.m3u8
 #EXTINF:0 tvg-logo="" group-title="futebol", PALMEIRAS
 https://anvtcax.fubohd.com/sportv/mono.m3u8?token=bc6f0723f99cd0629fd35b0763aaa648b22756b9-bc-1771646775-1771628775
+#EXTINF:-1  tvg-name="Espn 01 ᶠᴴᴰ" tvg-id="160" tvg-logo="https://img.inboxbr.pro/icones_channels/espn.png" group-title="ESPORTE",ESPN 01 ᶠᴴᴰ
+http://longitudenow.site:80/23876546/64567832/631064
+
+#EXTINF:-1  tvg-name="Espn 02 ᶠᴴᴰ" tvg-id="161" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-2.png" group-title="ESPORTE",ESPN 02 ᶠᴴᴰ
+http://longitudenow.site:80/23876546/64567832/5181930
+
+#EXTINF:-1  tvg-name="Espn 03 ᶠᴴᴰ²" tvg-id="162" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-3.png" group-title="ESPORTE",ESPN 03 ᶠᴴᴰ²
+http://longitudenow.site:80/23876546/64567832/5365872
+
+#EXTINF:-1  tvg-name="Espn 04 ᶠᴴᴰ²" tvg-id="163" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-4.png" group-title="ESPORTE",ESPN 04 ᶠᴴᴰ²
+http://longitudenow.site:80/23876546/64567832/5366329
+
+#EXTINF:-1  tvg-name="Espn 05 ᶠᴴᴰ²" tvg-id="164" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-5.png" group-title="ESPORTE",ESPN 05 ᶠᴴᴰ²
+http://longitudenow.site:80/23876546/64567832/5366751
+
+#EXTINF:-1  tvg-name="Espn 06 ᶠᴴᴰ²" tvg-id="165" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-6.png" group-title="ESPORTE",ESPN 06 ᶠᴴᴰ²
+http://longitudenow.site:80/23876546/64567832/5367286
+
+#EXTINF:-1  tvg-name="Espn ᶠᴴᴰ" tvg-id="166" tvg-logo="https://img.inboxbr.pro/icones_channels/espn.png" group-title="ESPORTE",ESPN ᶠᴴᴰ
+http://lojamais.cyou:80/162154782/978753257/404920
+
+#EXTINF:-1  tvg-name="Espn 2 ᶠᴴᴰ" tvg-id="167" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-2.png" group-title="ESPORTE",ESPN 2 ᶠᴴᴰ
+http://lojamais.cyou:80/162154782/978753257/337727
+
+#EXTINF:-1  tvg-name="Espn 3 ᶠᴴᴰ" tvg-id="168" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-3.png" group-title="ESPORTE",ESPN 3 ᶠᴴᴰ
+http://lojamais.cyou:80/162154782/978753257/338057
+
+#EXTINF:-1  tvg-name="Espn 4 ᶠᴴᴰ" tvg-id="169" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-4.png" group-title="ESPORTE",ESPN 4 ᶠᴴᴰ
+http://lojamais.cyou:80/162154782/978753257/141559
